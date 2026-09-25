@@ -1,0 +1,596 @@
+{
+  "connections": [
+    {
+      "center": [
+        23.15247917175293,
+        -21.094562530517578,
+        77.71526336669922
+      ],
+      "normal": [
+        -0.40844854712486267,
+        0.912314236164093,
+        -0.029198328033089638
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 697,
+      "checked_margin": 0.3987552225589752,
+      "a": "Kalkan_On_Panel",
+      "b": "Kalkan_Dis_Cerceve",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -4.692936897277832,
+        1.440014123916626,
+        136.83433532714844
+      ],
+      "normal": [
+        0.12561646103858948,
+        -0.33572694659233093,
+        -0.9335459470748901
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 623,
+      "checked_margin": 0.3767869174480438,
+      "a": "Bere_Bandi",
+      "b": "Sac",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -4.221510410308838,
+        -2.720353364944458,
+        127.2584228515625
+      ],
+      "normal": [
+        -0.08442921936511993,
+        0.559380292892456,
+        0.8246001601219177
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 605,
+      "checked_margin": 0.2579587996006012,
+      "a": "Yuz",
+      "b": "Sac",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -36.158103942871094,
+        2.4855518341064453,
+        73.11846923828125
+      ],
+      "normal": [
+        0.34279945492744446,
+        0.22814758121967316,
+        0.9112833142280579
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 492,
+      "checked_margin": 0.3153187334537506,
+      "a": "Sag_El",
+      "b": "Sag_Kol",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -8.52829360961914,
+        6.036995887756348,
+        139.36061096191406
+      ],
+      "normal": [
+        0.09408962726593018,
+        -0.2828431725502014,
+        -0.9545401930809021
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 429,
+      "checked_margin": 0.20317363739013672,
+      "a": "Bere",
+      "b": "Bere_Bandi",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -10.237956047058105,
+        26.822803497314453,
+        8.314445495605469
+      ],
+      "normal": [
+        0.00015371332119684666,
+        -0.0591750368475914,
+        -0.9982476234436035
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 330,
+      "checked_margin": 0.3999911844730377,
+      "a": "Kaide_Ustu_Tas",
+      "b": "Kaide",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -0.6228116750717163,
+        0.041462793946266174,
+        93.82014465332031
+      ],
+      "normal": [
+        -0.1765555590391159,
+        -0.7684108018875122,
+        -0.6151202321052551
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 226,
+      "checked_margin": 0.23171384632587433,
+      "a": "Sal",
+      "b": "Zirh_Arka",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -13.298553466796875,
+        -13.775653839111328,
+        66.54701232910156
+      ],
+      "normal": [
+        0.04113868251442909,
+        -0.387200266122818,
+        0.9210774302482605
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 190,
+      "checked_margin": 0.1789274364709854,
+      "a": "Pantolon",
+      "b": "Tunik_Etek",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        11.794856071472168,
+        -4.510077476501465,
+        34.533058166503906
+      ],
+      "normal": [
+        -0.2598503530025482,
+        -0.0868653878569603,
+        0.9617339372634888
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 169,
+      "checked_margin": 0.39999979734420776,
+      "a": "Sol_Bot",
+      "b": "Pantolon",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -34.30348205566406,
+        -1.5470538139343262,
+        10.298025131225586
+      ],
+      "normal": [
+        -0.01124588493257761,
+        0.004323253408074379,
+        -0.9999274015426636
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 164,
+      "checked_margin": 0.35399436950683594,
+      "a": "Sag_Bot",
+      "b": "Kaide",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -26.089248657226562,
+        1.557344913482666,
+        37.192413330078125
+      ],
+      "normal": [
+        0.19870507717132568,
+        -0.08045021444559097,
+        0.9767517447471619
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 162,
+      "checked_margin": 0.394837886095047,
+      "a": "Sag_Bot",
+      "b": "Pantolon",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -3.9878382682800293,
+        -12.809881210327148,
+        100.63706970214844
+      ],
+      "normal": [
+        -0.24768970906734467,
+        0.15415717661380768,
+        -0.9564964175224304
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 120,
+      "checked_margin": 0.16909544169902802,
+      "a": "Sal",
+      "b": "Zirh_On",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -3.4912900924682617,
+        -14.105823516845703,
+        69.42318725585938
+      ],
+      "normal": [
+        0.2562423646450043,
+        0.18074163794517517,
+        0.9495642781257629
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 68,
+      "checked_margin": 0.13974468410015106,
+      "a": "Tunik_Etek",
+      "b": "Zirh_On",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        29.646915435791016,
+        -18.52130889892578,
+        72.1427001953125
+      ],
+      "normal": [
+        -0.402802437543869,
+        0.9149866700172424,
+        -0.023444661870598793
+      ],
+      "radius": 2.5,
+      "length": 3.5,
+      "contact_samples": 35,
+      "checked_margin": 0.2718614637851715,
+      "a": "Kalkan_On_Panel",
+      "b": "Kalkan_Arka_Panel",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        20.372804641723633,
+        -26.555099487304688,
+        70.23187255859375
+      ],
+      "normal": [
+        -0.41788238286972046,
+        0.9079007506370544,
+        -0.033025484532117844
+      ],
+      "radius": 2.0,
+      "length": 3.0,
+      "contact_samples": 170,
+      "checked_margin": 0.1301840841770172,
+      "a": "Arma_Taban",
+      "b": "Kalkan_On_Panel",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -5.610896587371826,
+        -3.0474042892456055,
+        108.66999816894531
+      ],
+      "normal": [
+        0.04187142103910446,
+        -0.22370903193950653,
+        0.9737561941146851
+      ],
+      "radius": 2.0,
+      "length": 3.0,
+      "contact_samples": 42,
+      "checked_margin": 0.1883525848388672,
+      "a": "Sal",
+      "b": "Yuz",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        17.903526306152344,
+        -19.760046005249023,
+        74.42218017578125
+      ],
+      "normal": [
+        -0.0006849070778116584,
+        0.0004370991955511272,
+        0.9999996423721313
+      ],
+      "radius": 2.0,
+      "length": 3.0,
+      "contact_samples": 18,
+      "checked_margin": 0.4024675786495209,
+      "a": "Sol_El",
+      "b": "Sol_Kol",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -7.7860589027404785,
+        0.03991151228547096,
+        85.25830841064453
+      ],
+      "normal": [
+        0.030201368033885956,
+        0.9994455575942993,
+        0.014019993133842945
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 3145,
+      "checked_margin": 0.139653280377388,
+      "a": "Govde",
+      "b": "Zirh_Arka",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -3.503145694732666,
+        21.075403213500977,
+        87.80868530273438
+      ],
+      "normal": [
+        0.1694088578224182,
+        -0.19354893267154694,
+        0.9663536548614502
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 1828,
+      "checked_margin": 0.1458265483379364,
+      "a": "Sac_Bagi",
+      "b": "Sac",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -22.401119232177734,
+        0.43041640520095825,
+        124.97889709472656
+      ],
+      "normal": [
+        0.8292867541313171,
+        0.5456745028495789,
+        0.12051084637641907
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 1527,
+      "checked_margin": 0.14317665994167328,
+      "a": "Sac_Ic_2",
+      "b": "Sac",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -23.976123809814453,
+        5.547547817230225,
+        95.67559814453125
+      ],
+      "normal": [
+        -0.10499704629182816,
+        -0.32512998580932617,
+        -0.9398224353790283
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 53,
+      "checked_margin": 0.2412741780281067,
+      "a": "Sal",
+      "b": "Sag_Kol",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        11.061408996582031,
+        -11.23786735534668,
+        96.13339233398438
+      ],
+      "normal": [
+        -0.1536213606595993,
+        -0.02255193330347538,
+        -0.9878724217414856
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 42,
+      "checked_margin": 0.15490418672561646,
+      "a": "Sal",
+      "b": "Sol_Kol",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        7.541268348693848,
+        -22.18877601623535,
+        98.34687805175781
+      ],
+      "normal": [
+        0.276902437210083,
+        -0.9383281469345093,
+        0.20703905820846558
+      ],
+      "radius": 1.5,
+      "length": 2.7,
+      "contact_samples": 41,
+      "checked_margin": 0.21856804192066193,
+      "a": "Sal",
+      "b": "Kalkan_Dis_Cerceve",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -3.6383605003356934,
+        22.310707092285156,
+        85.90258026123047
+      ],
+      "normal": [
+        -0.19949500262737274,
+        0.4169529974460602,
+        -0.8867649435997009
+      ],
+      "radius": 1.1,
+      "length": 2.2,
+      "contact_samples": 1410,
+      "checked_margin": 0.2211012840270996,
+      "a": "Sac_Bagi",
+      "b": "Orgu_Ucu",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        -14.65827465057373,
+        -1.2559070587158203,
+        120.13313293457031
+      ],
+      "normal": [
+        0.27559182047843933,
+        0.26073572039604187,
+        0.9252383708953857
+      ],
+      "radius": 0.8,
+      "length": 1.7,
+      "contact_samples": 1001,
+      "checked_margin": 0.1362760066986084,
+      "a": "Sac_Ic_1",
+      "b": "Yuz",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "center": [
+        6.698661804199219,
+        4.907128810882568,
+        122.69744873046875
+      ],
+      "normal": [
+        -0.6905709505081177,
+        -0.2090217024087906,
+        0.6924028396606445
+      ],
+      "radius": 0.8,
+      "length": 1.7,
+      "contact_samples": 229,
+      "checked_margin": 0.14977774024009705,
+      "a": "Sol_Kulak",
+      "b": "Sac",
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3
+    },
+    {
+      "a": "Sag_Goz",
+      "b": "Yuz",
+      "center": [
+        -6.114285714285713,
+        -16.112091064453125,
+        125.76857142857145
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "radius": 0.9,
+      "length": 1.8,
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3,
+      "kind": "removable_eye"
+    },
+    {
+      "a": "Sol_Goz",
+      "b": "Yuz",
+      "center": [
+        7.799999999999995,
+        -8.30419921875,
+        123.80142857142856
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "radius": 0.9,
+      "length": 1.8,
+      "nominal_diametral_clearance_mm": 0.25,
+      "socket_bottom_allowance_mm": 0.3,
+      "kind": "removable_eye"
+    }
+  ],
+  "structural_groups": [
+    [
+      "Arma_Taban",
+      "Bere",
+      "Bere_Bandi",
+      "Govde",
+      "Kaide",
+      "Kaide_Ustu_Tas",
+      "Kalkan_Arka_Panel",
+      "Kalkan_Dis_Cerceve",
+      "Kalkan_On_Panel",
+      "Orgu_Ucu",
+      "Pantolon",
+      "Sac",
+      "Sac_Bagi",
+      "Sac_Ic_1",
+      "Sac_Ic_2",
+      "Sag_Bot",
+      "Sag_El",
+      "Sag_Goz",
+      "Sag_Kol",
+      "Sal",
+      "Sol_Bot",
+      "Sol_El",
+      "Sol_Goz",
+      "Sol_Kol",
+      "Sol_Kulak",
+      "Tunik_Etek",
+      "Yuz",
+      "Zirh_Arka",
+      "Zirh_On"
+    ]
+  ],
+  "core_part_count": 29
+}

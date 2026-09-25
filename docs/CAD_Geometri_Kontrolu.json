@@ -1,0 +1,2297 @@
+[
+  {
+    "name": "Kaide",
+    "faces": 689632,
+    "bad_edges": 0,
+    "volume_mm3": 56866.443829788645,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 344746,
+        "volume_mm3": 56866.443829788645
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Kaide_Ustu_Tas",
+    "faces": 2248696,
+    "bad_edges": 0,
+    "volume_mm3": 10394.902942543362,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2248688,
+        "volume_mm3": 10394.904446282113
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sag_Bot",
+    "faces": 58303,
+    "bad_edges": 0,
+    "volume_mm3": 4083.3550780317705,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 29507,
+        "volume_mm3": 4083.3545738835364
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sol_Bot",
+    "faces": 57405,
+    "bad_edges": 0,
+    "volume_mm3": 3702.153863050942,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 28891,
+        "volume_mm3": 3702.153530967277
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Pantolon",
+    "faces": 68024,
+    "bad_edges": 0,
+    "volume_mm3": 16498.21479901818,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 34478,
+        "volume_mm3": 16498.215047658803
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Govde",
+    "faces": 6256,
+    "bad_edges": 0,
+    "volume_mm3": 1729.289158513637,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6239,
+        "volume_mm3": 1729.2889940313428
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Zirh_On",
+    "faces": 374036,
+    "bad_edges": 0,
+    "volume_mm3": 7520.504502377611,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 187014,
+        "volume_mm3": 7520.504502377611
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Zirh_Arka",
+    "faces": 55549,
+    "bad_edges": 0,
+    "volume_mm3": 5907.216240480568,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 30057,
+        "volume_mm3": 5907.2797319280635
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Tunik_Etek",
+    "faces": 605488,
+    "bad_edges": 0,
+    "volume_mm3": 7217.573298421565,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 302687,
+        "volume_mm3": 7217.573298421565
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sag_Kol",
+    "faces": 358709,
+    "bad_edges": 0,
+    "volume_mm3": 2294.4605238400395,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 200694,
+        "volume_mm3": 2294.4598482162123
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Sol_Kol",
+    "faces": 357406,
+    "bad_edges": 0,
+    "volume_mm3": 2482.1250333421444,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 187869,
+        "volume_mm3": 2482.1262788799972
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Sag_El",
+    "faces": 13691,
+    "bad_edges": 0,
+    "volume_mm3": 805.8295905125101,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 7056,
+        "volume_mm3": 805.8289487525981
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sol_El",
+    "faces": 47462,
+    "bad_edges": 0,
+    "volume_mm3": 827.1399868539347,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 23729,
+        "volume_mm3": 827.1399868539347
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sal",
+    "faces": 358989,
+    "bad_edges": 0,
+    "volume_mm3": 13398.918720797059,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 180507,
+        "volume_mm3": 13398.919912230032
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Yuz",
+    "faces": 1473278,
+    "bad_edges": 0,
+    "volume_mm3": 8052.116212801013,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 736629,
+        "volume_mm3": 8052.116212801013
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Sac",
+    "faces": 409620,
+    "bad_edges": 0,
+    "volume_mm3": 22075.50722233431,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 204736,
+        "volume_mm3": 22075.50722233431
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Sac_Ic_1",
+    "faces": 6024,
+    "bad_edges": 0,
+    "volume_mm3": 97.96963936294023,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3014,
+        "volume_mm3": 97.96963936294023
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sac_Ic_2",
+    "faces": 7042,
+    "bad_edges": 0,
+    "volume_mm3": 105.38959369258747,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3689,
+        "volume_mm3": 105.38800315866206
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Orgu_Ucu",
+    "faces": 49763,
+    "bad_edges": 0,
+    "volume_mm3": 579.2905681327163,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 49877,
+        "volume_mm3": 579.2920910924548
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Sac_Bagi",
+    "faces": 5566,
+    "bad_edges": 0,
+    "volume_mm3": 96.61063210665603,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3150,
+        "volume_mm3": 96.61111914824181
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Sol_Kulak",
+    "faces": 2703,
+    "bad_edges": 0,
+    "volume_mm3": 53.90074467045066,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1495,
+        "volume_mm3": 53.900165797143785
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Bere",
+    "faces": 26965,
+    "bad_edges": 0,
+    "volume_mm3": 10090.732516336006,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 13634,
+        "volume_mm3": 10090.736429331251
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Bere_Bandi",
+    "faces": 404208,
+    "bad_edges": 0,
+    "volume_mm3": 4202.142598299461,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 202078,
+        "volume_mm3": 4202.142598299461
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Kalkan_Arka_Panel",
+    "faces": 61942,
+    "bad_edges": 0,
+    "volume_mm3": 7689.148458505485,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 31108,
+        "volume_mm3": 7689.14748130559
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Kalkan_On_Panel",
+    "faces": 357064,
+    "bad_edges": 0,
+    "volume_mm3": 5529.838772742952,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 179142,
+        "volume_mm3": 5529.841802146944
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Kalkan_Dis_Cerceve",
+    "faces": 67618,
+    "bad_edges": 0,
+    "volume_mm3": 15017.015211279198,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 34031,
+        "volume_mm3": 15017.012648837537
+      }
+    ],
+    "parent": null,
+    "connection": "D_socket"
+  },
+  {
+    "name": "Arma_Taban",
+    "faces": 359100,
+    "bad_edges": 0,
+    "volume_mm3": 1380.3379212067978,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 179456,
+        "volume_mm3": 1380.3379212067978
+      }
+    ],
+    "parent": null,
+    "connection": "D_pin"
+  },
+  {
+    "name": "Arma_Atli_Kabartma_01",
+    "faces": 504156,
+    "bad_edges": 0,
+    "volume_mm3": 224.57490444573276,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 504134,
+        "volume_mm3": 224.57219746426875
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kemer_Tokasi_01",
+    "faces": 17058,
+    "bad_edges": 0,
+    "volume_mm3": 23.001171324868633,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 17054,
+        "volume_mm3": 23.003424582743243
+      }
+    ],
+    "parent": "Zirh_On",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sal_Brosu_01",
+    "faces": 18060,
+    "bad_edges": 0,
+    "volume_mm3": 44.93573434500468,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 18056,
+        "volume_mm3": 44.938963002255626
+      }
+    ],
+    "parent": "Zirh_On",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_01",
+    "faces": 272058,
+    "bad_edges": 0,
+    "volume_mm3": 96.85403758830894,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 272046,
+        "volume_mm3": 96.85035912338796
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_01_Bolum_2",
+    "faces": 65064,
+    "bad_edges": 0,
+    "volume_mm3": 21.271270093842755,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 65066,
+        "volume_mm3": 21.272169538909555
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_02",
+    "faces": 27656,
+    "bad_edges": 0,
+    "volume_mm3": 8.997535302049993,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 13828,
+        "volume_mm3": 8.997535302049993
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_03",
+    "faces": 4250,
+    "bad_edges": 0,
+    "volume_mm3": 6.1915388836645215,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4363,
+        "volume_mm3": 6.1899834641594325
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_04",
+    "faces": 8796,
+    "bad_edges": 0,
+    "volume_mm3": 6.340175761683597,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4400,
+        "volume_mm3": 6.340175761683597
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_05",
+    "faces": 7568,
+    "bad_edges": 0,
+    "volume_mm3": 5.731453314068618,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3786,
+        "volume_mm3": 5.731453314068618
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_06",
+    "faces": 3799,
+    "bad_edges": 0,
+    "volume_mm3": 6.782121190340311,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3837,
+        "volume_mm3": 6.782693809886958
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_07",
+    "faces": 3956,
+    "bad_edges": 0,
+    "volume_mm3": 6.733484860864653,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4013,
+        "volume_mm3": 6.732997231821555
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_08",
+    "faces": 2884,
+    "bad_edges": 0,
+    "volume_mm3": 2.577972381425635,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2886,
+        "volume_mm3": 2.577680037967065
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_09",
+    "faces": 2968,
+    "bad_edges": 0,
+    "volume_mm3": 3.4803893866178135,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2970,
+        "volume_mm3": 3.4804305207094273
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_10",
+    "faces": 2640,
+    "bad_edges": 0,
+    "volume_mm3": 3.037835571820594,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2642,
+        "volume_mm3": 3.037483861957554
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_11",
+    "faces": 1986,
+    "bad_edges": 0,
+    "volume_mm3": 2.6669592552612884,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1988,
+        "volume_mm3": 2.6669960090990776
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_12",
+    "faces": 6648,
+    "bad_edges": 0,
+    "volume_mm3": 2.0911657693833607,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3324,
+        "volume_mm3": 2.0911657693833607
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_13",
+    "faces": 1822,
+    "bad_edges": 0,
+    "volume_mm3": 2.1252206040693564,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1824,
+        "volume_mm3": 2.1244914692018413
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_14",
+    "faces": 2112,
+    "bad_edges": 0,
+    "volume_mm3": 2.5060340180187866,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2114,
+        "volume_mm3": 2.505395833737641
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_15",
+    "faces": 1630,
+    "bad_edges": 0,
+    "volume_mm3": 1.9818923203976961,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1632,
+        "volume_mm3": 1.9826057666741836
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_16",
+    "faces": 1672,
+    "bad_edges": 0,
+    "volume_mm3": 1.8144739469164641,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1674,
+        "volume_mm3": 1.8147557251957405
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_17",
+    "faces": 1842,
+    "bad_edges": 0,
+    "volume_mm3": 2.3366744294892436,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1844,
+        "volume_mm3": 2.3373555248812248
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_18",
+    "faces": 5284,
+    "bad_edges": 0,
+    "volume_mm3": 2.000096888114121,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2644,
+        "volume_mm3": 2.000096888114121
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_19",
+    "faces": 3752,
+    "bad_edges": 0,
+    "volume_mm3": 1.655490422599157,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1879,
+        "volume_mm3": 1.655490422599157
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_21",
+    "faces": 3104,
+    "bad_edges": 0,
+    "volume_mm3": 1.482032212728577,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1554,
+        "volume_mm3": 1.482032212728577
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_24",
+    "faces": 1330,
+    "bad_edges": 0,
+    "volume_mm3": 1.324198146558868,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1332,
+        "volume_mm3": 1.3239503479904469
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_01",
+    "faces": 46304,
+    "bad_edges": 0,
+    "volume_mm3": 285.23196956893275,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 46300,
+        "volume_mm3": 285.2275317454191
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_02",
+    "faces": 26200,
+    "bad_edges": 0,
+    "volume_mm3": 169.6564557409406,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 26202,
+        "volume_mm3": 169.65530026457012
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_03",
+    "faces": 56506,
+    "bad_edges": 0,
+    "volume_mm3": 53.00533276770368,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 28255,
+        "volume_mm3": 53.00533276770368
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_04",
+    "faces": 23722,
+    "bad_edges": 0,
+    "volume_mm3": 64.58468243412135,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 23722,
+        "volume_mm3": 64.59186297875598
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_05",
+    "faces": 17148,
+    "bad_edges": 0,
+    "volume_mm3": 45.74189340767398,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 17150,
+        "volume_mm3": 45.74228330029059
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_06",
+    "faces": 36408,
+    "bad_edges": 0,
+    "volume_mm3": 41.092465409342914,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 18206,
+        "volume_mm3": 41.092465409342914
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_07",
+    "faces": 31564,
+    "bad_edges": 0,
+    "volume_mm3": 41.66832662496389,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 15784,
+        "volume_mm3": 41.66832662496389
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_08",
+    "faces": 7804,
+    "bad_edges": 0,
+    "volume_mm3": 4.524784467717025,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3902,
+        "volume_mm3": 4.524784467717025
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Kirmizi_09",
+    "faces": 5222,
+    "bad_edges": 0,
+    "volume_mm3": 2.996483837509989,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 5222,
+        "volume_mm3": 2.996514105787414
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Orgu_Ucu_Kirmizi_Bag_01",
+    "faces": 79028,
+    "bad_edges": 0,
+    "volume_mm3": 29.260856982848473,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 79028,
+        "volume_mm3": 29.26028932675297
+      }
+    ],
+    "parent": "Orgu_Ucu",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Orgu_Ucu_Kirmizi_Bag_02",
+    "faces": 1994,
+    "bad_edges": 0,
+    "volume_mm3": 2.402799070441549,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1996,
+        "volume_mm3": 2.402404334803705
+      }
+    ],
+    "parent": "Orgu_Ucu",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sac_Kirmizi_Bag_01",
+    "faces": 162190,
+    "bad_edges": 0,
+    "volume_mm3": 93.92414484008684,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 162190,
+        "volume_mm3": 93.92496501866371
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sac_Kirmizi_Bag_02",
+    "faces": 14554,
+    "bad_edges": 0,
+    "volume_mm3": 13.847749342524587,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 7279,
+        "volume_mm3": 13.847749342524587
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_01",
+    "faces": 315960,
+    "bad_edges": 0,
+    "volume_mm3": 142.54694572742758,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 315960,
+        "volume_mm3": 142.5452706609784
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_02",
+    "faces": 134754,
+    "bad_edges": 0,
+    "volume_mm3": 23.822322939582826,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 67373,
+        "volume_mm3": 23.822322939582826
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_03",
+    "faces": 18334,
+    "bad_edges": 0,
+    "volume_mm3": 17.726818381763362,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 18334,
+        "volume_mm3": 17.726118664018692
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_04",
+    "faces": 29478,
+    "bad_edges": 0,
+    "volume_mm3": 5.070451773217839,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 29476,
+        "volume_mm3": 5.07057196542586
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_05",
+    "faces": 4536,
+    "bad_edges": 0,
+    "volume_mm3": 8.194670158611205,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4538,
+        "volume_mm3": 8.19441241269811
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_06",
+    "faces": 9408,
+    "bad_edges": 0,
+    "volume_mm3": 4.27786401065218,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4702,
+        "volume_mm3": 4.27786401065218
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_07",
+    "faces": 8272,
+    "bad_edges": 0,
+    "volume_mm3": 3.1827260922016305,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4138,
+        "volume_mm3": 3.1827260922016305
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_08",
+    "faces": 2516,
+    "bad_edges": 0,
+    "volume_mm3": 3.469890306471961,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2518,
+        "volume_mm3": 3.470375618607486
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_10",
+    "faces": 1811,
+    "bad_edges": 0,
+    "volume_mm3": 1.8684163183081375,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1846,
+        "volume_mm3": 1.8682632512026411
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_11",
+    "faces": 3398,
+    "bad_edges": 0,
+    "volume_mm3": 1.6005801214932351,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1701,
+        "volume_mm3": 1.6005801214932351
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_12",
+    "faces": 2486,
+    "bad_edges": 0,
+    "volume_mm3": 1.02064606829926,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1245,
+        "volume_mm3": 1.02064606829926
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_13",
+    "faces": 1676,
+    "bad_edges": 0,
+    "volume_mm3": 1.7486438970431855,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1674,
+        "volume_mm3": 1.7486265840349104
+      }
+    ],
+    "parent": "Sag_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_01",
+    "faces": 34454,
+    "bad_edges": 0,
+    "volume_mm3": 18.737854941647573,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 17221,
+        "volume_mm3": 18.737854941647573
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_02",
+    "faces": 78274,
+    "bad_edges": 0,
+    "volume_mm3": 14.21784267543511,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 78274,
+        "volume_mm3": 14.218000928108516
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_03",
+    "faces": 21814,
+    "bad_edges": 0,
+    "volume_mm3": 18.358201550599546,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 10909,
+        "volume_mm3": 18.358201550599546
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_04",
+    "faces": 19386,
+    "bad_edges": 0,
+    "volume_mm3": 14.10321624873588,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 9693,
+        "volume_mm3": 14.10321624873588
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_05",
+    "faces": 20060,
+    "bad_edges": 0,
+    "volume_mm3": 13.536049812759549,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 10030,
+        "volume_mm3": 13.536049812759549
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_06",
+    "faces": 6556,
+    "bad_edges": 0,
+    "volume_mm3": 12.263961171738684,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6558,
+        "volume_mm3": 12.264785265383122
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_07",
+    "faces": 16850,
+    "bad_edges": 0,
+    "volume_mm3": 7.578159159813126,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 8426,
+        "volume_mm3": 7.578159159813126
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_08",
+    "faces": 2490,
+    "bad_edges": 0,
+    "volume_mm3": 3.095095415619998,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2492,
+        "volume_mm3": 3.0954797187579515
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_09",
+    "faces": 2321,
+    "bad_edges": 0,
+    "volume_mm3": 3.197740140181682,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2382,
+        "volume_mm3": 3.1976796572495045
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_10",
+    "faces": 6214,
+    "bad_edges": 0,
+    "volume_mm3": 3.143018567951996,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3108,
+        "volume_mm3": 3.143018567951996
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_11",
+    "faces": 5744,
+    "bad_edges": 0,
+    "volume_mm3": 3.982348589856432,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2872,
+        "volume_mm3": 3.982348589856432
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_12",
+    "faces": 2586,
+    "bad_edges": 0,
+    "volume_mm3": 2.6119569018664124,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2586,
+        "volume_mm3": 2.612446763436023
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_13",
+    "faces": 3668,
+    "bad_edges": 0,
+    "volume_mm3": 2.929246100934325,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3670,
+        "volume_mm3": 2.9283204236779796
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_14",
+    "faces": 4948,
+    "bad_edges": 0,
+    "volume_mm3": 3.2435255121743323,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2476,
+        "volume_mm3": 3.2435255121743323
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_15",
+    "faces": 1638,
+    "bad_edges": 0,
+    "volume_mm3": 1.6653693112468677,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1640,
+        "volume_mm3": 1.6659145592206752
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_16",
+    "faces": 1362,
+    "bad_edges": 0,
+    "volume_mm3": 1.5629362361366608,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1377,
+        "volume_mm3": 1.5629864436032288
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_18",
+    "faces": 1614,
+    "bad_edges": 0,
+    "volume_mm3": 1.8121181231312584,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1616,
+        "volume_mm3": 1.8125240734517838
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_24",
+    "faces": 1148,
+    "bad_edges": 0,
+    "volume_mm3": 1.0032693404158806,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1150,
+        "volume_mm3": 1.003818819788315
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_28",
+    "faces": 3414,
+    "bad_edges": 0,
+    "volume_mm3": 1.4316454046632823,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1709,
+        "volume_mm3": 1.4316454046632823
+      }
+    ],
+    "parent": "Sol_Kol",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_01",
+    "faces": 359072,
+    "bad_edges": 0,
+    "volume_mm3": 1008.7101084840376,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 179532,
+        "volume_mm3": 1008.7107397357256
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_02",
+    "faces": 138590,
+    "bad_edges": 0,
+    "volume_mm3": 37.47237136650999,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 138592,
+        "volume_mm3": 37.47182372493138
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_03",
+    "faces": 22914,
+    "bad_edges": 0,
+    "volume_mm3": 32.24871639635905,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 22916,
+        "volume_mm3": 32.253307064913194
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_04",
+    "faces": 99430,
+    "bad_edges": 0,
+    "volume_mm3": 33.58879769724004,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 99430,
+        "volume_mm3": 33.588873146642435
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_05",
+    "faces": 21036,
+    "bad_edges": 0,
+    "volume_mm3": 19.139322752454774,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 10520,
+        "volume_mm3": 19.139322752454774
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_06",
+    "faces": 69602,
+    "bad_edges": 0,
+    "volume_mm3": 19.731593173270145,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 69604,
+        "volume_mm3": 19.73144130265754
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_07",
+    "faces": 15758,
+    "bad_edges": 0,
+    "volume_mm3": 25.880685181527042,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 15760,
+        "volume_mm3": 25.883753288252613
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_08",
+    "faces": 7952,
+    "bad_edges": 0,
+    "volume_mm3": 4.19731415889342,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 7942,
+        "volume_mm3": 4.196688537412066
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_09",
+    "faces": 6306,
+    "bad_edges": 0,
+    "volume_mm3": 8.038605927574624,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6308,
+        "volume_mm3": 8.03703801754523
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_10",
+    "faces": 11804,
+    "bad_edges": 0,
+    "volume_mm3": 7.622604358064992,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 5900,
+        "volume_mm3": 7.622604358064992
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_11",
+    "faces": 4572,
+    "bad_edges": 0,
+    "volume_mm3": 7.236445041336386,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4574,
+        "volume_mm3": 7.236215470392002
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_12",
+    "faces": 19274,
+    "bad_edges": 0,
+    "volume_mm3": 5.6962844913159305,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 19276,
+        "volume_mm3": 5.696336860785944
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_13",
+    "faces": 10484,
+    "bad_edges": 0,
+    "volume_mm3": 6.082438992794518,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 5244,
+        "volume_mm3": 6.082438992794518
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_14",
+    "faces": 3774,
+    "bad_edges": 0,
+    "volume_mm3": 6.338344673833477,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3776,
+        "volume_mm3": 6.338128886808451
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_15",
+    "faces": 5454,
+    "bad_edges": 0,
+    "volume_mm3": 4.117675065052687,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2729,
+        "volume_mm3": 4.117675065052687
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_16",
+    "faces": 4541,
+    "bad_edges": 0,
+    "volume_mm3": 5.342669484939747,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6615,
+        "volume_mm3": 5.3430619457780315
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_17",
+    "faces": 3534,
+    "bad_edges": 0,
+    "volume_mm3": 5.583032182576413,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3536,
+        "volume_mm3": 5.583358257083122
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_18",
+    "faces": 2864,
+    "bad_edges": 0,
+    "volume_mm3": 4.987018017126519,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2866,
+        "volume_mm3": 4.987372351798776
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_19",
+    "faces": 2461,
+    "bad_edges": 0,
+    "volume_mm3": 3.2257913859434035,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2513,
+        "volume_mm3": 3.225557298418072
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_20",
+    "faces": 2168,
+    "bad_edges": 0,
+    "volume_mm3": 2.606342935938404,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2170,
+        "volume_mm3": 2.6058685015130743
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_21",
+    "faces": 2178,
+    "bad_edges": 0,
+    "volume_mm3": 3.1287022517446874,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2180,
+        "volume_mm3": 3.1285965170719368
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_22",
+    "faces": 2374,
+    "bad_edges": 0,
+    "volume_mm3": 2.9807731700171467,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2376,
+        "volume_mm3": 2.9808088429689823
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_23",
+    "faces": 8128,
+    "bad_edges": 0,
+    "volume_mm3": 2.6834094658632908,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4066,
+        "volume_mm3": 2.6834094658632908
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_24",
+    "faces": 2672,
+    "bad_edges": 0,
+    "volume_mm3": 3.8610773805735423,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2674,
+        "volume_mm3": 3.8610647848598445
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_26",
+    "faces": 3424,
+    "bad_edges": 0,
+    "volume_mm3": 2.0914752861852954,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1714,
+        "volume_mm3": 2.0914752861852954
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_27",
+    "faces": 5930,
+    "bad_edges": 0,
+    "volume_mm3": 3.1621720771949042,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2967,
+        "volume_mm3": 3.1621720771949042
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_28",
+    "faces": 4110,
+    "bad_edges": 0,
+    "volume_mm3": 2.0536608787224084,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2057,
+        "volume_mm3": 2.0536608787224084
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_29",
+    "faces": 1939,
+    "bad_edges": 0,
+    "volume_mm3": 2.8084298720198553,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1948,
+        "volume_mm3": 2.808407231224916
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_30",
+    "faces": 4580,
+    "bad_edges": 0,
+    "volume_mm3": 2.126168374186366,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 2292,
+        "volume_mm3": 2.126168374186366
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_31",
+    "faces": 1563,
+    "bad_edges": 0,
+    "volume_mm3": 2.09478514486789,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1582,
+        "volume_mm3": 2.094466717993444
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_32",
+    "faces": 3694,
+    "bad_edges": 0,
+    "volume_mm3": 1.7974907148459378,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1849,
+        "volume_mm3": 1.7974907148459378
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_33",
+    "faces": 7170,
+    "bad_edges": 0,
+    "volume_mm3": 1.4924934302629584,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 3587,
+        "volume_mm3": 1.4924934302629584
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_34",
+    "faces": 1892,
+    "bad_edges": 0,
+    "volume_mm3": 1.52593080261701,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1960,
+        "volume_mm3": 1.5255259793752494
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_35",
+    "faces": 1740,
+    "bad_edges": 0,
+    "volume_mm3": 1.7505498305766547,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1742,
+        "volume_mm3": 1.7502584438850526
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_36",
+    "faces": 3462,
+    "bad_edges": 0,
+    "volume_mm3": 1.7566669458932844,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 1733,
+        "volume_mm3": 1.7566669458932844
+      }
+    ],
+    "parent": "Tunik_Etek",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_01",
+    "faces": 880646,
+    "bad_edges": 0,
+    "volume_mm3": 590.0671336256656,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 880614,
+        "volume_mm3": 590.0645324449066
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_02",
+    "faces": 51740,
+    "bad_edges": 0,
+    "volume_mm3": 239.79638711232528,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 51738,
+        "volume_mm3": 239.8038336667774
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_03",
+    "faces": 17906,
+    "bad_edges": 0,
+    "volume_mm3": 43.85343908732107,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 17908,
+        "volume_mm3": 43.858023162490255
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_04",
+    "faces": 4966,
+    "bad_edges": 0,
+    "volume_mm3": 3.5833257343941067,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 4963,
+        "volume_mm3": 3.5837398221202714
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_05",
+    "faces": 14700,
+    "bad_edges": 0,
+    "volume_mm3": 10.98808989969679,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 7350,
+        "volume_mm3": 10.98808989969679
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Arma_Beyaz_06",
+    "faces": 8152,
+    "bad_edges": 0,
+    "volume_mm3": 3.416238585430928,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 8154,
+        "volume_mm3": 3.4164559887680617
+      }
+    ],
+    "parent": "Arma_Taban",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_01",
+    "faces": 386354,
+    "bad_edges": 0,
+    "volume_mm3": 115.9491363043655,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 386330,
+        "volume_mm3": 115.9466449681067
+      }
+    ],
+    "parent": "Bere_Bandi",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_02",
+    "faces": 197162,
+    "bad_edges": 0,
+    "volume_mm3": 41.1018647769948,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 197116,
+        "volume_mm3": 41.10252705203068
+      }
+    ],
+    "parent": "Bere_Bandi",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_02_Bolum_2",
+    "faces": 13292,
+    "bad_edges": 0,
+    "volume_mm3": 1.6021179741273681,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 13282,
+        "volume_mm3": 1.6023915399015338
+      }
+    ],
+    "parent": "Bere_Bandi",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_03",
+    "faces": 115246,
+    "bad_edges": 0,
+    "volume_mm3": 21.03752811559147,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 115214,
+        "volume_mm3": 21.037590810870505
+      }
+    ],
+    "parent": "Bere_Bandi",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Desen_Beyaz_01",
+    "faces": 413264,
+    "bad_edges": 0,
+    "volume_mm3": 103.63396465707247,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 413215,
+        "volume_mm3": 103.63390179863094
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Bere_Desen_Beyaz_02",
+    "faces": 10184,
+    "bad_edges": 0,
+    "volume_mm3": 4.50057995816655,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 5094,
+        "volume_mm3": 4.50057995816655
+      }
+    ],
+    "parent": "Sac",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Beyaz_01",
+    "faces": 36590,
+    "bad_edges": 0,
+    "volume_mm3": 48.236260671384635,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 18291,
+        "volume_mm3": 48.236260671384635
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Beyaz_02",
+    "faces": 186544,
+    "bad_edges": 0,
+    "volume_mm3": 55.80592658603724,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 93272,
+        "volume_mm3": 55.80592658603724
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Beyaz_03",
+    "faces": 15196,
+    "bad_edges": 0,
+    "volume_mm3": 41.70070043255589,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 15198,
+        "volume_mm3": 41.702441461018026
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kaide_Beyaz_04",
+    "faces": 16492,
+    "bad_edges": 0,
+    "volume_mm3": 40.09227912528643,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 16494,
+        "volume_mm3": 40.09630307025237
+      }
+    ],
+    "parent": "Kaide",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_01",
+    "faces": 373140,
+    "bad_edges": 0,
+    "volume_mm3": 202.67702302780597,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 373140,
+        "volume_mm3": 202.67615144011796
+      }
+    ],
+    "parent": "Kalkan_On_Panel",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_02",
+    "faces": 293316,
+    "bad_edges": 0,
+    "volume_mm3": 179.5043540782333,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 293318,
+        "volume_mm3": 179.50422738964176
+      }
+    ],
+    "parent": "Kalkan_On_Panel",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_03",
+    "faces": 78118,
+    "bad_edges": 0,
+    "volume_mm3": 93.10387013318032,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 39061,
+        "volume_mm3": 93.10387013318032
+      }
+    ],
+    "parent": "Kalkan_On_Panel",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_04",
+    "faces": 23574,
+    "bad_edges": 0,
+    "volume_mm3": 62.44025615056239,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 23576,
+        "volume_mm3": 62.43943221950987
+      }
+    ],
+    "parent": "Kalkan_On_Panel",
+    "connection": "profile_inlay"
+  },
+  {
+    "name": "Sag_Goz",
+    "faces": 13160,
+    "bad_edges": 0,
+    "volume_mm3": 67.75247672746313,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6582,
+        "volume_mm3": 67.75247672746313
+      }
+    ],
+    "parent": "P015_Yuz",
+    "connection": "profile_and_D_pin"
+  },
+  {
+    "name": "Sol_Goz",
+    "faces": 12848,
+    "bad_edges": 0,
+    "volume_mm3": 50.76244146323934,
+    "component_count": 1,
+    "components": [
+      {
+        "vertices": 6426,
+        "volume_mm3": 50.76244146323934
+      }
+    ],
+    "parent": "P015_Yuz",
+    "connection": "profile_and_D_pin"
+  }
+]

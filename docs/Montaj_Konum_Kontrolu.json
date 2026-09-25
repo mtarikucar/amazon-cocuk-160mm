@@ -1,0 +1,12 @@
+{
+  "assembled_scene": "MONTAJ_160mm",
+  "part_count": 153,
+  "assembly_size_mm": [
+    101.43004608154297,
+    89.07682037353516,
+    159.99984741210938
+  ],
+  "assembly_object_locations_unchanged_by_exploded_scene": true,
+  "exploded_objects_are_independent": true,
+  "stl_assembly_translations_recomputed": true
+}

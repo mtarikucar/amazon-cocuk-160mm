@@ -1,0 +1,877 @@
+[
+  {
+    "name": "Kaide_Beyaz_01",
+    "parent": "Kaide",
+    "vertices_sampled": 1010,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Beyaz_02",
+    "parent": "Kaide",
+    "vertices_sampled": 1003,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Beyaz_03",
+    "parent": "Kaide",
+    "vertices_sampled": 1014,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Beyaz_04",
+    "parent": "Kaide",
+    "vertices_sampled": 1031,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_01",
+    "parent": "Kaide",
+    "vertices_sampled": 1007,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_02",
+    "parent": "Kaide",
+    "vertices_sampled": 1008,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_03",
+    "parent": "Kaide",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_04",
+    "parent": "Kaide",
+    "vertices_sampled": 1032,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_05",
+    "parent": "Kaide",
+    "vertices_sampled": 1009,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_06",
+    "parent": "Kaide",
+    "vertices_sampled": 1002,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_07",
+    "parent": "Kaide",
+    "vertices_sampled": 1050,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_08",
+    "parent": "Kaide",
+    "vertices_sampled": 1297,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Kirmizi_09",
+    "parent": "Kaide",
+    "vertices_sampled": 1045,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kaide_Ustu_Tas",
+    "parent": "Kaide",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_01",
+    "parent": "Bere_Bandi",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_02",
+    "parent": "Bere_Bandi",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_03",
+    "parent": "Bere_Bandi",
+    "vertices_sampled": 1002,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bandi_Beyaz_02_Bolum_2",
+    "parent": "Bere_Bandi",
+    "vertices_sampled": 1022,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_01",
+    "parent": "Kalkan_On_Panel",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_02",
+    "parent": "Kalkan_On_Panel",
+    "vertices_sampled": 1002,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_03",
+    "parent": "Kalkan_On_Panel",
+    "vertices_sampled": 1024,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kalkan_On_Panel_Beyaz_04",
+    "parent": "Kalkan_On_Panel",
+    "vertices_sampled": 1026,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_01",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_02",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1015,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_03",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1054,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_04",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1241,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_05",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1040,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Beyaz_06",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1020,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Arma_Atli_Kabartma_01",
+    "parent": "Arma_Taban",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Orgu_Ucu_Kirmizi_Bag_01",
+    "parent": "Orgu_Ucu",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Orgu_Ucu_Kirmizi_Bag_02",
+    "parent": "Orgu_Ucu",
+    "vertices_sampled": 1996,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_01",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_02",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1006,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_03",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1019,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_04",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1017,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_05",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1135,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_06",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1164,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_07",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1024,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_08",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1259,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_10",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1846,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_11",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1690,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_12",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1190,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sag_Kol_Kirmizi_13",
+    "parent": "Sag_Kol",
+    "vertices_sampled": 1674,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_01",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1012,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_02",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_03",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1088,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_04",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1076,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_05",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1108,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_06",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1093,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_07",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1050,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_08",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1246,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_09",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1191,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_10",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1028,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_11",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1400,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_12",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1293,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_13",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1224,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_14",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1231,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_15",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1640,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_16",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1377,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_18",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1616,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_24",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1150,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sol_Kol_El_Kirmizi_28",
+    "parent": "Sol_Kol",
+    "vertices_sampled": 1669,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_01",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1003,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_02",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1005,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_03",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1042,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_04",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1005,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_05",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1044,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_06",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1009,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_07",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1051,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_08",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1135,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_09",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1052,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_10",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1168,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_11",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1144,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_12",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1015,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_13",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1043,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_14",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1259,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_15",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1354,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_16",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1103,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_17",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1179,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_18",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1433,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_19",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1257,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_20",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1085,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_21",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1090,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_22",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1188,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_23",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1012,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_24",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1337,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_26",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1702,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_27",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1442,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_28",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1016,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_29",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1948,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_30",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1146,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_31",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1582,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_32",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1803,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_33",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1191,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_34",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1960,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_35",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1742,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Tunik_Etek_Kirmizi_36",
+    "parent": "Tunik_Etek",
+    "vertices_sampled": 1706,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Desen_Beyaz_01",
+    "parent": "Sac",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Desen_Beyaz_02",
+    "parent": "Sac",
+    "vertices_sampled": 1011,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_01",
+    "parent": "Sac",
+    "vertices_sampled": 1001,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_02",
+    "parent": "Sac",
+    "vertices_sampled": 1063,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_03",
+    "parent": "Sac",
+    "vertices_sampled": 1091,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_04",
+    "parent": "Sac",
+    "vertices_sampled": 1097,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_05",
+    "parent": "Sac",
+    "vertices_sampled": 1258,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_06",
+    "parent": "Sac",
+    "vertices_sampled": 1279,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_07",
+    "parent": "Sac",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_08",
+    "parent": "Sac",
+    "vertices_sampled": 1443,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_09",
+    "parent": "Sac",
+    "vertices_sampled": 1485,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_10",
+    "parent": "Sac",
+    "vertices_sampled": 1321,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_11",
+    "parent": "Sac",
+    "vertices_sampled": 1988,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_12",
+    "parent": "Sac",
+    "vertices_sampled": 1072,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_13",
+    "parent": "Sac",
+    "vertices_sampled": 1824,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_14",
+    "parent": "Sac",
+    "vertices_sampled": 1057,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_15",
+    "parent": "Sac",
+    "vertices_sampled": 1632,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_16",
+    "parent": "Sac",
+    "vertices_sampled": 1674,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_17",
+    "parent": "Sac",
+    "vertices_sampled": 1844,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_18",
+    "parent": "Sac",
+    "vertices_sampled": 1322,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_19",
+    "parent": "Sac",
+    "vertices_sampled": 1826,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_21",
+    "parent": "Sac",
+    "vertices_sampled": 1538,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_24",
+    "parent": "Sac",
+    "vertices_sampled": 1332,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sac_Kirmizi_Bag_01",
+    "parent": "Sac",
+    "vertices_sampled": 1002,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sac_Kirmizi_Bag_02",
+    "parent": "Sac",
+    "vertices_sampled": 1035,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Bere_Bant_Kirmizi_01_Bolum_2",
+    "parent": "Sac",
+    "vertices_sampled": 1002,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Sal_Brosu_01",
+    "parent": "Zirh_On",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  },
+  {
+    "name": "Kemer_Tokasi_01",
+    "parent": "Zirh_On",
+    "vertices_sampled": 1004,
+    "confirmed_collision_vertices": 0,
+    "confirmed_max_penetration_mm": 0
+  }
+]

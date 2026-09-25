@@ -1,0 +1,27 @@
+{
+  "face_id": "P015",
+  "removable_eye_ids": [
+    "P161",
+    "P162"
+  ],
+  "integrated_facial_details": [
+    "eyebrows",
+    "eyelashes",
+    "lips"
+  ],
+  "removed_previous_part_ids": [
+    "P029",
+    "P030",
+    "P031",
+    "P032",
+    "P035",
+    "P036",
+    "P037",
+    "P038",
+    "P039"
+  ],
+  "part_ids_preserved_for_other_parts": true,
+  "physical_print_test_completed": false,
+  "source": "Existing Meshy source geometry, revised in Blender",
+  "surface_finish_resolution_mm": 0.08
+}

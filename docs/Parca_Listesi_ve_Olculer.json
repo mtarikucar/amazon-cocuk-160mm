@@ -1,0 +1,3402 @@
+{
+  "assembly_size_mm": [
+    101.43004608154297,
+    89.07682037353516,
+    159.99984741210938
+  ],
+  "part_count": 153,
+  "parts_for_200_figures": 30600,
+  "solid_part_volume_ml": 213.67632833862044,
+  "physical_print_test_completed": false,
+  "stl_unit": "mm",
+  "revision": "Yuz duzeltmesi: yalniz iki goz cikarilabilir",
+  "parts": [
+    {
+      "id": "P001",
+      "name": "Kaide",
+      "file": "STL/10_Tas_Grisi/P001_Kaide.stl",
+      "paint": "stone",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        89.16869354248047,
+        89.07682037353516,
+        12.70201301574707
+      ],
+      "volume_mm3": 56866.443829788645,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -6.127372741699219,
+        0.0013275146484375,
+        0.00015640763740520924
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P002",
+      "name": "Kaide_Ustu_Tas",
+      "file": "STL/10_Tas_Grisi/P002_Kaide_Ustu_Tas.stl",
+      "paint": "stone",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        44.57268142700195,
+        31.112346649169922,
+        26.174386978149414
+      ],
+      "volume_mm3": 10394.902942543362,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -10.536977767944336,
+        25.57942771911621,
+        4.685244083404541
+      ],
+      "parent": "P001_Kaide",
+      "connection": "D_pin"
+    },
+    {
+      "id": "P003",
+      "name": "Sag_Bot",
+      "file": "STL/05_Deri_Kahverengi/P003_Sag_Bot.stl",
+      "paint": "brown",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        22.94071388244629,
+        23.34018325805664,
+        34.328224182128906
+      ],
+      "volume_mm3": 4083.3550780317705,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -31.129520416259766,
+        -1.305802345275879,
+        6.775749206542969
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P004",
+      "name": "Sol_Bot",
+      "file": "STL/05_Deri_Kahverengi/P004_Sol_Bot.stl",
+      "paint": "brown",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        25.79770278930664,
+        22.837570190429688,
+        28.279586791992188
+      ],
+      "volume_mm3": 3702.153863050942,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        17.8726863861084,
+        -9.163942337036133,
+        10.24953842163086
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P005",
+      "name": "Pantolon",
+      "file": "STL/01_Kirmizi/P005_Pantolon.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        54.65716552734375,
+        27.399993896484375,
+        38.19515609741211
+      ],
+      "volume_mm3": 16498.21479901818,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.002731323242188,
+        -4.791351318359375,
+        32.56875228881836
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P006",
+      "name": "Govde",
+      "file": "STL/02_Kirik_Beyaz/P006_Govde.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        13.000007629394531,
+        14.781683921813965,
+        21.0
+      ],
+      "volume_mm3": 1729.289158513637,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.000001907348633,
+        -4.609161853790283,
+        74.5
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P007",
+      "name": "Zirh_On",
+      "file": "STL/05_Deri_Kahverengi/P007_Zirh_On.stl",
+      "paint": "brown",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        36.84321212768555,
+        16.8929443359375,
+        40.652130126953125
+      ],
+      "volume_mm3": 7520.504502377611,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -7.618440628051758,
+        -14.443946838378906,
+        67.52395629882812
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P008",
+      "name": "Zirh_Arka",
+      "file": "STL/05_Deri_Kahverengi/P008_Zirh_Arka.stl",
+      "paint": "brown",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        36.03909683227539,
+        16.128707885742188,
+        33.201690673828125
+      ],
+      "volume_mm3": 5907.216240480568,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -7.004716873168945,
+        2.064354419708252,
+        69.70710754394531
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P009",
+      "name": "Tunik_Etek",
+      "file": "STL/02_Kirik_Beyaz/P009_Tunik_Etek.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        50.83797836303711,
+        37.19890594482422,
+        26.931262969970703
+      ],
+      "volume_mm3": 7217.573298421565,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -7.857358932495117,
+        -6.452563285827637,
+        54.30997085571289
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P010",
+      "name": "Sag_Kol",
+      "file": "STL/02_Kirik_Beyaz/P010_Sag_Kol.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        24.423507690429688,
+        13.99348258972168,
+        30.249176025390625
+      ],
+      "volume_mm3": 2294.4605238400395,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -29.089130401611328,
+        3.0886287689208984,
+        71.65168762207031
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P011",
+      "name": "Sol_Kol",
+      "file": "STL/02_Kirik_Beyaz/P011_Sol_Kol.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        22.52173614501953,
+        23.979045867919922,
+        25.50994110107422
+      ],
+      "volume_mm3": 2482.1250333421444,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        15.490158081054688,
+        -15.947349548339844,
+        74.30303955078125
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P012",
+      "name": "Sag_El",
+      "file": "STL/03_Ten/P012_Sag_El.stl",
+      "paint": "skin",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        10.246767044067383,
+        13.284576416015625,
+        13.905364990234375
+      ],
+      "volume_mm3": 805.8295905125101,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -36.720760345458984,
+        1.366623878479004,
+        63.34943389892578
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P013",
+      "name": "Sol_El",
+      "file": "STL/03_Ten/P013_Sol_El.stl",
+      "paint": "skin",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        20.562667846679688,
+        14.619589805603027,
+        13.040901184082031
+      ],
+      "volume_mm3": 827.1399868539347,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        19.796947479248047,
+        -20.38420867919922,
+        64.38274383544922
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P014",
+      "name": "Sal",
+      "file": "STL/01_Kirmizi/P014_Sal.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        48.672752380371094,
+        40.21781921386719,
+        50.39603805541992
+      ],
+      "volume_mm3": 13398.918720797059,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -5.741371154785156,
+        -5.031315803527832,
+        62.72965621948242
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P015",
+      "name": "Yuz",
+      "file": "STL/03_Ten/P015_Yuz.stl",
+      "paint": "skin",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        35.80513000488281,
+        30.925935745239258,
+        32.75128936767578
+      ],
+      "volume_mm3": 8052.116212801013,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -4.450314044952393,
+        -5.486237525939941,
+        106.17993927001953
+      ],
+      "parent": null,
+      "connection": "D_socket",
+      "paint_regions": [
+        "ten",
+        "kas kahverengisi",
+        "kirpik siyahi",
+        "dudak ve yanak boyasi"
+      ],
+      "facial_details": "Kaslar, kirpikler ve dudak yuzle butunlesik"
+    },
+    {
+      "id": "P016",
+      "name": "Sac",
+      "file": "STL/04_Sac_Kahverengi/P016_Sac.stl",
+      "paint": "hair",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        63.857139587402344,
+        50.68819808959961,
+        58.68079376220703
+      ],
+      "volume_mm3": 22075.50722233431,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -13.292397499084473,
+        0.8216590881347656,
+        86.84294891357422
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P017",
+      "name": "Sac_Ic_1",
+      "file": "STL/04_Sac_Kahverengi/P017_Sac_Ic_1.stl",
+      "paint": "hair",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        10.112874984741211,
+        11.141388893127441,
+        7.624732971191406
+      ],
+      "volume_mm3": 97.96963936294023,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -16.160015106201172,
+        0.32012414932250977,
+        116.80110168457031
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P018",
+      "name": "Sac_Ic_2",
+      "file": "STL/04_Sac_Kahverengi/P018_Sac_Ic_2.stl",
+      "paint": "hair",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        9.182992935180664,
+        9.426424026489258,
+        13.027427673339844
+      ],
+      "volume_mm3": 105.38959369258747,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -20.485687255859375,
+        0.050591230392456055,
+        118.6455307006836
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P019",
+      "name": "Orgu_Ucu",
+      "file": "STL/04_Sac_Kahverengi/P019_Orgu_Ucu.stl",
+      "paint": "hair",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        10.717689514160156,
+        12.168128967285156,
+        13.671127319335938
+      ],
+      "volume_mm3": 579.2905681327163,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -4.277531623840332,
+        25.499469757080078,
+        74.36524963378906
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P020",
+      "name": "Sac_Bagi",
+      "file": "STL/01_Kirmizi/P020_Sac_Bagi.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.42122220993042,
+        7.6265106201171875,
+        7.216316223144531
+      ],
+      "volume_mm3": 96.61063210665603,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -3.6590378284454346,
+        21.77954864501953,
+        83.53581237792969
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P021",
+      "name": "Sol_Kulak",
+      "file": "STL/03_Ten/P021_Sol_Kulak.stl",
+      "paint": "skin",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.781877517700195,
+        5.8845415115356445,
+        8.235511779785156
+      ],
+      "volume_mm3": 53.90074467045066,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        7.491889953613281,
+        4.0844407081604,
+        116.79899597167969
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P022",
+      "name": "Bere",
+      "file": "STL/01_Kirmizi/P022_Bere.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        38.45399475097656,
+        38.034873962402344,
+        24.665695190429688
+      ],
+      "volume_mm3": 10090.732516336006,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -5.5787129402160645,
+        0.6546335220336914,
+        135.3343048095703
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P023",
+      "name": "Bere_Bandi",
+      "file": "STL/01_Kirmizi/P023_Bere_Bandi.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        39.17791748046875,
+        38.903076171875,
+        18.699615478515625
+      ],
+      "volume_mm3": 4202.142598299461,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -4.917869567871094,
+        -0.14304828643798828,
+        129.16763305664062
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P024",
+      "name": "Kalkan_Arka_Panel",
+      "file": "STL/05_Deri_Kahverengi/P024_Kalkan_Arka_Panel.stl",
+      "paint": "brown",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        50.82542037963867,
+        24.750579833984375,
+        54.83514404296875
+      ],
+      "volume_mm3": 7689.148458505485,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.58831214904785,
+        -17.038070678710938,
+        49.80195617675781
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P025",
+      "name": "Kalkan_On_Panel",
+      "file": "STL/01_Kirmizi/P025_Kalkan_On_Panel.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        49.58449935913086,
+        22.571313858032227,
+        54.25348663330078
+      ],
+      "volume_mm3": 5529.838772742952,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        22.609926223754883,
+        -21.461750030517578,
+        50.74913787841797
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P026",
+      "name": "Kalkan_Dis_Cerceve",
+      "file": "STL/06_Bronz/P026_Kalkan_Dis_Cerceve.stl",
+      "paint": "bronze",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        58.92365264892578,
+        30.72820281982422,
+        63.65828323364258
+      ],
+      "volume_mm3": 15017.015211279198,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        21.256500244140625,
+        -18.420486450195312,
+        45.76004409790039
+      ],
+      "parent": null,
+      "connection": "D_socket"
+    },
+    {
+      "id": "P027",
+      "name": "Arma_Taban",
+      "file": "STL/01_Kirmizi/P027_Arma_Taban.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        33.014835357666016,
+        18.153858184814453,
+        38.87782669067383
+      ],
+      "volume_mm3": 1380.3379212067978,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        23.88419532775879,
+        -23.95905876159668,
+        56.19950485229492
+      ],
+      "parent": null,
+      "connection": "D_pin"
+    },
+    {
+      "id": "P028",
+      "name": "Arma_Atli_Kabartma_01",
+      "file": "STL/07_Siyah/P028_Arma_Atli_Kabartma_01.stl",
+      "paint": "black",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        20.22968292236328,
+        9.477420806884766,
+        20.52581024169922
+      ],
+      "volume_mm3": 224.57490444573276,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        24.41888427734375,
+        -26.731040954589844,
+        67.71951293945312
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P033",
+      "name": "Kemer_Tokasi_01",
+      "file": "STL/06_Bronz/P033_Kemer_Tokasi_01.stl",
+      "paint": "bronze",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.787206649780273,
+        3.1267595291137695,
+        4.65374755859375
+      ],
+      "volume_mm3": 23.001171324868633,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.345137596130371,
+        -17.061613082885742,
+        83.32124328613281
+      ],
+      "parent": "P007_Zirh_On",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P034",
+      "name": "Sal_Brosu_01",
+      "file": "STL/06_Bronz/P034_Sal_Brosu_01.stl",
+      "paint": "bronze",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.755061149597168,
+        6.653776168823242,
+        5.830085754394531
+      ],
+      "volume_mm3": 44.93573434500468,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -16.03911781311035,
+        -12.41171932220459,
+        102.29692840576172
+      ],
+      "parent": "P007_Zirh_On",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P040",
+      "name": "Bere_Bant_Kirmizi_01",
+      "file": "STL/01_Kirmizi/P040_Bere_Bant_Kirmizi_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        25.57132911682129,
+        34.016014099121094,
+        11.498764038085938
+      ],
+      "volume_mm3": 96.85403758830894,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        3.875735282897949,
+        -6.094476222991943,
+        131.2082061767578
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P041",
+      "name": "Bere_Bant_Kirmizi_01_Bolum_2",
+      "file": "STL/01_Kirmizi/P041_Bere_Bant_Kirmizi_01_Bolum_2.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        13.208053588867188,
+        13.752168655395508,
+        6.3831024169921875
+      ],
+      "volume_mm3": 21.271270093842755,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -15.91244125366211,
+        -14.396576881408691,
+        133.08750915527344
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P042",
+      "name": "Bere_Bant_Kirmizi_02",
+      "file": "STL/01_Kirmizi/P042_Bere_Bant_Kirmizi_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        20.515504837036133,
+        14.191838264465332,
+        7.414459228515625
+      ],
+      "volume_mm3": 8.997535302049993,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -12.452570915222168,
+        -12.616695404052734,
+        137.98753356933594
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P043",
+      "name": "Bere_Bant_Kirmizi_03",
+      "file": "STL/01_Kirmizi/P043_Bere_Bant_Kirmizi_03.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.384292125701904,
+        2.862497329711914,
+        2.994171142578125
+      ],
+      "volume_mm3": 6.1915388836645215,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -9.30817985534668,
+        -19.480464935302734,
+        139.81918334960938
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P044",
+      "name": "Bere_Bant_Kirmizi_04",
+      "file": "STL/01_Kirmizi/P044_Bere_Bant_Kirmizi_04.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.332732200622559,
+        2.7518310546875,
+        2.8316192626953125
+      ],
+      "volume_mm3": 6.340175761683597,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        1.6353788375854492,
+        -19.58452796936035,
+        142.04359436035156
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P045",
+      "name": "Bere_Bant_Kirmizi_05",
+      "file": "STL/01_Kirmizi/P045_Bere_Bant_Kirmizi_05.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.03375244140625,
+        4.114524841308594,
+        2.16912841796875
+      ],
+      "volume_mm3": 5.731453314068618,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -14.905336380004883,
+        -15.9471435546875,
+        139.1226348876953
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P046",
+      "name": "Bere_Bant_Kirmizi_06",
+      "file": "STL/01_Kirmizi/P046_Bere_Bant_Kirmizi_06.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.155422687530518,
+        2.1995983123779297,
+        2.81768798828125
+      ],
+      "volume_mm3": 6.782121190340311,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -4.299010276794434,
+        -20.126571655273438,
+        141.55511474609375
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P047",
+      "name": "Bere_Bant_Kirmizi_07",
+      "file": "STL/01_Kirmizi/P047_Bere_Bant_Kirmizi_07.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.8383026123046875,
+        4.250769138336182,
+        3.1661834716796875
+      ],
+      "volume_mm3": 6.733484860864653,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        12.895943641662598,
+        -9.800544738769531,
+        140.6168975830078
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P048",
+      "name": "Bere_Bant_Kirmizi_08",
+      "file": "STL/01_Kirmizi/P048_Bere_Bant_Kirmizi_08.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.923155307769775,
+        1.4173412322998047,
+        4.595428466796875
+      ],
+      "volume_mm3": 2.577972381425635,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.560757637023926,
+        -23.100475311279297,
+        131.3037109375
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P049",
+      "name": "Bere_Bant_Kirmizi_09",
+      "file": "STL/01_Kirmizi/P049_Bere_Bant_Kirmizi_09.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.751668930053711,
+        4.171125888824463,
+        2.50653076171875
+      ],
+      "volume_mm3": 3.4803893866178135,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -21.57635498046875,
+        -7.382996559143066,
+        135.01336669921875
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P050",
+      "name": "Bere_Bant_Kirmizi_10",
+      "file": "STL/01_Kirmizi/P050_Bere_Bant_Kirmizi_10.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.701854705810547,
+        3.1388750076293945,
+        2.5769805908203125
+      ],
+      "volume_mm3": 3.037835571820594,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -17.745450973510742,
+        -13.544326782226562,
+        136.5169677734375
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P051",
+      "name": "Bere_Bant_Kirmizi_11",
+      "file": "STL/01_Kirmizi/P051_Bere_Bant_Kirmizi_11.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.9372730255126953,
+        3.0286428928375244,
+        2.10467529296875
+      ],
+      "volume_mm3": 2.6669592552612884,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -22.971206665039062,
+        -3.7865991592407227,
+        134.991455078125
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P052",
+      "name": "Bere_Bant_Kirmizi_12",
+      "file": "STL/01_Kirmizi/P052_Bere_Bant_Kirmizi_12.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.5976219177246094,
+        2.9001998901367188,
+        1.2326507568359375
+      ],
+      "volume_mm3": 2.0911657693833607,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -23.48688316345215,
+        2.7721505165100098,
+        134.06167602539062
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P053",
+      "name": "Bere_Bant_Kirmizi_13",
+      "file": "STL/01_Kirmizi/P053_Bere_Bant_Kirmizi_13.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.7970619201660156,
+        3.647899866104126,
+        0.9787445068359375
+      ],
+      "volume_mm3": 2.1252206040693564,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        13.704906463623047,
+        1.2741929292678833,
+        138.22222900390625
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P054",
+      "name": "Bere_Bant_Kirmizi_14",
+      "file": "STL/01_Kirmizi/P054_Bere_Bant_Kirmizi_14.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.5358896255493164,
+        2.837134838104248,
+        2.105010986328125
+      ],
+      "volume_mm3": 2.5060340180187866,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        10.6629638671875,
+        9.382661819458008,
+        133.38778686523438
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P055",
+      "name": "Bere_Bant_Kirmizi_15",
+      "file": "STL/01_Kirmizi/P055_Bere_Bant_Kirmizi_15.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.6951923370361328,
+        2.3364784717559814,
+        1.68194580078125
+      ],
+      "volume_mm3": 1.9818923203976961,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -23.039901733398438,
+        4.561018466949463,
+        132.2645263671875
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P056",
+      "name": "Bere_Bant_Kirmizi_16",
+      "file": "STL/01_Kirmizi/P056_Bere_Bant_Kirmizi_16.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.331907033920288,
+        2.067228317260742,
+        1.6605224609375
+      ],
+      "volume_mm3": 1.8144739469164641,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        4.151130676269531,
+        15.300559043884277,
+        132.2120819091797
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P057",
+      "name": "Bere_Bant_Kirmizi_17",
+      "file": "STL/01_Kirmizi/P057_Bere_Bant_Kirmizi_17.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.5446972846984863,
+        2.2300901412963867,
+        1.7359771728515625
+      ],
+      "volume_mm3": 2.3366744294892436,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        6.728846549987793,
+        13.706581115722656,
+        132.1846923828125
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P058",
+      "name": "Bere_Bant_Kirmizi_18",
+      "file": "STL/01_Kirmizi/P058_Bere_Bant_Kirmizi_18.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.180501937866211,
+        4.1670918464660645,
+        1.4486236572265625
+      ],
+      "volume_mm3": 2.000096888114121,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -23.111186981201172,
+        -1.3401484489440918,
+        132.0528564453125
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P059",
+      "name": "Bere_Bant_Kirmizi_19",
+      "file": "STL/01_Kirmizi/P059_Bere_Bant_Kirmizi_19.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.581192970275879,
+        2.437710762023926,
+        1.3869476318359375
+      ],
+      "volume_mm3": 1.655490422599157,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        7.181908130645752,
+        -16.578298568725586,
+        142.7058563232422
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P060",
+      "name": "Bere_Bant_Kirmizi_21",
+      "file": "STL/01_Kirmizi/P060_Bere_Bant_Kirmizi_21.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.5368919372558594,
+        2.3514347076416016,
+        1.4764556884765625
+      ],
+      "volume_mm3": 1.482032212728577,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        8.166088104248047,
+        12.505845069885254,
+        133.61695861816406
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P061",
+      "name": "Bere_Bant_Kirmizi_24",
+      "file": "STL/01_Kirmizi/P061_Bere_Bant_Kirmizi_24.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.5986957550048828,
+        1.804269790649414,
+        1.6871185302734375
+      ],
+      "volume_mm3": 1.324198146558868,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -23.584163665771484,
+        -0.519519567489624,
+        133.51316833496094
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P062",
+      "name": "Kaide_Kirmizi_01",
+      "file": "STL/01_Kirmizi/P062_Kaide_Kirmizi_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        19.783790588378906,
+        37.76094055175781,
+        6.248261451721191
+      ],
+      "volume_mm3": 285.23196956893275,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -39.856849670410156,
+        17.129230499267578,
+        2.1936864852905273
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P063",
+      "name": "Kaide_Kirmizi_02",
+      "file": "STL/01_Kirmizi/P063_Kaide_Kirmizi_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.878639221191406,
+        29.673938751220703,
+        5.4914774894714355
+      ],
+      "volume_mm3": 169.6564557409406,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        34.655067443847656,
+        2.4044852256774902,
+        2.7724900245666504
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P064",
+      "name": "Kaide_Kirmizi_03",
+      "file": "STL/01_Kirmizi/P064_Kaide_Kirmizi_03.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        9.753113746643066,
+        8.005617141723633,
+        5.374876976013184
+      ],
+      "volume_mm3": 53.00533276770368,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.246917724609375,
+        32.667110443115234,
+        3.006467819213867
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P065",
+      "name": "Kaide_Kirmizi_04",
+      "file": "STL/01_Kirmizi/P065_Kaide_Kirmizi_04.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.9058685302734375,
+        8.634420394897461,
+        6.3871283531188965
+      ],
+      "volume_mm3": 64.58468243412135,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        27.652976989746094,
+        -24.790061950683594,
+        2.1076245307922363
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P066",
+      "name": "Kaide_Kirmizi_05",
+      "file": "STL/01_Kirmizi/P066_Kaide_Kirmizi_05.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.024257659912109,
+        8.401137351989746,
+        5.879594802856445
+      ],
+      "volume_mm3": 45.74189340767398,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -46.616729736328125,
+        -8.93120002746582,
+        2.548628568649292
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P067",
+      "name": "Kaide_Kirmizi_06",
+      "file": "STL/01_Kirmizi/P067_Kaide_Kirmizi_06.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.747209548950195,
+        2.6550216674804688,
+        5.107966423034668
+      ],
+      "volume_mm3": 41.092465409342914,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -6.875096321105957,
+        42.348838806152344,
+        3.2481391429901123
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P068",
+      "name": "Kaide_Kirmizi_07",
+      "file": "STL/01_Kirmizi/P068_Kaide_Kirmizi_07.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.629520416259766,
+        6.807590484619141,
+        5.729238510131836
+      ],
+      "volume_mm3": 41.66832662496389,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -38.91583251953125,
+        -25.789491653442383,
+        2.7125909328460693
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P069",
+      "name": "Kaide_Kirmizi_08",
+      "file": "STL/01_Kirmizi/P069_Kaide_Kirmizi_08.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.741189956665039,
+        3.5927734375,
+        4.79874324798584
+      ],
+      "volume_mm3": 4.524784467717025,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        31.749774932861328,
+        19.327274322509766,
+        2.8993866443634033
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P070",
+      "name": "Kaide_Kirmizi_09",
+      "file": "STL/01_Kirmizi/P070_Kaide_Kirmizi_09.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.6933746337890625,
+        7.429925441741943,
+        2.3522186279296875
+      ],
+      "volume_mm3": 2.996483837509989,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        33.45704650878906,
+        -8.37991714477539,
+        7.068471908569336
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P071",
+      "name": "Orgu_Ucu_Kirmizi_Bag_01",
+      "file": "STL/01_Kirmizi/P071_Orgu_Ucu_Kirmizi_Bag_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.290867805480957,
+        8.370330810546875,
+        4.6367645263671875
+      ],
+      "volume_mm3": 29.260856982848473,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -3.8007564544677734,
+        23.563453674316406,
+        83.37266540527344
+      ],
+      "parent": "P019_Orgu_Ucu",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P072",
+      "name": "Orgu_Ucu_Kirmizi_Bag_02",
+      "file": "STL/01_Kirmizi/P072_Orgu_Ucu_Kirmizi_Bag_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.4945554733276367,
+        1.2682132720947266,
+        3.9148025512695312
+      ],
+      "volume_mm3": 2.402799070441549,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.903297424316406,
+        28.25659942626953,
+        79.37955474853516
+      ],
+      "parent": "P019_Orgu_Ucu",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P073",
+      "name": "Sac_Kirmizi_Bag_01",
+      "file": "STL/01_Kirmizi/P073_Sac_Kirmizi_Bag_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.634025573730469,
+        8.788455963134766,
+        6.421760559082031
+      ],
+      "volume_mm3": 93.92414484008684,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -35.73580551147461,
+        18.13705825805664,
+        97.5899887084961
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P074",
+      "name": "Sac_Kirmizi_Bag_02",
+      "file": "STL/01_Kirmizi/P074_Sac_Kirmizi_Bag_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.1539764404296875,
+        3.5061721801757812,
+        2.8444671630859375
+      ],
+      "volume_mm3": 13.847749342524587,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -3.8918228149414062,
+        25.16089630126953,
+        86.80628967285156
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P075",
+      "name": "Sag_Kol_Kirmizi_01",
+      "file": "STL/01_Kirmizi/P075_Sag_Kol_Kirmizi_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        17.78656768798828,
+        11.836736679077148,
+        18.637977600097656
+      ],
+      "volume_mm3": 142.54694572742758,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -24.98986053466797,
+        4.062380790710449,
+        77.56159973144531
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P076",
+      "name": "Sag_Kol_Kirmizi_02",
+      "file": "STL/01_Kirmizi/P076_Sag_Kol_Kirmizi_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        10.740585327148438,
+        6.230460166931152,
+        7.8418731689453125
+      ],
+      "volume_mm3": 23.822322939582826,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -32.2556037902832,
+        0.9001740217208862,
+        77.25357055664062
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P077",
+      "name": "Sag_Kol_Kirmizi_03",
+      "file": "STL/01_Kirmizi/P077_Sag_Kol_Kirmizi_03.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        10.810735702514648,
+        11.888914108276367,
+        5.892601013183594
+      ],
+      "volume_mm3": 17.726818381763362,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -34.3141975402832,
+        2.947066068649292,
+        74.576904296875
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P078",
+      "name": "Sag_Kol_Kirmizi_04",
+      "file": "STL/01_Kirmizi/P078_Sag_Kol_Kirmizi_04.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        9.760416030883789,
+        4.298189163208008,
+        5.1650238037109375
+      ],
+      "volume_mm3": 5.070451773217839,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -33.621341705322266,
+        7.097503662109375,
+        75.7264404296875
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P079",
+      "name": "Sag_Kol_Kirmizi_05",
+      "file": "STL/01_Kirmizi/P079_Sag_Kol_Kirmizi_05.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.6876564025878906,
+        3.719489574432373,
+        3.19769287109375
+      ],
+      "volume_mm3": 8.194670158611205,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -35.664459228515625,
+        7.468105316162109,
+        80.02618408203125
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P080",
+      "name": "Sag_Kol_Kirmizi_06",
+      "file": "STL/01_Kirmizi/P080_Sag_Kol_Kirmizi_06.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.61445426940918,
+        5.426088333129883,
+        3.887664794921875
+      ],
+      "volume_mm3": 4.27786401065218,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -31.102733612060547,
+        0.10935342311859131,
+        76.40640258789062
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P081",
+      "name": "Sag_Kol_Kirmizi_07",
+      "file": "STL/01_Kirmizi/P081_Sag_Kol_Kirmizi_07.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.0583953857421875,
+        5.249991416931152,
+        2.206817626953125
+      ],
+      "volume_mm3": 3.1827260922016305,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -36.4089241027832,
+        0.2790478467941284,
+        79.90303802490234
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P082",
+      "name": "Sag_Kol_Kirmizi_08",
+      "file": "STL/01_Kirmizi/P082_Sag_Kol_Kirmizi_08.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.2102584838867188,
+        3.0242981910705566,
+        2.2033004760742188
+      ],
+      "volume_mm3": 3.469890306471961,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -35.68422317504883,
+        5.582036018371582,
+        83.51712036132812
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P083",
+      "name": "Sag_Kol_Kirmizi_10",
+      "file": "STL/01_Kirmizi/P083_Sag_Kol_Kirmizi_10.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.730571746826172,
+        2.3649020195007324,
+        2.0147857666015625
+      ],
+      "volume_mm3": 1.8684163183081375,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -33.78636169433594,
+        1.6100692749023438,
+        86.39606475830078
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P084",
+      "name": "Sag_Kol_Kirmizi_11",
+      "file": "STL/01_Kirmizi/P084_Sag_Kol_Kirmizi_11.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.169893264770508,
+        1.9542851448059082,
+        2.0046844482421875
+      ],
+      "volume_mm3": 1.6005801214932351,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -31.90081024169922,
+        -0.5426470041275024,
+        86.027099609375
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P085",
+      "name": "Sag_Kol_Kirmizi_12",
+      "file": "STL/01_Kirmizi/P085_Sag_Kol_Kirmizi_12.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.3286285400390625,
+        1.443857192993164,
+        2.0162124633789062
+      ],
+      "volume_mm3": 1.02064606829926,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -32.7928466796875,
+        8.74914836883545,
+        81.71417236328125
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P086",
+      "name": "Sag_Kol_Kirmizi_13",
+      "file": "STL/01_Kirmizi/P086_Sag_Kol_Kirmizi_13.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.4760684967041016,
+        1.3431406021118164,
+        2.7992782592773438
+      ],
+      "volume_mm3": 1.7486438970431855,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -30.15758514404297,
+        9.267951965332031,
+        81.50152587890625
+      ],
+      "parent": "P010_Sag_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P087",
+      "name": "Sol_Kol_El_Kirmizi_01",
+      "file": "STL/01_Kirmizi/P087_Sol_Kol_El_Kirmizi_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        13.647059440612793,
+        11.184322357177734,
+        5.663551330566406
+      ],
+      "volume_mm3": 18.737854941647573,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        18.19346046447754,
+        -18.35968589782715,
+        73.72241973876953
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P088",
+      "name": "Sol_Kol_El_Kirmizi_02",
+      "file": "STL/01_Kirmizi/P088_Sol_Kol_El_Kirmizi_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        11.798272132873535,
+        10.096556663513184,
+        7.0000762939453125
+      ],
+      "volume_mm3": 14.21784267543511,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        14.806699752807617,
+        -14.298917770385742,
+        81.48990631103516
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P089",
+      "name": "Sol_Kol_El_Kirmizi_03",
+      "file": "STL/01_Kirmizi/P089_Sol_Kol_El_Kirmizi_03.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.841510772705078,
+        8.747605323791504,
+        6.3058319091796875
+      ],
+      "volume_mm3": 18.358201550599546,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.301362991333008,
+        -14.82084846496582,
+        77.57842254638672
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P090",
+      "name": "Sol_Kol_El_Kirmizi_04",
+      "file": "STL/01_Kirmizi/P090_Sol_Kol_El_Kirmizi_04.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.592504501342773,
+        3.958545684814453,
+        6.3579254150390625
+      ],
+      "volume_mm3": 14.10321624873588,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        15.704451560974121,
+        -20.162439346313477,
+        79.75125885009766
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P091",
+      "name": "Sol_Kol_El_Kirmizi_05",
+      "file": "STL/01_Kirmizi/P091_Sol_Kol_El_Kirmizi_05.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.623027801513672,
+        4.472679138183594,
+        9.793319702148438
+      ],
+      "volume_mm3": 13.536049812759549,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        13.619132995605469,
+        -26.158241271972656,
+        65.45467376708984
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P092",
+      "name": "Sol_Kol_El_Kirmizi_06",
+      "file": "STL/01_Kirmizi/P092_Sol_Kol_El_Kirmizi_06.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        5.049862861633301,
+        3.6523847579956055,
+        3.6448974609375
+      ],
+      "volume_mm3": 12.263961171738684,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        14.816959381103516,
+        -13.183551788330078,
+        76.12344360351562
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P093",
+      "name": "Sol_Kol_El_Kirmizi_07",
+      "file": "STL/01_Kirmizi/P093_Sol_Kol_El_Kirmizi_07.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.340843200683594,
+        8.702792167663574,
+        6.2022247314453125
+      ],
+      "volume_mm3": 7.578159159813126,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.799711227416992,
+        -16.350297927856445,
+        75.20589447021484
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P094",
+      "name": "Sol_Kol_El_Kirmizi_08",
+      "file": "STL/01_Kirmizi/P094_Sol_Kol_El_Kirmizi_08.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.5066537857055664,
+        3.205677032470703,
+        2.4096832275390625
+      ],
+      "volume_mm3": 3.095095415619998,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        11.018014907836914,
+        -18.68549156188965,
+        81.41573333740234
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P095",
+      "name": "Sol_Kol_El_Kirmizi_09",
+      "file": "STL/01_Kirmizi/P095_Sol_Kol_El_Kirmizi_09.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.6114492416381836,
+        2.115192413330078,
+        2.6245498657226562
+      ],
+      "volume_mm3": 3.197740140181682,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        15.721128463745117,
+        -10.64491081237793,
+        79.17024230957031
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P096",
+      "name": "Sol_Kol_El_Kirmizi_10",
+      "file": "STL/01_Kirmizi/P096_Sol_Kol_El_Kirmizi_10.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.7199478149414062,
+        2.9312543869018555,
+        2.7888565063476562
+      ],
+      "volume_mm3": 3.143018567951996,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        11.256353378295898,
+        -12.871313095092773,
+        79.2640151977539
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P097",
+      "name": "Sol_Kol_El_Kirmizi_11",
+      "file": "STL/01_Kirmizi/P097_Sol_Kol_El_Kirmizi_11.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.8432464599609375,
+        3.7955684661865234,
+        2.0608291625976562
+      ],
+      "volume_mm3": 3.982348589856432,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        10.67654800415039,
+        -16.898571014404297,
+        79.54277801513672
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P098",
+      "name": "Sol_Kol_El_Kirmizi_12",
+      "file": "STL/01_Kirmizi/P098_Sol_Kol_El_Kirmizi_12.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.820850372314453,
+        2.5362396240234375,
+        2.2686004638671875
+      ],
+      "volume_mm3": 2.6119569018664124,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        21.086435317993164,
+        -20.524715423583984,
+        80.89115905761719
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P099",
+      "name": "Sol_Kol_El_Kirmizi_13",
+      "file": "STL/01_Kirmizi/P099_Sol_Kol_El_Kirmizi_13.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.546109199523926,
+        3.5389022827148438,
+        2.1719589233398438
+      ],
+      "volume_mm3": 2.929246100934325,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        16.852201461791992,
+        -23.55986213684082,
+        64.47425842285156
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P100",
+      "name": "Sol_Kol_El_Kirmizi_14",
+      "file": "STL/01_Kirmizi/P100_Sol_Kol_El_Kirmizi_14.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.0505199432373047,
+        2.1357421875,
+        1.7859954833984375
+      ],
+      "volume_mm3": 3.2435255121743323,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        18.015838623046875,
+        -21.82997703552246,
+        80.50066375732422
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P101",
+      "name": "Sol_Kol_El_Kirmizi_15",
+      "file": "STL/01_Kirmizi/P101_Sol_Kol_El_Kirmizi_15.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.9095115661621094,
+        1.9246997833251953,
+        2.0227890014648438
+      ],
+      "volume_mm3": 1.6653693112468677,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.47001075744629,
+        -15.672114372253418,
+        84.78425598144531
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P102",
+      "name": "Sol_Kol_El_Kirmizi_16",
+      "file": "STL/01_Kirmizi/P102_Sol_Kol_El_Kirmizi_16.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.5938730239868164,
+        1.615997314453125,
+        2.1163330078125
+      ],
+      "volume_mm3": 1.5629362361366608,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        13.288389205932617,
+        -19.479900360107422,
+        83.7584457397461
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P103",
+      "name": "Sol_Kol_El_Kirmizi_18",
+      "file": "STL/01_Kirmizi/P103_Sol_Kol_El_Kirmizi_18.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.6057777404785156,
+        1.8599748611450195,
+        2.1654205322265625
+      ],
+      "volume_mm3": 1.8121181231312584,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        20.592893600463867,
+        -13.014169692993164,
+        83.2785415649414
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P104",
+      "name": "Sol_Kol_El_Kirmizi_24",
+      "file": "STL/01_Kirmizi/P104_Sol_Kol_El_Kirmizi_24.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.8299312591552734,
+        1.8215293884277344,
+        1.6184921264648438
+      ],
+      "volume_mm3": 1.0032693404158806,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        12.013773918151855,
+        -20.28707504272461,
+        78.70370483398438
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P105",
+      "name": "Sol_Kol_El_Kirmizi_28",
+      "file": "STL/01_Kirmizi/P105_Sol_Kol_El_Kirmizi_28.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.8697071075439453,
+        1.6068496704101562,
+        2.4156112670898438
+      ],
+      "volume_mm3": 1.4316454046632823,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        19.104263305664062,
+        -23.79057502746582,
+        75.22020721435547
+      ],
+      "parent": "P011_Sol_Kol",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P106",
+      "name": "Tunik_Etek_Kirmizi_01",
+      "file": "STL/01_Kirmizi/P106_Tunik_Etek_Kirmizi_01.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        44.12753677368164,
+        33.64255142211914,
+        25.605072021484375
+      ],
+      "volume_mm3": 1008.7101084840376,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -7.921316146850586,
+        -5.311604976654053,
+        54.38810729980469
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P107",
+      "name": "Tunik_Etek_Kirmizi_02",
+      "file": "STL/01_Kirmizi/P107_Tunik_Etek_Kirmizi_02.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        25.764320373535156,
+        29.216114044189453,
+        5.3860626220703125
+      ],
+      "volume_mm3": 37.47237136650999,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -19.79305648803711,
+        -3.097909927368164,
+        59.476593017578125
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P108",
+      "name": "Tunik_Etek_Kirmizi_03",
+      "file": "STL/01_Kirmizi/P108_Tunik_Etek_Kirmizi_03.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        15.662784576416016,
+        28.365890502929688,
+        3.820526123046875
+      ],
+      "volume_mm3": 32.24871639635905,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        9.03662109375,
+        -2.5455093383789062,
+        57.76581573486328
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P109",
+      "name": "Tunik_Etek_Kirmizi_04",
+      "file": "STL/01_Kirmizi/P109_Tunik_Etek_Kirmizi_04.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        13.483551979064941,
+        26.15801239013672,
+        3.710712432861328
+      ],
+      "volume_mm3": 33.58879769724004,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        6.544027805328369,
+        -3.7120113372802734,
+        62.61507034301758
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P110",
+      "name": "Tunik_Etek_Kirmizi_05",
+      "file": "STL/01_Kirmizi/P110_Tunik_Etek_Kirmizi_05.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        11.659910202026367,
+        2.4806594848632812,
+        3.9878082275390625
+      ],
+      "volume_mm3": 19.139322752454774,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -17.961315155029297,
+        9.990306854248047,
+        61.79618835449219
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P111",
+      "name": "Tunik_Etek_Kirmizi_06",
+      "file": "STL/01_Kirmizi/P111_Tunik_Etek_Kirmizi_06.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.644138336181641,
+        23.581401824951172,
+        3.1667709350585938
+      ],
+      "volume_mm3": 19.731593173270145,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -25.873153686523438,
+        -5.220731258392334,
+        66.19087982177734
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P112",
+      "name": "Tunik_Etek_Kirmizi_07",
+      "file": "STL/01_Kirmizi/P112_Tunik_Etek_Kirmizi_07.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        23.448715209960938,
+        5.942895889282227,
+        5.0122222900390625
+      ],
+      "volume_mm3": 25.880685181527042,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -9.402231216430664,
+        -21.873172760009766,
+        55.68545150756836
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P113",
+      "name": "Tunik_Etek_Kirmizi_08",
+      "file": "STL/01_Kirmizi/P113_Tunik_Etek_Kirmizi_08.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        20.9555606842041,
+        4.608266830444336,
+        3.8151512145996094
+      ],
+      "volume_mm3": 4.19731415889342,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -9.580735206604004,
+        -21.409942626953125,
+        61.8281135559082
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P114",
+      "name": "Tunik_Etek_Kirmizi_09",
+      "file": "STL/01_Kirmizi/P114_Tunik_Etek_Kirmizi_09.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.50377082824707,
+        3.901243209838867,
+        2.522663116455078
+      ],
+      "volume_mm3": 8.038605927574624,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -1.8607040643692017,
+        -20.440277099609375,
+        58.78191375732422
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P115",
+      "name": "Tunik_Etek_Kirmizi_10",
+      "file": "STL/01_Kirmizi/P115_Tunik_Etek_Kirmizi_10.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.488621711730957,
+        3.4956207275390625,
+        4.049201965332031
+      ],
+      "volume_mm3": 7.622604358064992,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        11.568819046020508,
+        -15.561540603637695,
+        58.09270477294922
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P116",
+      "name": "Tunik_Etek_Kirmizi_11",
+      "file": "STL/01_Kirmizi/P116_Tunik_Etek_Kirmizi_11.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.947506904602051,
+        5.499750137329102,
+        2.7489547729492188
+      ],
+      "volume_mm3": 7.236445041336386,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        12.439943313598633,
+        -0.6321166753768921,
+        61.08843231201172
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P117",
+      "name": "Tunik_Etek_Kirmizi_12",
+      "file": "STL/01_Kirmizi/P117_Tunik_Etek_Kirmizi_12.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.6326255798339844,
+        5.332667350769043,
+        2.2370529174804688
+      ],
+      "volume_mm3": 5.6962844913159305,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -28.581445693969727,
+        -12.358686447143555,
+        65.50907897949219
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P118",
+      "name": "Tunik_Etek_Kirmizi_13",
+      "file": "STL/01_Kirmizi/P118_Tunik_Etek_Kirmizi_13.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        9.65420150756836,
+        3.6468687057495117,
+        2.34417724609375
+      ],
+      "volume_mm3": 6.082438992794518,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -11.22696304321289,
+        8.300600051879883,
+        64.26398468017578
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P119",
+      "name": "Tunik_Etek_Kirmizi_14",
+      "file": "STL/01_Kirmizi/P119_Tunik_Etek_Kirmizi_14.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.710073471069336,
+        4.348787307739258,
+        2.3625564575195312
+      ],
+      "volume_mm3": 6.338344673833477,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -29.862037658691406,
+        -5.922453880310059,
+        65.51907348632812
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P120",
+      "name": "Tunik_Etek_Kirmizi_15",
+      "file": "STL/01_Kirmizi/P120_Tunik_Etek_Kirmizi_15.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.5898900032043457,
+        1.797861099243164,
+        2.4295501708984375
+      ],
+      "volume_mm3": 4.117675065052687,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -9.154685974121094,
+        -22.791019439697266,
+        59.52728271484375
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P121",
+      "name": "Tunik_Etek_Kirmizi_16",
+      "file": "STL/01_Kirmizi/P121_Tunik_Etek_Kirmizi_16.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.7400894165039062,
+        3.3048744201660156,
+        2.547760009765625
+      ],
+      "volume_mm3": 5.342669484939747,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        12.85698413848877,
+        -12.73956298828125,
+        60.586673736572266
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P122",
+      "name": "Tunik_Etek_Kirmizi_17",
+      "file": "STL/01_Kirmizi/P122_Tunik_Etek_Kirmizi_17.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.7267560958862305,
+        3.7197275161743164,
+        2.6429595947265625
+      ],
+      "volume_mm3": 5.583032182576413,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        14.042930603027344,
+        -7.344719409942627,
+        60.67932891845703
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P123",
+      "name": "Tunik_Etek_Kirmizi_18",
+      "file": "STL/01_Kirmizi/P123_Tunik_Etek_Kirmizi_18.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.4308815002441406,
+        1.5997028350830078,
+        2.8545265197753906
+      ],
+      "volume_mm3": 4.987018017126519,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -14.215024948120117,
+        -23.506832122802734,
+        60.183040618896484
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P124",
+      "name": "Tunik_Etek_Kirmizi_19",
+      "file": "STL/01_Kirmizi/P124_Tunik_Etek_Kirmizi_19.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.0337953567504883,
+        3.4620361328125,
+        1.8881721496582031
+      ],
+      "volume_mm3": 3.2257913859434035,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        14.378158569335938,
+        -4.029998779296875,
+        60.23712921142578
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P125",
+      "name": "Tunik_Etek_Kirmizi_20",
+      "file": "STL/01_Kirmizi/P125_Tunik_Etek_Kirmizi_20.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.6694517135620117,
+        2.5604166984558105,
+        2.140331268310547
+      ],
+      "volume_mm3": 2.606342935938404,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        8.318460464477539,
+        5.951478004455566,
+        62.39402389526367
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P126",
+      "name": "Tunik_Etek_Kirmizi_21",
+      "file": "STL/01_Kirmizi/P126_Tunik_Etek_Kirmizi_21.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.237316370010376,
+        2.0119271278381348,
+        1.8872489929199219
+      ],
+      "volume_mm3": 3.1287022517446874,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        4.487434387207031,
+        8.82641315460205,
+        62.989078521728516
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P127",
+      "name": "Tunik_Etek_Kirmizi_22",
+      "file": "STL/01_Kirmizi/P127_Tunik_Etek_Kirmizi_22.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.9196338653564453,
+        3.5475001335144043,
+        1.8763961791992188
+      ],
+      "volume_mm3": 2.9807731700171467,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -29.248092651367188,
+        -0.40706300735473633,
+        65.84485626220703
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P128",
+      "name": "Tunik_Etek_Kirmizi_23",
+      "file": "STL/01_Kirmizi/P128_Tunik_Etek_Kirmizi_23.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.5833797454833984,
+        1.9584159851074219,
+        1.9968147277832031
+      ],
+      "volume_mm3": 2.6834094658632908,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -19.297588348388672,
+        -22.60400390625,
+        62.136287689208984
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P129",
+      "name": "Tunik_Etek_Kirmizi_24",
+      "file": "STL/01_Kirmizi/P129_Tunik_Etek_Kirmizi_24.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.323084831237793,
+        2.3334288597106934,
+        2.2734146118164062
+      ],
+      "volume_mm3": 3.8610773805735423,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -8.851551055908203,
+        8.441189765930176,
+        61.655914306640625
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P130",
+      "name": "Tunik_Etek_Kirmizi_26",
+      "file": "STL/01_Kirmizi/P130_Tunik_Etek_Kirmizi_26.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.609609603881836,
+        1.390472412109375,
+        1.829864501953125
+      ],
+      "volume_mm3": 2.0914752861852954,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -17.374954223632812,
+        -23.698314666748047,
+        60.40380096435547
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P131",
+      "name": "Tunik_Etek_Kirmizi_27",
+      "file": "STL/01_Kirmizi/P131_Tunik_Etek_Kirmizi_27.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        3.0950698852539062,
+        3.71412992477417,
+        2.16754150390625
+      ],
+      "volume_mm3": 3.1621720771949042,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -24.856359481811523,
+        6.157127380371094,
+        64.63639831542969
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P132",
+      "name": "Tunik_Etek_Kirmizi_28",
+      "file": "STL/01_Kirmizi/P132_Tunik_Etek_Kirmizi_28.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.74114990234375,
+        2.8519248962402344,
+        1.8883399963378906
+      ],
+      "volume_mm3": 2.0536608787224084,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        14.770002365112305,
+        -10.24254035949707,
+        60.099876403808594
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P133",
+      "name": "Tunik_Etek_Kirmizi_29",
+      "file": "STL/01_Kirmizi/P133_Tunik_Etek_Kirmizi_29.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.507324695587158,
+        1.8751602172851562,
+        2.0843429565429688
+      ],
+      "volume_mm3": 2.8084298720198553,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -6.951215744018555,
+        -22.345333099365234,
+        57.68527603149414
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P134",
+      "name": "Tunik_Etek_Kirmizi_30",
+      "file": "STL/01_Kirmizi/P134_Tunik_Etek_Kirmizi_30.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.5230770111083984,
+        3.2292675971984863,
+        3.0673980712890625
+      ],
+      "volume_mm3": 2.126168374186366,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -27.757675170898438,
+        4.013312339782715,
+        64.40731811523438
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P135",
+      "name": "Tunik_Etek_Kirmizi_31",
+      "file": "STL/01_Kirmizi/P135_Tunik_Etek_Kirmizi_31.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.1526355743408203,
+        1.4520206451416016,
+        1.9193382263183594
+      ],
+      "volume_mm3": 2.09478514486789,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -12.354643821716309,
+        -23.584667205810547,
+        58.556427001953125
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P136",
+      "name": "Tunik_Etek_Kirmizi_32",
+      "file": "STL/01_Kirmizi/P136_Tunik_Etek_Kirmizi_32.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.806955337524414,
+        1.9685077667236328,
+        2.39013671875
+      ],
+      "volume_mm3": 1.7974907148459378,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -26.01264190673828,
+        -16.33798599243164,
+        64.36881256103516
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P137",
+      "name": "Tunik_Etek_Kirmizi_33",
+      "file": "STL/01_Kirmizi/P137_Tunik_Etek_Kirmizi_33.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.4209203720092773,
+        2.0938539505004883,
+        1.4379806518554688
+      ],
+      "volume_mm3": 1.4924934302629584,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        6.92918062210083,
+        8.586421966552734,
+        62.136783599853516
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P138",
+      "name": "Tunik_Etek_Kirmizi_34",
+      "file": "STL/01_Kirmizi/P138_Tunik_Etek_Kirmizi_34.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.7896480560302734,
+        2.4567418098449707,
+        2.527252197265625
+      ],
+      "volume_mm3": 1.52593080261701,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -29.156757354736328,
+        2.8399317264556885,
+        64.18553161621094
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P139",
+      "name": "Tunik_Etek_Kirmizi_35",
+      "file": "STL/01_Kirmizi/P139_Tunik_Etek_Kirmizi_35.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.7595348358154297,
+        2.8723573684692383,
+        1.579620361328125
+      ],
+      "volume_mm3": 1.7505498305766547,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -30.3599853515625,
+        -9.039142608642578,
+        65.16374206542969
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P140",
+      "name": "Tunik_Etek_Kirmizi_36",
+      "file": "STL/01_Kirmizi/P140_Tunik_Etek_Kirmizi_36.stl",
+      "paint": "red",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.362092971801758,
+        1.5493888854980469,
+        1.7368621826171875
+      ],
+      "volume_mm3": 1.7566669458932844,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -11.254361152648926,
+        9.92271900177002,
+        61.37554168701172
+      ],
+      "parent": "P009_Tunik_Etek",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P141",
+      "name": "Arma_Beyaz_01",
+      "file": "STL/02_Kirik_Beyaz/P141_Arma_Beyaz_01.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        24.58889389038086,
+        12.278165817260742,
+        30.34564971923828
+      ],
+      "volume_mm3": 590.0671336256656,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        24.385419845581055,
+        -25.14641571044922,
+        60.90161895751953
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P142",
+      "name": "Arma_Beyaz_02",
+      "file": "STL/02_Kirik_Beyaz/P142_Arma_Beyaz_02.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        29.61689567565918,
+        15.048593521118164,
+        35.47480392456055
+      ],
+      "volume_mm3": 239.79638711232528,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        23.801555633544922,
+        -25.09847640991211,
+        57.7618293762207
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P143",
+      "name": "Arma_Beyaz_03",
+      "file": "STL/02_Kirik_Beyaz/P143_Arma_Beyaz_03.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.818437576293945,
+        4.684061050415039,
+        9.116378784179688
+      ],
+      "volume_mm3": 43.85343908732107,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        30.21175765991211,
+        -24.46194839477539,
+        68.2796859741211
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P144",
+      "name": "Arma_Beyaz_04",
+      "file": "STL/02_Kirik_Beyaz/P144_Arma_Beyaz_04.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.301691055297852,
+        3.617898941040039,
+        3.4641990661621094
+      ],
+      "volume_mm3": 3.5833257343941067,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        24.13778305053711,
+        -24.898117065429688,
+        56.21196746826172
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P145",
+      "name": "Arma_Beyaz_05",
+      "file": "STL/02_Kirik_Beyaz/P145_Arma_Beyaz_05.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.998172760009766,
+        4.10847282409668,
+        5.4924774169921875
+      ],
+      "volume_mm3": 10.98808989969679,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        26.09309196472168,
+        -26.143577575683594,
+        68.59154510498047
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P146",
+      "name": "Arma_Beyaz_06",
+      "file": "STL/02_Kirik_Beyaz/P146_Arma_Beyaz_06.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        1.7596807479858398,
+        2.5003700256347656,
+        14.927536010742188
+      ],
+      "volume_mm3": 3.416238585430928,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        8.33596420288086,
+        -30.650758743286133,
+        76.767333984375
+      ],
+      "parent": "P027_Arma_Taban",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P147",
+      "name": "Bere_Bandi_Beyaz_01",
+      "file": "STL/02_Kirik_Beyaz/P147_Bere_Bandi_Beyaz_01.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        38.80687713623047,
+        39.08287048339844,
+        13.537033081054688
+      ],
+      "volume_mm3": 115.9491363043655,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -5.005220413208008,
+        -0.046387672424316406,
+        134.30029296875
+      ],
+      "parent": "P023_Bere_Bandi",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P148",
+      "name": "Bere_Bandi_Beyaz_02",
+      "file": "STL/02_Kirik_Beyaz/P148_Bere_Bandi_Beyaz_02.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        29.96908187866211,
+        16.503902435302734,
+        7.12677001953125
+      ],
+      "volume_mm3": 41.1018647769948,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -9.445688247680664,
+        10.810403823852539,
+        129.05990600585938
+      ],
+      "parent": "P023_Bere_Bandi",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P149",
+      "name": "Bere_Bandi_Beyaz_02_Bolum_2",
+      "file": "STL/02_Kirik_Beyaz/P149_Bere_Bandi_Beyaz_02_Bolum_2.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        2.0019874572753906,
+        6.665940284729004,
+        1.701324462890625
+      ],
+      "volume_mm3": 1.6021179741273681,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -23.487234115600586,
+        -1.1703567504882812,
+        135.9989471435547
+      ],
+      "parent": "P023_Bere_Bandi",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P150",
+      "name": "Bere_Bandi_Beyaz_03",
+      "file": "STL/02_Kirik_Beyaz/P150_Bere_Bandi_Beyaz_03.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        14.13424301147461,
+        33.77932357788086,
+        10.9482421875
+      ],
+      "volume_mm3": 21.03752811559147,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        7.649318695068359,
+        -2.386531352996826,
+        134.9486541748047
+      ],
+      "parent": "P023_Bere_Bandi",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P151",
+      "name": "Bere_Desen_Beyaz_01",
+      "file": "STL/02_Kirik_Beyaz/P151_Bere_Desen_Beyaz_01.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        39.1107292175293,
+        32.4780158996582,
+        12.876419067382812
+      ],
+      "volume_mm3": 103.63396465707247,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -4.16012716293335,
+        -5.839260578155518,
+        132.5922088623047
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P152",
+      "name": "Bere_Desen_Beyaz_02",
+      "file": "STL/02_Kirik_Beyaz/P152_Bere_Desen_Beyaz_02.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        4.840419769287109,
+        4.312459945678711,
+        3.38623046875
+      ],
+      "volume_mm3": 4.50057995816655,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        7.3101806640625,
+        13.347386360168457,
+        132.91641235351562
+      ],
+      "parent": "P016_Sac",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P153",
+      "name": "Kaide_Beyaz_01",
+      "file": "STL/02_Kirik_Beyaz/P153_Kaide_Beyaz_01.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.23306655883789,
+        6.591045379638672,
+        6.026298999786377
+      ],
+      "volume_mm3": 48.236260671384635,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -25.715089797973633,
+        37.204994201660156,
+        2.3645997047424316
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P154",
+      "name": "Kaide_Beyaz_02",
+      "file": "STL/02_Kirik_Beyaz/P154_Kaide_Beyaz_02.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.454710006713867,
+        7.615383148193359,
+        6.110503196716309
+      ],
+      "volume_mm3": 55.80592658603724,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        31.893314361572266,
+        -17.40245819091797,
+        2.3153116703033447
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P155",
+      "name": "Kaide_Beyaz_03",
+      "file": "STL/02_Kirik_Beyaz/P155_Kaide_Beyaz_03.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.666182994842529,
+        5.322872161865234,
+        5.7719035148620605
+      ],
+      "volume_mm3": 41.70070043255589,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        11.134256362915039,
+        38.26964569091797,
+        2.609279155731201
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P156",
+      "name": "Kaide_Beyaz_04",
+      "file": "STL/02_Kirik_Beyaz/P156_Kaide_Beyaz_04.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.1044464111328125,
+        9.321417808532715,
+        5.800600051879883
+      ],
+      "volume_mm3": 40.09227912528643,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -44.050926208496094,
+        -18.06818199157715,
+        2.506275177001953
+      ],
+      "parent": "P001_Kaide",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P157",
+      "name": "Kalkan_On_Panel_Beyaz_01",
+      "file": "STL/02_Kirik_Beyaz/P157_Kalkan_On_Panel_Beyaz_01.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.589080810546875,
+        8.235514640808105,
+        48.48891067504883
+      ],
+      "volume_mm3": 202.67702302780597,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        37.038177490234375,
+        -16.023508071899414,
+        54.01069259643555
+      ],
+      "parent": "P025_Kalkan_On_Panel",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P158",
+      "name": "Kalkan_On_Panel_Beyaz_02",
+      "file": "STL/02_Kirik_Beyaz/P158_Kalkan_On_Panel_Beyaz_02.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.636153697967529,
+        7.60943603515625,
+        48.17229461669922
+      ],
+      "volume_mm3": 179.5043540782333,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        8.71272087097168,
+        -28.290206909179688,
+        53.825584411621094
+      ],
+      "parent": "P025_Kalkan_On_Panel",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P159",
+      "name": "Kalkan_On_Panel_Beyaz_03",
+      "file": "STL/02_Kirik_Beyaz/P159_Kalkan_On_Panel_Beyaz_03.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.8653564453125,
+        7.850467681884766,
+        10.465019226074219
+      ],
+      "volume_mm3": 93.10387013318032,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        23.012863159179688,
+        -21.604623794555664,
+        94.83636474609375
+      ],
+      "parent": "P025_Kalkan_On_Panel",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P160",
+      "name": "Kalkan_On_Panel_Beyaz_04",
+      "file": "STL/02_Kirik_Beyaz/P160_Kalkan_On_Panel_Beyaz_04.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        8.102210998535156,
+        7.134279251098633,
+        8.23419189453125
+      ],
+      "volume_mm3": 62.44025615056239,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        23.455760955810547,
+        -22.679752349853516,
+        50.550254821777344
+      ],
+      "parent": "P025_Kalkan_On_Panel",
+      "connection": "profile_inlay"
+    },
+    {
+      "id": "P161",
+      "name": "Sag_Goz",
+      "file": "STL/02_Kirik_Beyaz/P161_Sag_Goz.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        7.760290145874023,
+        6.328009605407715,
+        5.1357574462890625
+      ],
+      "volume_mm3": 67.75247672746313,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        -6.123716354370117,
+        -16.547706604003906,
+        123.29374694824219
+      ],
+      "parent": "P015_Yuz",
+      "connection": "profile_and_D_pin",
+      "paint_regions": [
+        "goz beyazi",
+        "iris kahverengisi",
+        "gozbebegi siyahi",
+        "beyaz isik noktasi"
+      ],
+      "eye_module": "Tek fiziksel parca, tum goz renkleri ayni parca uzerine boyanir"
+    },
+    {
+      "id": "P162",
+      "name": "Sol_Goz",
+      "file": "STL/02_Kirik_Beyaz/P162_Sol_Goz.stl",
+      "paint": "white",
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "dimensions_mm": [
+        6.241565227508545,
+        7.953093528747559,
+        4.960548400878906
+      ],
+      "volume_mm3": 50.76244146323934,
+      "nonmanifold_edges": 0,
+      "assembly_translation_from_print_stl_mm": [
+        7.630425453186035,
+        -8.510814666748047,
+        121.37017059326172
+      ],
+      "parent": "P015_Yuz",
+      "connection": "profile_and_D_pin",
+      "paint_regions": [
+        "goz beyazi",
+        "iris kahverengisi",
+        "gozbebegi siyahi",
+        "beyaz isik noktasi"
+      ],
+      "eye_module": "Tek fiziksel parca, tum goz renkleri ayni parca uzerine boyanir"
+    }
+  ]
+}

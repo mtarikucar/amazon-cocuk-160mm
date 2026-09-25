@@ -1,0 +1,34 @@
+[
+  {
+    "parts": [
+      "P015",
+      "P016"
+    ],
+    "intersection_volume_mm3": 5.265270827242534e-05,
+    "within_numeric_tolerance": true
+  },
+  {
+    "parts": [
+      "P015",
+      "P014"
+    ],
+    "intersection_volume_mm3": 0.0,
+    "within_numeric_tolerance": true
+  },
+  {
+    "parts": [
+      "P015",
+      "P017"
+    ],
+    "intersection_volume_mm3": 9.408755210214056e-10,
+    "within_numeric_tolerance": true
+  },
+  {
+    "parts": [
+      "P015",
+      "P021"
+    ],
+    "intersection_volume_mm3": 0.0002965126984115461,
+    "within_numeric_tolerance": true
+  }
+]

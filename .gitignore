@@ -1,0 +1,7 @@
+*.zip
+*.blend
+*.blend1
+*.3mf
+*.stl
+.env
+.env.*

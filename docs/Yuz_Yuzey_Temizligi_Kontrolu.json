@@ -1,0 +1,222 @@
+{
+  "voxel_resolution_mm": 0.08,
+  "removed_disconnected_residues": [
+    {
+      "vertices": 4545,
+      "volume_mm3": 0.44459997409212504
+    },
+    {
+      "vertices": 167,
+      "volume_mm3": 0.0010399648449996536
+    },
+    {
+      "vertices": 44,
+      "volume_mm3": 6.469263064023214e-07
+    },
+    {
+      "vertices": 30,
+      "volume_mm3": 7.230529061530269e-05
+    },
+    {
+      "vertices": 27,
+      "volume_mm3": 2.5156602121660417e-05
+    },
+    {
+      "vertices": 23,
+      "volume_mm3": 4.600087990463707e-06
+    },
+    {
+      "vertices": 19,
+      "volume_mm3": 7.170501079194454e-07
+    },
+    {
+      "vertices": 15,
+      "volume_mm3": 7.790485283517897e-07
+    },
+    {
+      "vertices": 15,
+      "volume_mm3": 2.029869840771108e-06
+    },
+    {
+      "vertices": 15,
+      "volume_mm3": 2.4205860664328286e-06
+    },
+    {
+      "vertices": 14,
+      "volume_mm3": 2.009252923849806e-07
+    },
+    {
+      "vertices": 14,
+      "volume_mm3": 1.4723980289396845e-06
+    },
+    {
+      "vertices": 13,
+      "volume_mm3": 6.5408939947876e-06
+    },
+    {
+      "vertices": 13,
+      "volume_mm3": 1.9340466452837037e-07
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 5.536414030228026e-07
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 1.557999539433759e-06
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 5.605573266855874e-06
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 3.37487434576524e-05
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 1.0458251506796001e-07
+    },
+    {
+      "vertices": 12,
+      "volume_mm3": 9.738309191643277e-08
+    },
+    {
+      "vertices": 11,
+      "volume_mm3": 1.1544621305633945e-05
+    },
+    {
+      "vertices": 10,
+      "volume_mm3": 1.0532535339743747e-05
+    },
+    {
+      "vertices": 9,
+      "volume_mm3": 7.218739166035547e-06
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 1.8722982892702393e-05
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 2.3730687743424078e-06
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 1.9926570620805786e-05
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 1.6312253813163425e-06
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 1.873742213234341e-07
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 2.5465470452523307e-06
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 3.835404307524085e-07
+    },
+    {
+      "vertices": 8,
+      "volume_mm3": 6.624375622995161e-06
+    },
+    {
+      "vertices": 7,
+      "volume_mm3": 1.6975948396841908e-05
+    },
+    {
+      "vertices": 7,
+      "volume_mm3": 7.938146830073258e-08
+    },
+    {
+      "vertices": 7,
+      "volume_mm3": 1.1847803398662725e-06
+    },
+    {
+      "vertices": 7,
+      "volume_mm3": 8.66778590125956e-06
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 1.9415720290433827e-07
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 9.83761078459382e-07
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 9.669831527249265e-07
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 1.8473757141819046e-07
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 3.0188062292990876e-06
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 5.862438384273251e-07
+    },
+    {
+      "vertices": 6,
+      "volume_mm3": 3.2745403224209795e-07
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 6.08049493627052e-06
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 1.7516899195143684e-06
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 8.010649990335887e-07
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 4.819270825754491e-06
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 4.387224691441123e-07
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 3.850574615837796e-07
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 8.888173720629326e-07
+    },
+    {
+      "vertices": 5,
+      "volume_mm3": 7.852705971937138e-07
+    },
+    {
+      "vertices": 4,
+      "volume_mm3": 2.630295568841273e-06
+    },
+    {
+      "vertices": 4,
+      "volume_mm3": 3.277187250832857e-08
+    },
+    {
+      "vertices": 4,
+      "volume_mm3": 3.5972163887291325e-07
+    },
+    {
+      "vertices": 4,
+      "volume_mm3": 7.106464158593284e-07
+    }
+  ],
+  "total_removed_volume_mm3": 0.44593321538804587
+}

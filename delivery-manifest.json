@@ -1,0 +1,757 @@
+{
+  "release_tag": "v1.0.0",
+  "asset": "Amazon_Cocuk_160mm_Yuz_Duzeltilmis_Tum_Parcalar.zip",
+  "size_bytes": 1378316783,
+  "sha256": "0e1ba4b39253cc9116c3825c55d29995f6eac63eb5f1b39029468014c55dadfe",
+  "download_url": "https://github.com/mtarikucar/amazon-cocuk-160mm/releases/download/v1.0.0/Amazon_Cocuk_160mm_Yuz_Duzeltilmis_Tum_Parcalar.zip",
+  "files": [
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Amazon_Cocuk_160mm_Montaj.3mf",
+      "bytes": 360003154
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Amazon_Cocuk_160mm_Parcali.blend",
+      "bytes": 481721105
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/CAD_Geometri_Kontrolu.json",
+      "bytes": 50169
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/gecme_testi.blend",
+      "bytes": 379628
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/gecme_testi_onizleme.png",
+      "bytes": 1436665
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/geometri_kontrolu.json",
+      "bytes": 1125
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/KULLANIM.md",
+      "bytes": 1888
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/PIM_D2mm_L4mm.stl",
+      "bytes": 124784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/PIM_D4mm_L4mm.stl",
+      "bytes": 118484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/PIM_D6mm_L4mm.stl",
+      "bytes": 127584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gecme_Testi/TEST_PLAKA_74x43x6mm.stl",
+      "bytes": 669184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gizli_Sac_Oturma_Duzeltmesi.json",
+      "bytes": 212
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Gomme_Parca_Kontrolu.json",
+      "bytes": 22981
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Goz_Gecme_Olculeri.json",
+      "bytes": 1109
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Goz_Tak_Cikar_Kontrolu.json",
+      "bytes": 2616
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Montaj_Baglanti_Kontrolu.json",
+      "bytes": 175
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Montaj_Konum_Kontrolu.json",
+      "bytes": 327
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Montaj_Onizleme.png",
+      "bytes": 2828276
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/ONCE_OKU_Montaj_ve_Uretim.md",
+      "bytes": 7003
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Parca_Listesi.md",
+      "bytes": 8631
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Parca_Listesi_ve_Olculer.json",
+      "bytes": 97022
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Parcalar_Patlatilmis.png",
+      "bytes": 3234630
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Pim_Yuva_Baglantilari.json",
+      "bytes": 14534
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Referans_Gorsel.jpeg",
+      "bytes": 151499
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Son_Kontrol_Ozeti.json",
+      "bytes": 326
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P005_Pantolon.stl",
+      "bytes": 3447684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P014_Sal.stl",
+      "bytes": 18075184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P020_Sac_Bagi.stl",
+      "bytes": 314884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P022_Bere.stl",
+      "bytes": 1363284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P023_Bere_Bandi.stl",
+      "bytes": 20210484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P025_Kalkan_On_Panel.stl",
+      "bytes": 17914484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P027_Arma_Taban.stl",
+      "bytes": 17955084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P040_Bere_Bant_Kirmizi_01.stl",
+      "bytes": 27205884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P041_Bere_Bant_Kirmizi_01_Bolum_2.stl",
+      "bytes": 6506484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P042_Bere_Bant_Kirmizi_02.stl",
+      "bytes": 1382884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P043_Bere_Bant_Kirmizi_03.stl",
+      "bytes": 436184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P044_Bere_Bant_Kirmizi_04.stl",
+      "bytes": 439884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P045_Bere_Bant_Kirmizi_05.stl",
+      "bytes": 378484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P046_Bere_Bant_Kirmizi_06.stl",
+      "bytes": 383584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P047_Bere_Bant_Kirmizi_07.stl",
+      "bytes": 401184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P048_Bere_Bant_Kirmizi_08.stl",
+      "bytes": 288484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P049_Bere_Bant_Kirmizi_09.stl",
+      "bytes": 296884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P050_Bere_Bant_Kirmizi_10.stl",
+      "bytes": 264084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P051_Bere_Bant_Kirmizi_11.stl",
+      "bytes": 198684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P052_Bere_Bant_Kirmizi_12.stl",
+      "bytes": 332484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P053_Bere_Bant_Kirmizi_13.stl",
+      "bytes": 182284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P054_Bere_Bant_Kirmizi_14.stl",
+      "bytes": 211284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P055_Bere_Bant_Kirmizi_15.stl",
+      "bytes": 163084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P056_Bere_Bant_Kirmizi_16.stl",
+      "bytes": 167284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P057_Bere_Bant_Kirmizi_17.stl",
+      "bytes": 184284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P058_Bere_Bant_Kirmizi_18.stl",
+      "bytes": 264284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P059_Bere_Bant_Kirmizi_19.stl",
+      "bytes": 187684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P060_Bere_Bant_Kirmizi_21.stl",
+      "bytes": 155284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P061_Bere_Bant_Kirmizi_24.stl",
+      "bytes": 133084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P062_Kaide_Kirmizi_01.stl",
+      "bytes": 4630484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P063_Kaide_Kirmizi_02.stl",
+      "bytes": 2620084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P064_Kaide_Kirmizi_03.stl",
+      "bytes": 2825384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P065_Kaide_Kirmizi_04.stl",
+      "bytes": 2372284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P066_Kaide_Kirmizi_05.stl",
+      "bytes": 1714884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P067_Kaide_Kirmizi_06.stl",
+      "bytes": 1820484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P068_Kaide_Kirmizi_07.stl",
+      "bytes": 1578284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P069_Kaide_Kirmizi_08.stl",
+      "bytes": 390284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P070_Kaide_Kirmizi_09.stl",
+      "bytes": 522284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P071_Orgu_Ucu_Kirmizi_Bag_01.stl",
+      "bytes": 7902884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P072_Orgu_Ucu_Kirmizi_Bag_02.stl",
+      "bytes": 199484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P073_Sac_Kirmizi_Bag_01.stl",
+      "bytes": 16219084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P074_Sac_Kirmizi_Bag_02.stl",
+      "bytes": 727784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P075_Sag_Kol_Kirmizi_01.stl",
+      "bytes": 31596084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P076_Sag_Kol_Kirmizi_02.stl",
+      "bytes": 6737784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P077_Sag_Kol_Kirmizi_03.stl",
+      "bytes": 1833484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P078_Sag_Kol_Kirmizi_04.stl",
+      "bytes": 2947884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P079_Sag_Kol_Kirmizi_05.stl",
+      "bytes": 453684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P080_Sag_Kol_Kirmizi_06.stl",
+      "bytes": 470484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P081_Sag_Kol_Kirmizi_07.stl",
+      "bytes": 413684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P082_Sag_Kol_Kirmizi_08.stl",
+      "bytes": 251684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P083_Sag_Kol_Kirmizi_10.stl",
+      "bytes": 184484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P084_Sag_Kol_Kirmizi_11.stl",
+      "bytes": 169984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P085_Sag_Kol_Kirmizi_12.stl",
+      "bytes": 124384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P086_Sag_Kol_Kirmizi_13.stl",
+      "bytes": 167684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P087_Sol_Kol_El_Kirmizi_01.stl",
+      "bytes": 1722784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P088_Sol_Kol_El_Kirmizi_02.stl",
+      "bytes": 7827484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P089_Sol_Kol_El_Kirmizi_03.stl",
+      "bytes": 1090784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P090_Sol_Kol_El_Kirmizi_04.stl",
+      "bytes": 969384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P091_Sol_Kol_El_Kirmizi_05.stl",
+      "bytes": 1003084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P092_Sol_Kol_El_Kirmizi_06.stl",
+      "bytes": 655684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P093_Sol_Kol_El_Kirmizi_07.stl",
+      "bytes": 842584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P094_Sol_Kol_El_Kirmizi_08.stl",
+      "bytes": 249084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P095_Sol_Kol_El_Kirmizi_09.stl",
+      "bytes": 238584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P096_Sol_Kol_El_Kirmizi_10.stl",
+      "bytes": 310784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P097_Sol_Kol_El_Kirmizi_11.stl",
+      "bytes": 287284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P098_Sol_Kol_El_Kirmizi_12.stl",
+      "bytes": 258684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P099_Sol_Kol_El_Kirmizi_13.stl",
+      "bytes": 366884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P100_Sol_Kol_El_Kirmizi_14.stl",
+      "bytes": 247484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P101_Sol_Kol_El_Kirmizi_15.stl",
+      "bytes": 163884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P102_Sol_Kol_El_Kirmizi_16.stl",
+      "bytes": 137584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P103_Sol_Kol_El_Kirmizi_18.stl",
+      "bytes": 161484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P104_Sol_Kol_El_Kirmizi_24.stl",
+      "bytes": 114884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P105_Sol_Kol_El_Kirmizi_28.stl",
+      "bytes": 170784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P106_Tunik_Etek_Kirmizi_01.stl",
+      "bytes": 17953684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P107_Tunik_Etek_Kirmizi_02.stl",
+      "bytes": 13859084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P108_Tunik_Etek_Kirmizi_03.stl",
+      "bytes": 2291484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P109_Tunik_Etek_Kirmizi_04.stl",
+      "bytes": 9943084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P110_Tunik_Etek_Kirmizi_05.stl",
+      "bytes": 1051884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P111_Tunik_Etek_Kirmizi_06.stl",
+      "bytes": 6960284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P112_Tunik_Etek_Kirmizi_07.stl",
+      "bytes": 1575884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P113_Tunik_Etek_Kirmizi_08.stl",
+      "bytes": 795284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P114_Tunik_Etek_Kirmizi_09.stl",
+      "bytes": 630684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P115_Tunik_Etek_Kirmizi_10.stl",
+      "bytes": 590284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P116_Tunik_Etek_Kirmizi_11.stl",
+      "bytes": 457284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P117_Tunik_Etek_Kirmizi_12.stl",
+      "bytes": 1927484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P118_Tunik_Etek_Kirmizi_13.stl",
+      "bytes": 524284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P119_Tunik_Etek_Kirmizi_14.stl",
+      "bytes": 377484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P120_Tunik_Etek_Kirmizi_15.stl",
+      "bytes": 272784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P121_Tunik_Etek_Kirmizi_16.stl",
+      "bytes": 661384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P122_Tunik_Etek_Kirmizi_17.stl",
+      "bytes": 353484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P123_Tunik_Etek_Kirmizi_18.stl",
+      "bytes": 286484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P124_Tunik_Etek_Kirmizi_19.stl",
+      "bytes": 251184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P125_Tunik_Etek_Kirmizi_20.stl",
+      "bytes": 216884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P126_Tunik_Etek_Kirmizi_21.stl",
+      "bytes": 217884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P127_Tunik_Etek_Kirmizi_22.stl",
+      "bytes": 237484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P128_Tunik_Etek_Kirmizi_23.stl",
+      "bytes": 406484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P129_Tunik_Etek_Kirmizi_24.stl",
+      "bytes": 267284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P130_Tunik_Etek_Kirmizi_26.stl",
+      "bytes": 171284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P131_Tunik_Etek_Kirmizi_27.stl",
+      "bytes": 296584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P132_Tunik_Etek_Kirmizi_28.stl",
+      "bytes": 205584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P133_Tunik_Etek_Kirmizi_29.stl",
+      "bytes": 194684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P134_Tunik_Etek_Kirmizi_30.stl",
+      "bytes": 229084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P135_Tunik_Etek_Kirmizi_31.stl",
+      "bytes": 158084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P136_Tunik_Etek_Kirmizi_32.stl",
+      "bytes": 184784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P137_Tunik_Etek_Kirmizi_33.stl",
+      "bytes": 358584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P138_Tunik_Etek_Kirmizi_34.stl",
+      "bytes": 195884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P139_Tunik_Etek_Kirmizi_35.stl",
+      "bytes": 174084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/01_Kirmizi/P140_Tunik_Etek_Kirmizi_36.stl",
+      "bytes": 173184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P006_Govde.stl",
+      "bytes": 623784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P009_Tunik_Etek.stl",
+      "bytes": 30274484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P010_Sag_Kol.stl",
+      "bytes": 20070684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P011_Sol_Kol.stl",
+      "bytes": 18787984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P141_Arma_Beyaz_01.stl",
+      "bytes": 88064684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P142_Arma_Beyaz_02.stl",
+      "bytes": 5174084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P143_Arma_Beyaz_03.stl",
+      "bytes": 1790684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P144_Arma_Beyaz_04.stl",
+      "bytes": 496584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P145_Arma_Beyaz_05.stl",
+      "bytes": 735084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P146_Arma_Beyaz_06.stl",
+      "bytes": 815284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P147_Bere_Bandi_Beyaz_01.stl",
+      "bytes": 38635284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P148_Bere_Bandi_Beyaz_02.stl",
+      "bytes": 19716284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P149_Bere_Bandi_Beyaz_02_Bolum_2.stl",
+      "bytes": 1329284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P150_Bere_Bandi_Beyaz_03.stl",
+      "bytes": 11524684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P151_Bere_Desen_Beyaz_01.stl",
+      "bytes": 41326384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P152_Bere_Desen_Beyaz_02.stl",
+      "bytes": 509284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P153_Kaide_Beyaz_01.stl",
+      "bytes": 1829584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P154_Kaide_Beyaz_02.stl",
+      "bytes": 9327284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P155_Kaide_Beyaz_03.stl",
+      "bytes": 1519684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P156_Kaide_Beyaz_04.stl",
+      "bytes": 1649284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P157_Kalkan_On_Panel_Beyaz_01.stl",
+      "bytes": 37314084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P158_Kalkan_On_Panel_Beyaz_02.stl",
+      "bytes": 29331684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P159_Kalkan_On_Panel_Beyaz_03.stl",
+      "bytes": 3905984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P160_Kalkan_On_Panel_Beyaz_04.stl",
+      "bytes": 2357484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P161_Sag_Goz.stl",
+      "bytes": 658084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/02_Kirik_Beyaz/P162_Sol_Goz.stl",
+      "bytes": 642484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/03_Ten/P012_Sag_El.stl",
+      "bytes": 705484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/03_Ten/P013_Sol_El.stl",
+      "bytes": 2373184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/03_Ten/P015_Yuz.stl",
+      "bytes": 73663984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/03_Ten/P021_Sol_Kulak.stl",
+      "bytes": 149384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/04_Sac_Kahverengi/P016_Sac.stl",
+      "bytes": 20481084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/04_Sac_Kahverengi/P017_Sac_Ic_1.stl",
+      "bytes": 301284
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/04_Sac_Kahverengi/P018_Sac_Ic_2.stl",
+      "bytes": 368784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/04_Sac_Kahverengi/P019_Orgu_Ucu.stl",
+      "bytes": 4987784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/05_Deri_Kahverengi/P003_Sag_Bot.stl",
+      "bytes": 2950584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/05_Deri_Kahverengi/P004_Sol_Bot.stl",
+      "bytes": 2888984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/05_Deri_Kahverengi/P007_Zirh_On.stl",
+      "bytes": 18701884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/05_Deri_Kahverengi/P008_Zirh_Arka.stl",
+      "bytes": 3005784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/05_Deri_Kahverengi/P024_Kalkan_Arka_Panel.stl",
+      "bytes": 3110684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/06_Bronz/P026_Kalkan_Dis_Cerceve.stl",
+      "bytes": 3402984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/06_Bronz/P033_Kemer_Tokasi_01.stl",
+      "bytes": 1705884
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/06_Bronz/P034_Sal_Brosu_01.stl",
+      "bytes": 1806084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/07_Siyah/P028_Arma_Atli_Kabartma_01.stl",
+      "bytes": 50415684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/10_Tas_Grisi/P001_Kaide.stl",
+      "bytes": 34481684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL/10_Tas_Grisi/P002_Kaide_Ustu_Tas.stl",
+      "bytes": 224869684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL_Dosya_Kontrolu.json",
+      "bytes": 52165
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/STL_Hassasiyet_Duzeltmeleri.json",
+      "bytes": 6681
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_Duzeltmesi_Notlari.json",
+      "bytes": 523
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_Geometri.png",
+      "bytes": 2636858
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_Komsu_Parca_Kontrolu.json",
+      "bytes": 613
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_STL_Hassasiyet_Duzeltmesi.json",
+      "bytes": 1331
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_ve_Iki_Goz_Parcalari.png",
+      "bytes": 1569166
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_Yakin_Plan.png",
+      "bytes": 2707635
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_Yuz_Duzeltildi/Yuz_Yuzey_Temizligi_Kontrolu.json",
+      "bytes": 4487
+    }
+  ]
+}

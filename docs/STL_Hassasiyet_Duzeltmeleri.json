@@ -1,0 +1,296 @@
+[
+  {
+    "part": "P001",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P007",
+    "repaired_polygon_count": 32,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P009",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P013",
+    "repaired_polygon_count": 82,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P023",
+    "repaired_polygon_count": 32,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P027",
+    "repaired_polygon_count": 36,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P042",
+    "repaired_polygon_count": 3,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P044",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P045",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P052",
+    "repaired_polygon_count": 14,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P058",
+    "repaired_polygon_count": 0,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P059",
+    "repaired_polygon_count": 9,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P060",
+    "repaired_polygon_count": 3,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P064",
+    "repaired_polygon_count": 22,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P067",
+    "repaired_polygon_count": 22,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P068",
+    "repaired_polygon_count": 7,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P069",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P074",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P076",
+    "repaired_polygon_count": 0,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P080",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P081",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P084",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P085",
+    "repaired_polygon_count": 9,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P087",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P089",
+    "repaired_polygon_count": 5,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P090",
+    "repaired_polygon_count": 3,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P091",
+    "repaired_polygon_count": 9,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P093",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P096",
+    "repaired_polygon_count": 3,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P097",
+    "repaired_polygon_count": 11,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P100",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P105",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P110",
+    "repaired_polygon_count": 13,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P115",
+    "repaired_polygon_count": 10,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P118",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P120",
+    "repaired_polygon_count": 3,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P128",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P130",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P131",
+    "repaired_polygon_count": 12,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P132",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P134",
+    "repaired_polygon_count": 0,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P136",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P137",
+    "repaired_polygon_count": 2,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P140",
+    "repaired_polygon_count": 4,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P145",
+    "repaired_polygon_count": 12,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P152",
+    "repaired_polygon_count": 6,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P153",
+    "repaired_polygon_count": 14,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P154",
+    "repaired_polygon_count": 0,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  },
+  {
+    "part": "P159",
+    "repaired_polygon_count": 18,
+    "face_inset_mm": 0.001,
+    "triangulated_nonmanifold_edges": 0
+  }
+]

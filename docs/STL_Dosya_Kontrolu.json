@@ -1,0 +1,1846 @@
+{
+  "parts_checked": 153,
+  "unit": "mm",
+  "all_dimensions_match": true,
+  "all_positive_volume": true,
+  "parts_with_topology_warning": [],
+  "physical_print_test_completed": false,
+  "parts": [
+    {
+      "part": "P001",
+      "file": "STL/10_Tas_Grisi/P001_Kaide.stl",
+      "triangles": 689632,
+      "dimensions_mm": [
+        89.16869354248047,
+        89.07682037353516,
+        12.70201301574707
+      ],
+      "volume_mm3": 56866.44385582233,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P002",
+      "file": "STL/10_Tas_Grisi/P002_Kaide_Ustu_Tas.stl",
+      "triangles": 4497392,
+      "dimensions_mm": [
+        44.57267951965332,
+        31.112346649169922,
+        26.174386978149414
+      ],
+      "volume_mm3": 10394.904724199108,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P003",
+      "file": "STL/05_Deri_Kahverengi/P003_Sag_Bot.stl",
+      "triangles": 59010,
+      "dimensions_mm": [
+        22.94071388244629,
+        23.34018325805664,
+        34.328224182128906
+      ],
+      "volume_mm3": 4083.3550768555706,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P004",
+      "file": "STL/05_Deri_Kahverengi/P004_Sol_Bot.stl",
+      "triangles": 57778,
+      "dimensions_mm": [
+        25.79770278930664,
+        22.837570190429688,
+        28.279586791992188
+      ],
+      "volume_mm3": 3702.1538623502856,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P005",
+      "file": "STL/01_Kirmizi/P005_Pantolon.stl",
+      "triangles": 68952,
+      "dimensions_mm": [
+        54.65716552734375,
+        27.399993896484375,
+        38.19515609741211
+      ],
+      "volume_mm3": 16498.214788012196,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P006",
+      "file": "STL/02_Kirik_Beyaz/P006_Govde.stl",
+      "triangles": 12474,
+      "dimensions_mm": [
+        13.00000810623169,
+        14.781683921813965,
+        21.0
+      ],
+      "volume_mm3": 1729.2891593179613,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P007",
+      "file": "STL/05_Deri_Kahverengi/P007_Zirh_On.stl",
+      "triangles": 374036,
+      "dimensions_mm": [
+        36.84321212768555,
+        16.8929443359375,
+        40.652130126953125
+      ],
+      "volume_mm3": 7520.504698120655,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P008",
+      "file": "STL/05_Deri_Kahverengi/P008_Zirh_Arka.stl",
+      "triangles": 60114,
+      "dimensions_mm": [
+        36.03909683227539,
+        16.128707885742188,
+        33.201690673828125
+      ],
+      "volume_mm3": 5907.200228485177,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P009",
+      "file": "STL/02_Kirik_Beyaz/P009_Tunik_Etek.stl",
+      "triangles": 605488,
+      "dimensions_mm": [
+        50.83797836303711,
+        37.19890213012695,
+        26.931259155273438
+      ],
+      "volume_mm3": 7217.5733005255615,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P010",
+      "file": "STL/02_Kirik_Beyaz/P010_Sag_Kol.stl",
+      "triangles": 401412,
+      "dimensions_mm": [
+        24.423507690429688,
+        13.99348258972168,
+        30.249176025390625
+      ],
+      "volume_mm3": 2294.4613749994046,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P011",
+      "file": "STL/02_Kirik_Beyaz/P011_Sol_Kol.stl",
+      "triangles": 375758,
+      "dimensions_mm": [
+        22.52173614501953,
+        23.979045867919922,
+        25.50994110107422
+      ],
+      "volume_mm3": 2482.124323301272,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P012",
+      "file": "STL/03_Ten/P012_Sag_El.stl",
+      "triangles": 14108,
+      "dimensions_mm": [
+        10.246767044067383,
+        13.284576416015625,
+        13.905364990234375
+      ],
+      "volume_mm3": 805.8295905343866,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P013",
+      "file": "STL/03_Ten/P013_Sol_El.stl",
+      "triangles": 47462,
+      "dimensions_mm": [
+        20.562667846679688,
+        14.619589805603027,
+        13.040901184082031
+      ],
+      "volume_mm3": 827.139976849336,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P014",
+      "file": "STL/01_Kirmizi/P014_Sal.stl",
+      "triangles": 361502,
+      "dimensions_mm": [
+        48.672752380371094,
+        40.21781921386719,
+        50.39603805541992
+      ],
+      "volume_mm3": 13398.91871915709,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P015",
+      "file": "STL/03_Ten/P015_Yuz.stl",
+      "triangles": 1473278,
+      "dimensions_mm": [
+        35.80513000488281,
+        30.925935745239258,
+        32.75128936767578
+      ],
+      "volume_mm3": 8052.116243249323,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P016",
+      "file": "STL/04_Sac_Kahverengi/P016_Sac.stl",
+      "triangles": 409620,
+      "dimensions_mm": [
+        63.857139587402344,
+        50.68819808959961,
+        58.68079376220703
+      ],
+      "volume_mm3": 22075.507324387738,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P017",
+      "file": "STL/04_Sac_Kahverengi/P017_Sac_Ic_1.stl",
+      "triangles": 6024,
+      "dimensions_mm": [
+        10.112874984741211,
+        11.141388893127441,
+        7.624732971191406
+      ],
+      "volume_mm3": 97.96963946478674,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P018",
+      "file": "STL/04_Sac_Kahverengi/P018_Sac_Ic_2.stl",
+      "triangles": 7374,
+      "dimensions_mm": [
+        9.182992935180664,
+        9.426424026489258,
+        13.027427673339844
+      ],
+      "volume_mm3": 105.38959334591408,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P019",
+      "file": "STL/04_Sac_Kahverengi/P019_Orgu_Ucu.stl",
+      "triangles": 99754,
+      "dimensions_mm": [
+        10.717689990997314,
+        12.168128967285156,
+        13.671127319335938
+      ],
+      "volume_mm3": 579.295197812148,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P020",
+      "file": "STL/01_Kirmizi/P020_Sac_Bagi.stl",
+      "triangles": 6296,
+      "dimensions_mm": [
+        7.421221971511841,
+        7.6265106201171875,
+        7.216316223144531
+      ],
+      "volume_mm3": 96.61063189984839,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P021",
+      "file": "STL/03_Ten/P021_Sol_Kulak.stl",
+      "triangles": 2986,
+      "dimensions_mm": [
+        5.781877517700195,
+        5.8845415115356445,
+        8.235511779785156
+      ],
+      "volume_mm3": 53.900744648273985,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P022",
+      "file": "STL/01_Kirmizi/P022_Bere.stl",
+      "triangles": 27264,
+      "dimensions_mm": [
+        38.45399475097656,
+        38.034873962402344,
+        24.665695190429688
+      ],
+      "volume_mm3": 10090.732657664432,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P023",
+      "file": "STL/01_Kirmizi/P023_Bere_Bandi.stl",
+      "triangles": 404208,
+      "dimensions_mm": [
+        39.17791748046875,
+        38.903076171875,
+        18.699615478515625
+      ],
+      "volume_mm3": 4202.142592707332,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P024",
+      "file": "STL/05_Deri_Kahverengi/P024_Kalkan_Arka_Panel.stl",
+      "triangles": 62212,
+      "dimensions_mm": [
+        50.82542037963867,
+        24.750579833984375,
+        54.83514404296875
+      ],
+      "volume_mm3": 7689.148456425231,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P025",
+      "file": "STL/01_Kirmizi/P025_Kalkan_On_Panel.stl",
+      "triangles": 358288,
+      "dimensions_mm": [
+        49.58449745178223,
+        22.571313858032227,
+        54.25348663330078
+      ],
+      "volume_mm3": 5529.838768495601,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P026",
+      "file": "STL/06_Bronz/P026_Kalkan_Dis_Cerceve.stl",
+      "triangles": 68058,
+      "dimensions_mm": [
+        58.92365264892578,
+        30.728203773498535,
+        63.65828323364258
+      ],
+      "volume_mm3": 15017.015198505193,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P027",
+      "file": "STL/01_Kirmizi/P027_Arma_Taban.stl",
+      "triangles": 359100,
+      "dimensions_mm": [
+        33.01483154296875,
+        18.153854370117188,
+        38.87782287597656
+      ],
+      "volume_mm3": 1380.3379642266375,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P028",
+      "file": "STL/07_Siyah/P028_Arma_Atli_Kabartma_01.stl",
+      "triangles": 1008312,
+      "dimensions_mm": [
+        20.229683876037598,
+        9.477420806884766,
+        20.52581024169922
+      ],
+      "volume_mm3": 224.56646567641778,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P033",
+      "file": "STL/06_Bronz/P033_Kemer_Tokasi_01.stl",
+      "triangles": 34116,
+      "dimensions_mm": [
+        8.787206649780273,
+        3.1267595291137695,
+        4.65374755859375
+      ],
+      "volume_mm3": 23.002024648634954,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P034",
+      "file": "STL/06_Bronz/P034_Sal_Brosu_01.stl",
+      "triangles": 36120,
+      "dimensions_mm": [
+        5.755061149597168,
+        6.653776168823242,
+        5.830085754394531
+      ],
+      "volume_mm3": 44.9448945257295,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P040",
+      "file": "STL/01_Kirmizi/P040_Bere_Bant_Kirmizi_01.stl",
+      "triangles": 544116,
+      "dimensions_mm": [
+        25.57132911682129,
+        34.016014099121094,
+        11.498764038085938
+      ],
+      "volume_mm3": 96.84561852871077,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P041",
+      "file": "STL/01_Kirmizi/P041_Bere_Bant_Kirmizi_01_Bolum_2.stl",
+      "triangles": 130128,
+      "dimensions_mm": [
+        13.208053588867188,
+        13.752169132232666,
+        6.3831024169921875
+      ],
+      "volume_mm3": 21.271404869301715,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P042",
+      "file": "STL/01_Kirmizi/P042_Bere_Bant_Kirmizi_02.stl",
+      "triangles": 27656,
+      "dimensions_mm": [
+        20.515506744384766,
+        14.191838264465332,
+        7.414459228515625
+      ],
+      "volume_mm3": 8.9975355430636,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P043",
+      "file": "STL/01_Kirmizi/P043_Bere_Bant_Kirmizi_03.stl",
+      "triangles": 8722,
+      "dimensions_mm": [
+        5.384292125701904,
+        2.862497329711914,
+        2.994171142578125
+      ],
+      "volume_mm3": 6.189027776296939,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P044",
+      "file": "STL/01_Kirmizi/P044_Bere_Bant_Kirmizi_04.stl",
+      "triangles": 8796,
+      "dimensions_mm": [
+        5.332736968994141,
+        2.7518310546875,
+        2.8316192626953125
+      ],
+      "volume_mm3": 6.340175691281111,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P045",
+      "file": "STL/01_Kirmizi/P045_Bere_Bant_Kirmizi_05.stl",
+      "triangles": 7568,
+      "dimensions_mm": [
+        4.03375244140625,
+        4.114524841308594,
+        2.16912841796875
+      ],
+      "volume_mm3": 5.731453811281896,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P046",
+      "file": "STL/01_Kirmizi/P046_Bere_Bant_Kirmizi_06.stl",
+      "triangles": 7670,
+      "dimensions_mm": [
+        4.155422687530518,
+        2.1995983123779297,
+        2.81768798828125
+      ],
+      "volume_mm3": 6.782875217923944,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P047",
+      "file": "STL/01_Kirmizi/P047_Bere_Bant_Kirmizi_07.stl",
+      "triangles": 8022,
+      "dimensions_mm": [
+        2.8383026123046875,
+        4.250769138336182,
+        3.1661834716796875
+      ],
+      "volume_mm3": 6.732418774632994,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P048",
+      "file": "STL/01_Kirmizi/P048_Bere_Bant_Kirmizi_08.stl",
+      "triangles": 5768,
+      "dimensions_mm": [
+        4.923155307769775,
+        1.4173412322998047,
+        4.595428466796875
+      ],
+      "volume_mm3": 2.5771799174891643,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P049",
+      "file": "STL/01_Kirmizi/P049_Bere_Bant_Kirmizi_09.stl",
+      "triangles": 5936,
+      "dimensions_mm": [
+        2.751668930053711,
+        4.171125888824463,
+        2.50653076171875
+      ],
+      "volume_mm3": 3.479925638269554,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P050",
+      "file": "STL/01_Kirmizi/P050_Bere_Bant_Kirmizi_10.stl",
+      "triangles": 5280,
+      "dimensions_mm": [
+        3.701854705810547,
+        3.1388750076293945,
+        2.5769805908203125
+      ],
+      "volume_mm3": 3.036368820628977,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P051",
+      "file": "STL/01_Kirmizi/P051_Bere_Bant_Kirmizi_11.stl",
+      "triangles": 3972,
+      "dimensions_mm": [
+        1.9372730255126953,
+        3.0286428928375244,
+        2.10467529296875
+      ],
+      "volume_mm3": 2.6669754708643407,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P052",
+      "file": "STL/01_Kirmizi/P052_Bere_Bant_Kirmizi_12.stl",
+      "triangles": 6648,
+      "dimensions_mm": [
+        1.597625732421875,
+        2.9001998901367188,
+        1.2326507568359375
+      ],
+      "volume_mm3": 2.0911663377844683,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P053",
+      "file": "STL/01_Kirmizi/P053_Bere_Bant_Kirmizi_13.stl",
+      "triangles": 3644,
+      "dimensions_mm": [
+        1.7970619201660156,
+        3.6478997468948364,
+        0.9787445068359375
+      ],
+      "volume_mm3": 2.123266381107617,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P054",
+      "file": "STL/01_Kirmizi/P054_Bere_Bant_Kirmizi_14.stl",
+      "triangles": 4224,
+      "dimensions_mm": [
+        2.5358896255493164,
+        2.837134838104248,
+        2.105010986328125
+      ],
+      "volume_mm3": 2.5048543839530244,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P055",
+      "file": "STL/01_Kirmizi/P055_Bere_Bant_Kirmizi_15.stl",
+      "triangles": 3260,
+      "dimensions_mm": [
+        1.6951923370361328,
+        2.3364784717559814,
+        1.68194580078125
+      ],
+      "volume_mm3": 1.982691043535582,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P056",
+      "file": "STL/01_Kirmizi/P056_Bere_Bant_Kirmizi_16.stl",
+      "triangles": 3344,
+      "dimensions_mm": [
+        2.331907033920288,
+        2.067228317260742,
+        1.6605224609375
+      ],
+      "volume_mm3": 1.8152775856810968,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P057",
+      "file": "STL/01_Kirmizi/P057_Bere_Bant_Kirmizi_17.stl",
+      "triangles": 3684,
+      "dimensions_mm": [
+        2.5446972846984863,
+        2.2300901412963867,
+        1.7359771728515625
+      ],
+      "volume_mm3": 2.338396409073718,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P058",
+      "file": "STL/01_Kirmizi/P058_Bere_Bant_Kirmizi_18.stl",
+      "triangles": 5284,
+      "dimensions_mm": [
+        2.1805038452148438,
+        4.1670918464660645,
+        1.4486236572265625
+      ],
+      "volume_mm3": 2.000097073276442,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P059",
+      "file": "STL/01_Kirmizi/P059_Bere_Bant_Kirmizi_19.stl",
+      "triangles": 3752,
+      "dimensions_mm": [
+        2.5811920166015625,
+        2.437710762023926,
+        1.3869476318359375
+      ],
+      "volume_mm3": 1.655490150228969,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P060",
+      "file": "STL/01_Kirmizi/P060_Bere_Bant_Kirmizi_21.stl",
+      "triangles": 3104,
+      "dimensions_mm": [
+        2.5368881225585938,
+        2.3514347076416016,
+        1.4764556884765625
+      ],
+      "volume_mm3": 1.4820318983236227,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P061",
+      "file": "STL/01_Kirmizi/P061_Bere_Bant_Kirmizi_24.stl",
+      "triangles": 2660,
+      "dimensions_mm": [
+        1.5986957550048828,
+        1.8042697310447693,
+        1.6871185302734375
+      ],
+      "volume_mm3": 1.3228680462175917,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P062",
+      "file": "STL/01_Kirmizi/P062_Kaide_Kirmizi_01.stl",
+      "triangles": 92608,
+      "dimensions_mm": [
+        19.783790588378906,
+        37.76094055175781,
+        6.248261451721191
+      ],
+      "volume_mm3": 285.2200292655944,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P063",
+      "file": "STL/01_Kirmizi/P063_Kaide_Kirmizi_02.stl",
+      "triangles": 52400,
+      "dimensions_mm": [
+        5.878639221191406,
+        29.673938751220703,
+        5.4914774894714355
+      ],
+      "volume_mm3": 169.65414246066365,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P064",
+      "file": "STL/01_Kirmizi/P064_Kaide_Kirmizi_03.stl",
+      "triangles": 56506,
+      "dimensions_mm": [
+        9.753113746643066,
+        8.005617141723633,
+        5.374876976013184
+      ],
+      "volume_mm3": 53.005332767704694,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P065",
+      "file": "STL/01_Kirmizi/P065_Kaide_Kirmizi_04.stl",
+      "triangles": 47444,
+      "dimensions_mm": [
+        7.9058685302734375,
+        8.634420394897461,
+        6.3871283531188965
+      ],
+      "volume_mm3": 64.59753894628794,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P066",
+      "file": "STL/01_Kirmizi/P066_Kaide_Kirmizi_05.stl",
+      "triangles": 34296,
+      "dimensions_mm": [
+        5.024257659912109,
+        8.401137351989746,
+        5.879594802856445
+      ],
+      "volume_mm3": 45.740950513230366,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P067",
+      "file": "STL/01_Kirmizi/P067_Kaide_Kirmizi_06.stl",
+      "triangles": 36408,
+      "dimensions_mm": [
+        7.747209548950195,
+        2.6550216674804688,
+        5.107966423034668
+      ],
+      "volume_mm3": 41.09246371276391,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P068",
+      "file": "STL/01_Kirmizi/P068_Kaide_Kirmizi_07.stl",
+      "triangles": 31564,
+      "dimensions_mm": [
+        5.629520416259766,
+        6.807590484619141,
+        5.729238510131836
+      ],
+      "volume_mm3": 41.66832424631199,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P069",
+      "file": "STL/01_Kirmizi/P069_Kaide_Kirmizi_08.stl",
+      "triangles": 7804,
+      "dimensions_mm": [
+        1.741189956665039,
+        3.5927734375,
+        4.79874324798584
+      ],
+      "volume_mm3": 4.5247844795046825,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P070",
+      "file": "STL/01_Kirmizi/P070_Kaide_Kirmizi_09.stl",
+      "triangles": 10444,
+      "dimensions_mm": [
+        2.6933746337890625,
+        7.429925441741943,
+        2.3522186279296875
+      ],
+      "volume_mm3": 2.994914540163411,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P071",
+      "file": "STL/01_Kirmizi/P071_Orgu_Ucu_Kirmizi_Bag_01.stl",
+      "triangles": 158056,
+      "dimensions_mm": [
+        7.290867567062378,
+        8.370330810546875,
+        4.6367645263671875
+      ],
+      "volume_mm3": 29.25920191207879,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P072",
+      "file": "STL/01_Kirmizi/P072_Orgu_Ucu_Kirmizi_Bag_02.stl",
+      "triangles": 3988,
+      "dimensions_mm": [
+        1.4945554733276367,
+        1.2682132720947266,
+        3.9148025512695312
+      ],
+      "volume_mm3": 2.402086669178862,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P073",
+      "file": "STL/01_Kirmizi/P073_Sac_Kirmizi_Bag_01.stl",
+      "triangles": 324380,
+      "dimensions_mm": [
+        8.634025573730469,
+        8.788455963134766,
+        6.421760559082031
+      ],
+      "volume_mm3": 93.92247491968728,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P074",
+      "file": "STL/01_Kirmizi/P074_Sac_Kirmizi_Bag_02.stl",
+      "triangles": 14554,
+      "dimensions_mm": [
+        6.1539764404296875,
+        3.5061721801757812,
+        2.8444671630859375
+      ],
+      "volume_mm3": 13.847745357448185,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P075",
+      "file": "STL/01_Kirmizi/P075_Sag_Kol_Kirmizi_01.stl",
+      "triangles": 631920,
+      "dimensions_mm": [
+        17.78656768798828,
+        11.836736679077148,
+        18.637977600097656
+      ],
+      "volume_mm3": 142.54368866914626,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P076",
+      "file": "STL/01_Kirmizi/P076_Sag_Kol_Kirmizi_02.stl",
+      "triangles": 134754,
+      "dimensions_mm": [
+        10.740585327148438,
+        6.230460166931152,
+        7.8418731689453125
+      ],
+      "volume_mm3": 23.822323254240388,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P077",
+      "file": "STL/01_Kirmizi/P077_Sag_Kol_Kirmizi_03.stl",
+      "triangles": 36668,
+      "dimensions_mm": [
+        10.810735702514648,
+        11.888914108276367,
+        5.892601013183594
+      ],
+      "volume_mm3": 17.723951806234293,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P078",
+      "file": "STL/01_Kirmizi/P078_Sag_Kol_Kirmizi_04.stl",
+      "triangles": 58956,
+      "dimensions_mm": [
+        9.760416030883789,
+        4.298189163208008,
+        5.1650238037109375
+      ],
+      "volume_mm3": 5.0707143442387315,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P079",
+      "file": "STL/01_Kirmizi/P079_Sag_Kol_Kirmizi_05.stl",
+      "triangles": 9072,
+      "dimensions_mm": [
+        3.6876564025878906,
+        3.719489574432373,
+        3.19769287109375
+      ],
+      "volume_mm3": 8.195163610725025,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P080",
+      "file": "STL/01_Kirmizi/P080_Sag_Kol_Kirmizi_06.stl",
+      "triangles": 9408,
+      "dimensions_mm": [
+        4.6144561767578125,
+        5.426088333129883,
+        3.887664794921875
+      ],
+      "volume_mm3": 4.2778640997483075,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P081",
+      "file": "STL/01_Kirmizi/P081_Sag_Kol_Kirmizi_07.stl",
+      "triangles": 8272,
+      "dimensions_mm": [
+        4.0583953857421875,
+        5.249991416931152,
+        2.206817626953125
+      ],
+      "volume_mm3": 3.182726077567365,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P082",
+      "file": "STL/01_Kirmizi/P082_Sag_Kol_Kirmizi_08.stl",
+      "triangles": 5032,
+      "dimensions_mm": [
+        2.2102584838867188,
+        3.0242981910705566,
+        2.2033004760742188
+      ],
+      "volume_mm3": 3.4706149123345225,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P083",
+      "file": "STL/01_Kirmizi/P083_Sag_Kol_Kirmizi_10.stl",
+      "triangles": 3688,
+      "dimensions_mm": [
+        2.730571746826172,
+        2.3649020195007324,
+        2.0147857666015625
+      ],
+      "volume_mm3": 1.8682196827448248,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P084",
+      "file": "STL/01_Kirmizi/P084_Sag_Kol_Kirmizi_11.stl",
+      "triangles": 3398,
+      "dimensions_mm": [
+        2.169891357421875,
+        1.9542851448059082,
+        2.0046844482421875
+      ],
+      "volume_mm3": 1.6005800536894412,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P085",
+      "file": "STL/01_Kirmizi/P085_Sag_Kol_Kirmizi_12.stl",
+      "triangles": 2486,
+      "dimensions_mm": [
+        1.3286285400390625,
+        1.443857192993164,
+        2.0162124633789062
+      ],
+      "volume_mm3": 1.0206460682991414,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P086",
+      "file": "STL/01_Kirmizi/P086_Sag_Kol_Kirmizi_13.stl",
+      "triangles": 3352,
+      "dimensions_mm": [
+        1.4760684967041016,
+        1.3431406021118164,
+        2.7992782592773438
+      ],
+      "volume_mm3": 1.749209671784054,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P087",
+      "file": "STL/01_Kirmizi/P087_Sol_Kol_El_Kirmizi_01.stl",
+      "triangles": 34454,
+      "dimensions_mm": [
+        13.64706039428711,
+        11.184322357177734,
+        5.663551330566406
+      ],
+      "volume_mm3": 18.73785495257822,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P088",
+      "file": "STL/01_Kirmizi/P088_Sol_Kol_El_Kirmizi_02.stl",
+      "triangles": 156548,
+      "dimensions_mm": [
+        11.798272132873535,
+        10.096556663513184,
+        7.0000762939453125
+      ],
+      "volume_mm3": 14.217844287201212,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P089",
+      "file": "STL/01_Kirmizi/P089_Sol_Kol_El_Kirmizi_03.stl",
+      "triangles": 21814,
+      "dimensions_mm": [
+        5.841510772705078,
+        8.747605323791504,
+        6.3058319091796875
+      ],
+      "volume_mm3": 18.358200537167153,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P090",
+      "file": "STL/01_Kirmizi/P090_Sol_Kol_El_Kirmizi_04.stl",
+      "triangles": 19386,
+      "dimensions_mm": [
+        7.592502593994141,
+        3.958545684814453,
+        6.3579254150390625
+      ],
+      "volume_mm3": 14.103215858032783,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P091",
+      "file": "STL/01_Kirmizi/P091_Sol_Kol_El_Kirmizi_05.stl",
+      "triangles": 20060,
+      "dimensions_mm": [
+        2.6230316162109375,
+        4.472679138183594,
+        9.793319702148438
+      ],
+      "volume_mm3": 13.536049676301673,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P092",
+      "file": "STL/01_Kirmizi/P092_Sol_Kol_El_Kirmizi_06.stl",
+      "triangles": 13112,
+      "dimensions_mm": [
+        5.049862861633301,
+        3.6523847579956055,
+        3.6448974609375
+      ],
+      "volume_mm3": 12.265167871662777,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P093",
+      "file": "STL/01_Kirmizi/P093_Sol_Kol_El_Kirmizi_07.stl",
+      "triangles": 16850,
+      "dimensions_mm": [
+        7.340843200683594,
+        8.702792167663574,
+        6.2022247314453125
+      ],
+      "volume_mm3": 7.578158275768168,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P094",
+      "file": "STL/01_Kirmizi/P094_Sol_Kol_El_Kirmizi_08.stl",
+      "triangles": 4980,
+      "dimensions_mm": [
+        2.5066537857055664,
+        3.205677032470703,
+        2.4096832275390625
+      ],
+      "volume_mm3": 3.0957654769419882,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P095",
+      "file": "STL/01_Kirmizi/P095_Sol_Kol_El_Kirmizi_09.stl",
+      "triangles": 4770,
+      "dimensions_mm": [
+        2.6114492416381836,
+        2.115192413330078,
+        2.6245498657226562
+      ],
+      "volume_mm3": 3.197449054029125,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P096",
+      "file": "STL/01_Kirmizi/P096_Sol_Kol_El_Kirmizi_10.stl",
+      "triangles": 6214,
+      "dimensions_mm": [
+        2.7199478149414062,
+        2.9312543869018555,
+        2.7888565063476562
+      ],
+      "volume_mm3": 3.143018353181956,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P097",
+      "file": "STL/01_Kirmizi/P097_Sol_Kol_El_Kirmizi_11.stl",
+      "triangles": 5744,
+      "dimensions_mm": [
+        1.8432464599609375,
+        3.7955684661865234,
+        2.0608291625976562
+      ],
+      "volume_mm3": 3.9823490478860024,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P098",
+      "file": "STL/01_Kirmizi/P098_Sol_Kol_El_Kirmizi_12.stl",
+      "triangles": 5172,
+      "dimensions_mm": [
+        2.820850372314453,
+        2.5362396240234375,
+        2.2686004638671875
+      ],
+      "volume_mm3": 2.6124807310259803,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P099",
+      "file": "STL/01_Kirmizi/P099_Sol_Kol_El_Kirmizi_13.stl",
+      "triangles": 7336,
+      "dimensions_mm": [
+        4.546109199523926,
+        3.5389022827148438,
+        2.1719589233398438
+      ],
+      "volume_mm3": 2.92824209375536,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P100",
+      "file": "STL/01_Kirmizi/P100_Sol_Kol_El_Kirmizi_14.stl",
+      "triangles": 4948,
+      "dimensions_mm": [
+        3.0505218505859375,
+        2.1357421875,
+        1.7859954833984375
+      ],
+      "volume_mm3": 3.2435251271638226,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P101",
+      "file": "STL/01_Kirmizi/P101_Sol_Kol_El_Kirmizi_15.stl",
+      "triangles": 3276,
+      "dimensions_mm": [
+        1.9095115661621094,
+        1.9246997833251953,
+        2.0227890014648438
+      ],
+      "volume_mm3": 1.665587864713233,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P102",
+      "file": "STL/01_Kirmizi/P102_Sol_Kol_El_Kirmizi_16.stl",
+      "triangles": 2750,
+      "dimensions_mm": [
+        1.5938730239868164,
+        1.615997314453125,
+        2.1163330078125
+      ],
+      "volume_mm3": 1.5630659929287167,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P103",
+      "file": "STL/01_Kirmizi/P103_Sol_Kol_El_Kirmizi_18.stl",
+      "triangles": 3228,
+      "dimensions_mm": [
+        1.6057777404785156,
+        1.8599748611450195,
+        2.1654205322265625
+      ],
+      "volume_mm3": 1.8126444581266634,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P104",
+      "file": "STL/01_Kirmizi/P104_Sol_Kol_El_Kirmizi_24.stl",
+      "triangles": 2296,
+      "dimensions_mm": [
+        1.8299312591552734,
+        1.8215293884277344,
+        1.6184921264648438
+      ],
+      "volume_mm3": 1.0041589170126575,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P105",
+      "file": "STL/01_Kirmizi/P105_Sol_Kol_El_Kirmizi_28.stl",
+      "triangles": 3414,
+      "dimensions_mm": [
+        1.8697052001953125,
+        1.6068496704101562,
+        2.4156112670898438
+      ],
+      "volume_mm3": 1.4316455632669587,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P106",
+      "file": "STL/01_Kirmizi/P106_Tunik_Etek_Kirmizi_01.stl",
+      "triangles": 359072,
+      "dimensions_mm": [
+        44.12753677368164,
+        33.64255142211914,
+        25.605072021484375
+      ],
+      "volume_mm3": 1008.7100910438503,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P107",
+      "file": "STL/01_Kirmizi/P107_Tunik_Etek_Kirmizi_02.stl",
+      "triangles": 277180,
+      "dimensions_mm": [
+        25.76431941986084,
+        29.216114044189453,
+        5.3860626220703125
+      ],
+      "volume_mm3": 37.47163944319069,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P108",
+      "file": "STL/01_Kirmizi/P108_Tunik_Etek_Kirmizi_03.stl",
+      "triangles": 45828,
+      "dimensions_mm": [
+        15.662784576416016,
+        28.365890502929688,
+        3.820526123046875
+      ],
+      "volume_mm3": 32.256515332307494,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P109",
+      "file": "STL/01_Kirmizi/P109_Tunik_Etek_Kirmizi_04.stl",
+      "triangles": 198860,
+      "dimensions_mm": [
+        13.4835524559021,
+        26.15801239013672,
+        3.710712432861328
+      ],
+      "volume_mm3": 33.58893130991269,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P110",
+      "file": "STL/01_Kirmizi/P110_Tunik_Etek_Kirmizi_05.stl",
+      "triangles": 21036,
+      "dimensions_mm": [
+        11.659910202026367,
+        2.4806594848632812,
+        3.9878082275390625
+      ],
+      "volume_mm3": 19.139322036865423,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P111",
+      "file": "STL/01_Kirmizi/P111_Tunik_Etek_Kirmizi_06.stl",
+      "triangles": 139204,
+      "dimensions_mm": [
+        6.644138336181641,
+        23.581401824951172,
+        3.1667709350585938
+      ],
+      "volume_mm3": 19.731071097719155,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P112",
+      "file": "STL/01_Kirmizi/P112_Tunik_Etek_Kirmizi_07.stl",
+      "triangles": 31516,
+      "dimensions_mm": [
+        23.448716163635254,
+        5.942895889282227,
+        5.0122222900390625
+      ],
+      "volume_mm3": 25.88644120679125,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P113",
+      "file": "STL/01_Kirmizi/P113_Tunik_Etek_Kirmizi_08.stl",
+      "triangles": 15904,
+      "dimensions_mm": [
+        20.9555606842041,
+        4.608266830444336,
+        3.8151512145996094
+      ],
+      "volume_mm3": 4.195809235258481,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P114",
+      "file": "STL/01_Kirmizi/P114_Tunik_Etek_Kirmizi_09.stl",
+      "triangles": 12612,
+      "dimensions_mm": [
+        8.50377082824707,
+        3.901243209838867,
+        2.522663116455078
+      ],
+      "volume_mm3": 8.03521239809581,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P115",
+      "file": "STL/01_Kirmizi/P115_Tunik_Etek_Kirmizi_10.stl",
+      "triangles": 11804,
+      "dimensions_mm": [
+        4.488621711730957,
+        3.4956207275390625,
+        4.049201965332031
+      ],
+      "volume_mm3": 7.622604472475125,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P116",
+      "file": "STL/01_Kirmizi/P116_Tunik_Etek_Kirmizi_11.stl",
+      "triangles": 9144,
+      "dimensions_mm": [
+        2.947506904602051,
+        5.499750137329102,
+        2.7489547729492188
+      ],
+      "volume_mm3": 7.23572535600659,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P117",
+      "file": "STL/01_Kirmizi/P117_Tunik_Etek_Kirmizi_12.stl",
+      "triangles": 38548,
+      "dimensions_mm": [
+        2.6326255798339844,
+        5.332667350769043,
+        2.2370529174804688
+      ],
+      "volume_mm3": 5.696106653982781,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P118",
+      "file": "STL/01_Kirmizi/P118_Tunik_Etek_Kirmizi_13.stl",
+      "triangles": 10484,
+      "dimensions_mm": [
+        9.65420150756836,
+        3.646869659423828,
+        2.34417724609375
+      ],
+      "volume_mm3": 6.0824394555067185,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P119",
+      "file": "STL/01_Kirmizi/P119_Tunik_Etek_Kirmizi_14.stl",
+      "triangles": 7548,
+      "dimensions_mm": [
+        2.710073471069336,
+        4.348787069320679,
+        2.3625564575195312
+      ],
+      "volume_mm3": 6.337167366603121,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P120",
+      "file": "STL/01_Kirmizi/P120_Tunik_Etek_Kirmizi_15.stl",
+      "triangles": 5454,
+      "dimensions_mm": [
+        3.5898900032043457,
+        1.7978630065917969,
+        2.4295501708984375
+      ],
+      "volume_mm3": 4.117675060612801,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P121",
+      "file": "STL/01_Kirmizi/P121_Tunik_Etek_Kirmizi_16.stl",
+      "triangles": 13226,
+      "dimensions_mm": [
+        2.7400894165039062,
+        3.3048744201660156,
+        2.547760009765625
+      ],
+      "volume_mm3": 5.343576308821866,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P122",
+      "file": "STL/01_Kirmizi/P122_Tunik_Etek_Kirmizi_17.stl",
+      "triangles": 7068,
+      "dimensions_mm": [
+        2.7267560958862305,
+        3.7197275161743164,
+        2.6429595947265625
+      ],
+      "volume_mm3": 5.5837826372900174,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P123",
+      "file": "STL/01_Kirmizi/P123_Tunik_Etek_Kirmizi_18.stl",
+      "triangles": 5728,
+      "dimensions_mm": [
+        3.4308815002441406,
+        1.5997028350830078,
+        2.8545265197753906
+      ],
+      "volume_mm3": 4.987562623762964,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P124",
+      "file": "STL/01_Kirmizi/P124_Tunik_Etek_Kirmizi_19.stl",
+      "triangles": 5022,
+      "dimensions_mm": [
+        2.0337953567504883,
+        3.4620361328125,
+        1.8881721496582031
+      ],
+      "volume_mm3": 3.225458565196725,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P125",
+      "file": "STL/01_Kirmizi/P125_Tunik_Etek_Kirmizi_20.stl",
+      "triangles": 4336,
+      "dimensions_mm": [
+        2.6694517135620117,
+        2.5604166984558105,
+        2.140331268310547
+      ],
+      "volume_mm3": 2.6056107818773824,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P126",
+      "file": "STL/01_Kirmizi/P126_Tunik_Etek_Kirmizi_21.stl",
+      "triangles": 4356,
+      "dimensions_mm": [
+        3.237316370010376,
+        2.0119271278381348,
+        1.8872489929199219
+      ],
+      "volume_mm3": 3.1284155627061896,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P127",
+      "file": "STL/01_Kirmizi/P127_Tunik_Etek_Kirmizi_22.stl",
+      "triangles": 4748,
+      "dimensions_mm": [
+        1.9196338653564453,
+        3.5475001335144043,
+        1.8763961791992188
+      ],
+      "volume_mm3": 2.9809711616244283,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P128",
+      "file": "STL/01_Kirmizi/P128_Tunik_Etek_Kirmizi_23.stl",
+      "triangles": 8128,
+      "dimensions_mm": [
+        2.5833797454833984,
+        1.9584197998046875,
+        1.9968147277832031
+      ],
+      "volume_mm3": 2.68340961435095,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P129",
+      "file": "STL/01_Kirmizi/P129_Tunik_Etek_Kirmizi_24.stl",
+      "triangles": 5344,
+      "dimensions_mm": [
+        3.323084831237793,
+        2.3334288597106934,
+        2.2734146118164062
+      ],
+      "volume_mm3": 3.8610970532175153,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P130",
+      "file": "STL/01_Kirmizi/P130_Tunik_Etek_Kirmizi_26.stl",
+      "triangles": 3424,
+      "dimensions_mm": [
+        2.609609603881836,
+        1.390472412109375,
+        1.829864501953125
+      ],
+      "volume_mm3": 2.0914752150712923,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P131",
+      "file": "STL/01_Kirmizi/P131_Tunik_Etek_Kirmizi_27.stl",
+      "triangles": 5930,
+      "dimensions_mm": [
+        3.0950698852539062,
+        3.7141265869140625,
+        2.16754150390625
+      ],
+      "volume_mm3": 3.162172209010002,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P132",
+      "file": "STL/01_Kirmizi/P132_Tunik_Etek_Kirmizi_28.stl",
+      "triangles": 4110,
+      "dimensions_mm": [
+        1.74114990234375,
+        2.8519287109375,
+        1.8883399963378906
+      ],
+      "volume_mm3": 2.0536610240538438,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P133",
+      "file": "STL/01_Kirmizi/P133_Tunik_Etek_Kirmizi_29.stl",
+      "triangles": 3892,
+      "dimensions_mm": [
+        2.507324695587158,
+        1.8751602172851562,
+        2.0843429565429688
+      ],
+      "volume_mm3": 2.8082903309606597,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P134",
+      "file": "STL/01_Kirmizi/P134_Tunik_Etek_Kirmizi_30.stl",
+      "triangles": 4580,
+      "dimensions_mm": [
+        1.5230770111083984,
+        3.229267120361328,
+        3.0673980712890625
+      ],
+      "volume_mm3": 2.126168349520512,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P135",
+      "file": "STL/01_Kirmizi/P135_Tunik_Etek_Kirmizi_31.stl",
+      "triangles": 3160,
+      "dimensions_mm": [
+        2.1526355743408203,
+        1.4520206451416016,
+        1.9193382263183594
+      ],
+      "volume_mm3": 2.0939252242760547,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P136",
+      "file": "STL/01_Kirmizi/P136_Tunik_Etek_Kirmizi_32.stl",
+      "triangles": 3694,
+      "dimensions_mm": [
+        1.806955337524414,
+        1.968505859375,
+        2.39013671875
+      ],
+      "volume_mm3": 1.7974903306063863,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P137",
+      "file": "STL/01_Kirmizi/P137_Tunik_Etek_Kirmizi_33.stl",
+      "triangles": 7170,
+      "dimensions_mm": [
+        2.4209203720092773,
+        2.0938568115234375,
+        1.4379806518554688
+      ],
+      "volume_mm3": 1.4924934812245139,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P138",
+      "file": "STL/01_Kirmizi/P138_Tunik_Etek_Kirmizi_34.stl",
+      "triangles": 3916,
+      "dimensions_mm": [
+        1.7896480560302734,
+        2.4567418098449707,
+        2.527252197265625
+      ],
+      "volume_mm3": 1.5251781487563012,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P139",
+      "file": "STL/01_Kirmizi/P139_Tunik_Etek_Kirmizi_35.stl",
+      "triangles": 3480,
+      "dimensions_mm": [
+        1.7595348358154297,
+        2.8723573684692383,
+        1.579620361328125
+      ],
+      "volume_mm3": 1.749847772509379,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P140",
+      "file": "STL/01_Kirmizi/P140_Tunik_Etek_Kirmizi_36.stl",
+      "triangles": 3462,
+      "dimensions_mm": [
+        2.362092971801758,
+        1.5493888854980469,
+        1.7368621826171875
+      ],
+      "volume_mm3": 1.7566668088604598,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P141",
+      "file": "STL/02_Kirik_Beyaz/P141_Arma_Beyaz_01.stl",
+      "triangles": 1761292,
+      "dimensions_mm": [
+        24.588894844055176,
+        12.278165817260742,
+        30.34564971923828
+      ],
+      "volume_mm3": 590.0609044454292,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P142",
+      "file": "STL/02_Kirik_Beyaz/P142_Arma_Beyaz_02.stl",
+      "triangles": 103480,
+      "dimensions_mm": [
+        29.61689567565918,
+        15.048593521118164,
+        35.47480392456055
+      ],
+      "volume_mm3": 239.80170592319936,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P143",
+      "file": "STL/02_Kirik_Beyaz/P143_Arma_Beyaz_03.stl",
+      "triangles": 35812,
+      "dimensions_mm": [
+        6.818437576293945,
+        4.684061050415039,
+        9.116378784179688
+      ],
+      "volume_mm3": 43.85999538234228,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P144",
+      "file": "STL/02_Kirik_Beyaz/P144_Arma_Beyaz_04.stl",
+      "triangles": 9930,
+      "dimensions_mm": [
+        7.301691055297852,
+        3.617898941040039,
+        3.4641990661621094
+      ],
+      "volume_mm3": 3.58276193583983,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P145",
+      "file": "STL/02_Kirik_Beyaz/P145_Arma_Beyaz_05.stl",
+      "triangles": 14700,
+      "dimensions_mm": [
+        4.9981689453125,
+        4.1084747314453125,
+        5.4924774169921875
+      ],
+      "volume_mm3": 10.988091561207064,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P146",
+      "file": "STL/02_Kirik_Beyaz/P146_Arma_Beyaz_06.stl",
+      "triangles": 16304,
+      "dimensions_mm": [
+        1.7596807479858398,
+        2.5003700256347656,
+        14.927536010742188
+      ],
+      "volume_mm3": 3.41619866967974,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P147",
+      "file": "STL/02_Kirik_Beyaz/P147_Bere_Bandi_Beyaz_01.stl",
+      "triangles": 772704,
+      "dimensions_mm": [
+        38.80687713623047,
+        39.08287048339844,
+        13.537033081054688
+      ],
+      "volume_mm3": 115.943768523634,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P148",
+      "file": "STL/02_Kirik_Beyaz/P148_Bere_Bandi_Beyaz_02.stl",
+      "triangles": 394324,
+      "dimensions_mm": [
+        29.969082832336426,
+        16.50390338897705,
+        7.12677001953125
+      ],
+      "volume_mm3": 41.10051157308178,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P149",
+      "file": "STL/02_Kirik_Beyaz/P149_Bere_Bandi_Beyaz_02_Bolum_2.stl",
+      "triangles": 26584,
+      "dimensions_mm": [
+        2.0019874572753906,
+        6.665940284729004,
+        1.701324462890625
+      ],
+      "volume_mm3": 1.6022823601811507,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P150",
+      "file": "STL/02_Kirik_Beyaz/P150_Bere_Bandi_Beyaz_03.stl",
+      "triangles": 230492,
+      "dimensions_mm": [
+        14.13424301147461,
+        33.77932357788086,
+        10.9482421875
+      ],
+      "volume_mm3": 21.037176101708184,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P151",
+      "file": "STL/02_Kirik_Beyaz/P151_Bere_Desen_Beyaz_01.stl",
+      "triangles": 826526,
+      "dimensions_mm": [
+        39.1107292175293,
+        32.4780158996582,
+        12.876419067382812
+      ],
+      "volume_mm3": 103.63141016913609,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P152",
+      "file": "STL/02_Kirik_Beyaz/P152_Bere_Desen_Beyaz_02.stl",
+      "triangles": 10184,
+      "dimensions_mm": [
+        4.840423583984375,
+        4.312459945678711,
+        3.38623046875
+      ],
+      "volume_mm3": 4.5005804316581735,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P153",
+      "file": "STL/02_Kirik_Beyaz/P153_Kaide_Beyaz_01.stl",
+      "triangles": 36590,
+      "dimensions_mm": [
+        8.23306655883789,
+        6.591045379638672,
+        6.026298999786377
+      ],
+      "volume_mm3": 48.236260671384,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P154",
+      "file": "STL/02_Kirik_Beyaz/P154_Kaide_Beyaz_02.stl",
+      "triangles": 186544,
+      "dimensions_mm": [
+        6.454710006713867,
+        7.615383148193359,
+        6.110503196716309
+      ],
+      "volume_mm3": 55.805929255709856,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P155",
+      "file": "STL/02_Kirik_Beyaz/P155_Kaide_Beyaz_03.stl",
+      "triangles": 30392,
+      "dimensions_mm": [
+        7.666182994842529,
+        5.322872161865234,
+        5.7719035148620605
+      ],
+      "volume_mm3": 41.70326518761129,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P156",
+      "file": "STL/02_Kirik_Beyaz/P156_Kaide_Beyaz_04.stl",
+      "triangles": 32984,
+      "dimensions_mm": [
+        6.1044464111328125,
+        9.321417808532715,
+        5.800600051879883
+      ],
+      "volume_mm3": 40.10062410946008,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P157",
+      "file": "STL/02_Kirik_Beyaz/P157_Kalkan_On_Panel_Beyaz_01.stl",
+      "triangles": 746280,
+      "dimensions_mm": [
+        8.589080810546875,
+        8.235514640808105,
+        48.48891067504883
+      ],
+      "volume_mm3": 202.6754741809215,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P158",
+      "file": "STL/02_Kirik_Beyaz/P158_Kalkan_On_Panel_Beyaz_02.stl",
+      "triangles": 586632,
+      "dimensions_mm": [
+        7.636153697967529,
+        7.60943603515625,
+        48.17229461669922
+      ],
+      "volume_mm3": 179.5039518080488,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P159",
+      "file": "STL/02_Kirik_Beyaz/P159_Kalkan_On_Panel_Beyaz_03.stl",
+      "triangles": 78118,
+      "dimensions_mm": [
+        8.8653564453125,
+        7.850467681884766,
+        10.465019226074219
+      ],
+      "volume_mm3": 93.10386901616188,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P160",
+      "file": "STL/02_Kirik_Beyaz/P160_Kalkan_On_Panel_Beyaz_04.stl",
+      "triangles": 47148,
+      "dimensions_mm": [
+        8.102210998535156,
+        7.134279251098633,
+        8.23419189453125
+      ],
+      "volume_mm3": 62.43776608518751,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P161",
+      "file": "STL/02_Kirik_Beyaz/P161_Sag_Goz.stl",
+      "triangles": 13160,
+      "dimensions_mm": [
+        7.760289907455444,
+        6.328009605407715,
+        5.1357574462890625
+      ],
+      "volume_mm3": 67.75247672746401,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "P162",
+      "file": "STL/02_Kirik_Beyaz/P162_Sol_Goz.stl",
+      "triangles": 12848,
+      "dimensions_mm": [
+        6.241565227508545,
+        7.953093528747559,
+        4.960548400878906
+      ],
+      "volume_mm3": 50.76244146323936,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    }
+  ]
+}

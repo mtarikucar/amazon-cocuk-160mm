@@ -1,0 +1,8 @@
+{
+  "closed_stl_parts": 153,
+  "eye_insertion_withdrawal_positions_checked": 14,
+  "all_eye_positions_clear_within_0_001_mm3_numeric_tolerance": true,
+  "head_neighbour_connections_checked": 4,
+  "all_head_neighbour_connections_clear_within_0_001_mm3_numeric_tolerance": true,
+  "physical_print_test_completed": false
+}

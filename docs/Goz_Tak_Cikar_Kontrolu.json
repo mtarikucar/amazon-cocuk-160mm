@@ -1,0 +1,91 @@
+{
+  "tested_positions_per_eye": 7,
+  "volumetric_numeric_tolerance_mm3": 0.001,
+  "physical_print_test_completed": false,
+  "checks": [
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 0,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 0.5,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 1,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 2,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 4,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 8,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P161",
+      "withdrawal_along_negative_Y_mm": 12,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 0,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 0.5,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 1,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 2,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 4,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 8,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    },
+    {
+      "part": "P162",
+      "withdrawal_along_negative_Y_mm": 12,
+      "intersection_volume_mm3": 0.0,
+      "collision_free_within_numeric_tolerance": true
+    }
+  ]
+}
