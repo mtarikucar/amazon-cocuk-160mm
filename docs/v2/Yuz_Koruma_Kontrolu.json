@@ -1,0 +1,10 @@
+{
+  "head_and_eye_stl_bytes_unchanged_from_v1": true,
+  "mapping": {
+    "S09": "P015",
+    "S15": "P161",
+    "S16": "P162"
+  },
+  "brows_lashes_lips_integrated": true,
+  "eye_fit_report_reused_because_geometry_is_identical": true
+}

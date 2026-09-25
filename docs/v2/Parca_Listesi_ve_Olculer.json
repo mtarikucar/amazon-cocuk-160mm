@@ -1,0 +1,564 @@
+{
+  "revision": "v2.0.0 — 18 ana parca, ayri zirh ve decal icin duzlestirilmis desenler",
+  "units": "mm",
+  "assembly_size_mm": [
+    101.42720794677734,
+    89.070556640625,
+    160.0
+  ],
+  "part_count": 18,
+  "parts_for_200_figures": 3600,
+  "solid_part_volume_ml": 203.95675121983726,
+  "physical_print_test_completed": false,
+  "parts": [
+    {
+      "id": "S01",
+      "name": "Kaide_ve_Tas",
+      "file": "STL/S01_Kaide_ve_Tas.stl",
+      "paint": "stone",
+      "dimensions_mm": [
+        89.16334533691406,
+        89.070556640625,
+        30.857051849365234
+      ],
+      "volume_mm3": 68428.2415574736,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -6.12721061706543,
+        0.0023975372314453125,
+        0.0
+      ],
+      "source_parts": [
+        "P001",
+        "P002",
+        "P062",
+        "P063",
+        "P064",
+        "P065",
+        "P066",
+        "P067",
+        "P068",
+        "P069",
+        "P070",
+        "P153",
+        "P154",
+        "P155",
+        "P156"
+      ]
+    },
+    {
+      "id": "S02",
+      "name": "Sag_Ayak",
+      "file": "STL/S02_Sag_Ayak.stl",
+      "paint": "brown",
+      "dimensions_mm": [
+        22.94071388244629,
+        23.34018325805664,
+        34.328224182128906
+      ],
+      "volume_mm3": 4083.3550780317705,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -31.129520416259766,
+        -1.305802345275879,
+        6.775749206542969
+      ],
+      "source_parts": [
+        "P003"
+      ]
+    },
+    {
+      "id": "S03",
+      "name": "Sol_Ayak",
+      "file": "STL/S03_Sol_Ayak.stl",
+      "paint": "brown",
+      "dimensions_mm": [
+        25.79770278930664,
+        22.837570190429688,
+        28.279586791992188
+      ],
+      "volume_mm3": 3702.153863050942,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        17.8726863861084,
+        -9.163942337036133,
+        10.24953842163086
+      ],
+      "source_parts": [
+        "P004"
+      ]
+    },
+    {
+      "id": "S04",
+      "name": "Bacaklar",
+      "file": "STL/S04_Bacaklar.stl",
+      "paint": "red",
+      "dimensions_mm": [
+        54.65716552734375,
+        27.399993896484375,
+        38.19515609741211
+      ],
+      "volume_mm3": 16498.21479901818,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -8.002731323242188,
+        -4.791351318359375,
+        32.56875228881836
+      ],
+      "source_parts": [
+        "P005"
+      ]
+    },
+    {
+      "id": "S05",
+      "name": "Govde_Kiyafet_Kollar",
+      "file": "STL/S05_Govde_Kiyafet_Kollar.stl",
+      "paint": "white",
+      "dimensions_mm": [
+        65.28404998779297,
+        36.67173385620117,
+        47.3798828125
+      ],
+      "volume_mm3": 17976.985826986907,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -8.344382286071777,
+        -6.498843669891357,
+        54.32823944091797
+      ],
+      "source_parts": [
+        "P006",
+        "P009",
+        "P010",
+        "P011",
+        "P075",
+        "P076",
+        "P077",
+        "P078",
+        "P079",
+        "P080",
+        "P081",
+        "P082",
+        "P083",
+        "P084",
+        "P085",
+        "P086",
+        "P087",
+        "P088",
+        "P089",
+        "P090",
+        "P091",
+        "P092",
+        "P093",
+        "P094",
+        "P095",
+        "P096",
+        "P097",
+        "P098",
+        "P099",
+        "P100",
+        "P101",
+        "P102",
+        "P103",
+        "P104",
+        "P105",
+        "P106",
+        "P107",
+        "P108",
+        "P109",
+        "P110",
+        "P111",
+        "P112",
+        "P113",
+        "P114",
+        "P115",
+        "P116",
+        "P117",
+        "P118",
+        "P119",
+        "P120",
+        "P121",
+        "P122",
+        "P123",
+        "P124",
+        "P125",
+        "P126",
+        "P127",
+        "P128",
+        "P129",
+        "P130",
+        "P131",
+        "P132",
+        "P133",
+        "P134",
+        "P135",
+        "P136",
+        "P137",
+        "P138",
+        "P139",
+        "P140"
+      ]
+    },
+    {
+      "id": "S06",
+      "name": "Sag_El",
+      "file": "STL/S06_Sag_El.stl",
+      "paint": "skin",
+      "dimensions_mm": [
+        10.246767044067383,
+        13.284576416015625,
+        13.905364990234375
+      ],
+      "volume_mm3": 805.8295905125101,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -36.720760345458984,
+        1.366623878479004,
+        63.34943389892578
+      ],
+      "source_parts": [
+        "P012"
+      ]
+    },
+    {
+      "id": "S07",
+      "name": "Sol_El",
+      "file": "STL/S07_Sol_El.stl",
+      "paint": "skin",
+      "dimensions_mm": [
+        20.562667846679688,
+        14.619589805603027,
+        13.040901184082031
+      ],
+      "volume_mm3": 827.1399868539347,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        19.796947479248047,
+        -20.38420867919922,
+        64.38274383544922
+      ],
+      "source_parts": [
+        "P013"
+      ]
+    },
+    {
+      "id": "S08",
+      "name": "Sal_Pelerin",
+      "file": "STL/S08_Sal_Pelerin.stl",
+      "paint": "red",
+      "dimensions_mm": [
+        48.672752380371094,
+        40.21781921386719,
+        50.39603805541992
+      ],
+      "volume_mm3": 13295.515544906728,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -5.741371154785156,
+        -5.031315803527832,
+        62.72965621948242
+      ],
+      "source_parts": [
+        "P014"
+      ]
+    },
+    {
+      "id": "S09",
+      "name": "Kafa",
+      "file": "STL/S09_Kafa.stl",
+      "paint": "skin",
+      "dimensions_mm": [
+        35.80513000488281,
+        30.925935745239258,
+        32.75128936767578
+      ],
+      "volume_mm3": 8052.116212801013,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -4.450314044952393,
+        -5.486237525939941,
+        106.17993927001953
+      ],
+      "source_parts": [
+        "P015"
+      ]
+    },
+    {
+      "id": "S10",
+      "name": "Sac",
+      "file": "STL/S10_Sac.stl",
+      "paint": "hair",
+      "dimensions_mm": [
+        63.85395812988281,
+        55.91191864013672,
+        70.6957015991211
+      ],
+      "volume_mm3": 23565.98687591123,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -13.292611122131348,
+        3.6242942810058594,
+        74.36859893798828
+      ],
+      "source_parts": [
+        "P016",
+        "P017",
+        "P018",
+        "P019",
+        "P020",
+        "P021",
+        "P040",
+        "P041",
+        "P042",
+        "P043",
+        "P044",
+        "P045",
+        "P046",
+        "P047",
+        "P048",
+        "P049",
+        "P050",
+        "P051",
+        "P052",
+        "P053",
+        "P054",
+        "P055",
+        "P056",
+        "P057",
+        "P058",
+        "P059",
+        "P060",
+        "P061",
+        "P071",
+        "P072",
+        "P073",
+        "P074",
+        "P151",
+        "P152"
+      ]
+    },
+    {
+      "id": "S11",
+      "name": "Bere",
+      "file": "STL/S11_Bere.stl",
+      "paint": "red",
+      "dimensions_mm": [
+        39.374183654785156,
+        39.1146240234375,
+        30.68701171875
+      ],
+      "volume_mm3": 14669.681912713593,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -5.068589210510254,
+        0.055815696716308594,
+        129.31298828125
+      ],
+      "source_parts": [
+        "P022",
+        "P023",
+        "P147",
+        "P148",
+        "P149",
+        "P150"
+      ]
+    },
+    {
+      "id": "S12",
+      "name": "Kalkan",
+      "file": "STL/S12_Kalkan.stl",
+      "paint": "red",
+      "dimensions_mm": [
+        52.16030502319336,
+        28.0808162689209,
+        55.24115753173828
+      ],
+      "volume_mm3": 12699.96429796948,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        21.295862197875977,
+        -18.70388412475586,
+        50.00983428955078
+      ],
+      "source_parts": [
+        "P024",
+        "P025",
+        "P157",
+        "P158",
+        "P159",
+        "P160"
+      ]
+    },
+    {
+      "id": "S13",
+      "name": "Kalkan_Dis_Demiri",
+      "file": "STL/S13_Kalkan_Dis_Demiri.stl",
+      "paint": "bronze",
+      "dimensions_mm": [
+        58.92365264892578,
+        30.72820281982422,
+        63.65828323364258
+      ],
+      "volume_mm3": 7406.364303113624,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        21.256500244140625,
+        -18.420486450195312,
+        45.76004409790039
+      ],
+      "source_parts": [
+        "P026"
+      ]
+    },
+    {
+      "id": "S14",
+      "name": "Kalkan_Armasi",
+      "file": "STL/S14_Kalkan_Armasi.stl",
+      "paint": "red",
+      "dimensions_mm": [
+        33.00844955444336,
+        18.170087814331055,
+        38.87362289428711
+      ],
+      "volume_mm3": 2646.4706620881116,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        23.886125564575195,
+        -23.949378967285156,
+        56.2021369934082
+      ],
+      "source_parts": [
+        "P027",
+        "P028",
+        "P141",
+        "P142",
+        "P143",
+        "P144",
+        "P145",
+        "P146"
+      ]
+    },
+    {
+      "id": "S15",
+      "name": "Sag_Goz",
+      "file": "STL/S15_Sag_Goz.stl",
+      "paint": "white",
+      "dimensions_mm": [
+        7.760290145874023,
+        6.328009605407715,
+        5.1357574462890625
+      ],
+      "volume_mm3": 67.75247672746313,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -6.123716354370117,
+        -16.547706604003906,
+        123.29374694824219
+      ],
+      "source_parts": [
+        "P161"
+      ]
+    },
+    {
+      "id": "S16",
+      "name": "Sol_Goz",
+      "file": "STL/S16_Sol_Goz.stl",
+      "paint": "white",
+      "dimensions_mm": [
+        6.241565227508545,
+        7.953093528747559,
+        4.960548400878906
+      ],
+      "volume_mm3": 50.76244146323934,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        7.630425453186035,
+        -8.510814666748047,
+        121.37017059326172
+      ],
+      "source_parts": [
+        "P162"
+      ]
+    },
+    {
+      "id": "S17",
+      "name": "Zirh_On",
+      "file": "STL/S17_Zirh_On.stl",
+      "paint": "brown",
+      "dimensions_mm": [
+        36.41026306152344,
+        16.80634307861328,
+        39.96820068359375
+      ],
+      "volume_mm3": 5248.221267323912,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -7.746429443359375,
+        -14.398216247558594,
+        68.14407348632812
+      ],
+      "source_parts": [
+        "P007",
+        "P033",
+        "P034"
+      ]
+    },
+    {
+      "id": "S18",
+      "name": "Zirh_Arka",
+      "file": "STL/S18_Zirh_Arka.stl",
+      "paint": "brown",
+      "dimensions_mm": [
+        35.915828704833984,
+        16.21467399597168,
+        32.60539245605469
+      ],
+      "volume_mm3": 3931.9945228910337,
+      "nonmanifold_edges": 0,
+      "quantity_per_figure": 1,
+      "quantity_for_200": 200,
+      "assembly_translation_from_print_stl_mm": [
+        -6.95175313949585,
+        2.0979034900665283,
+        70.20072937011719
+      ],
+      "source_parts": [
+        "P008"
+      ]
+    }
+  ]
+}

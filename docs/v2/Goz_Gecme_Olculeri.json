@@ -1,0 +1,58 @@
+[
+  {
+    "id": "S15",
+    "name": "Sag_Goz",
+    "front_surface": "original face surface",
+    "body_depth_along_Y_mm": 2.2,
+    "profile_side_clearance_mm": 0.1,
+    "back_clearance_mm": 0.25,
+    "peg": {
+      "center": [
+        -6.114285714285713,
+        -16.112091064453125,
+        125.76857142857145
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "radius": 0.9,
+      "length": 1.8,
+      "diametral_clearance_mm": 0.25
+    },
+    "removal_direction": [
+      0,
+      -1,
+      0
+    ]
+  },
+  {
+    "id": "S16",
+    "name": "Sol_Goz",
+    "front_surface": "original face surface",
+    "body_depth_along_Y_mm": 2.2,
+    "profile_side_clearance_mm": 0.1,
+    "back_clearance_mm": 0.25,
+    "peg": {
+      "center": [
+        7.799999999999995,
+        -8.30419921875,
+        123.80142857142856
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "radius": 0.9,
+      "length": 1.8,
+      "diametral_clearance_mm": 0.25
+    },
+    "removal_direction": [
+      0,
+      -1,
+      0
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "screening_not_strength_simulation": true,
+  "physical_print_test_completed": false,
+  "checks": [
+    {
+      "male": "S12_Kalkan",
+      "female": "S13_Kalkan_Dis_Demiri",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S11_Bere",
+      "female": "S10_Sac",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S09_Kafa",
+      "female": "S10_Sac",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S06_Sag_El",
+      "female": "S05_Govde_Kiyafet_Kollar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S04_Bacaklar",
+      "female": "S05_Govde_Kiyafet_Kollar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S03_Sol_Ayak",
+      "female": "S04_Bacaklar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S02_Sag_Ayak",
+      "female": "S01_Kaide_ve_Tas",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S02_Sag_Ayak",
+      "female": "S04_Bacaklar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S08_Sal_Pelerin",
+      "female": "S17_Zirh_On",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 13,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S14_Kalkan_Armasi",
+      "female": "S12_Kalkan",
+      "pin_material_samples": 13,
+      "socket_wall_samples": 13,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S08_Sal_Pelerin",
+      "female": "S09_Kafa",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S07_Sol_El",
+      "female": "S05_Govde_Kiyafet_Kollar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 4,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S08_Sal_Pelerin",
+      "female": "S13_Kalkan_Dis_Demiri",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 11,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S15_Sag_Goz",
+      "female": "S09_Kafa",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 12,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S16_Sol_Goz",
+      "female": "S09_Kafa",
+      "pin_material_samples": 15,
+      "socket_wall_samples": 10,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S17_Zirh_On",
+      "female": "S05_Govde_Kiyafet_Kollar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    },
+    {
+      "male": "S18_Zirh_Arka",
+      "female": "S05_Govde_Kiyafet_Kollar",
+      "pin_material_samples": 16,
+      "socket_wall_samples": 16,
+      "samples_per_check": 16,
+      "requires_review": false
+    }
+  ]
+}

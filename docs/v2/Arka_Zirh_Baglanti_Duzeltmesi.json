@@ -1,0 +1,28 @@
+{
+  "center_mm": [
+    -10.22126293182373,
+    -0.3504483699798584,
+    96.81011962890625
+  ],
+  "bridge_radius_mm": 1.7765006065368651,
+  "original_gap_mm": 2.2530012130737305,
+  "rear_channel_radius_mm": 1.956500606536865,
+  "checks": [
+    {
+      "against": "S05_Govde_Kiyafet_Kollar",
+      "intersection_mm3": 0.00011678590745624505
+    },
+    {
+      "against": "S08_Sal_Pelerin",
+      "intersection_mm3": 0.00020204462743329647
+    },
+    {
+      "against": "S17_Zirh_On",
+      "intersection_mm3": 0.0
+    },
+    {
+      "against": "S10_Sac",
+      "intersection_mm3": 0.0
+    }
+  ]
+}

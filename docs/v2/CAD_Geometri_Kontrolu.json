@@ -1,0 +1,128 @@
+[
+  {
+    "name": "S01_Kaide_ve_Tas",
+    "faces": 1913380,
+    "bad_edges": 0,
+    "volume_mm3": 68428.2415574736,
+    "component_count": 1
+  },
+  {
+    "name": "S02_Sag_Ayak",
+    "faces": 58303,
+    "bad_edges": 0,
+    "volume_mm3": 4083.3550780317705,
+    "component_count": 1
+  },
+  {
+    "name": "S03_Sol_Ayak",
+    "faces": 57405,
+    "bad_edges": 0,
+    "volume_mm3": 3702.153863050942,
+    "component_count": 1
+  },
+  {
+    "name": "S04_Bacaklar",
+    "faces": 68024,
+    "bad_edges": 0,
+    "volume_mm3": 16498.21479901818,
+    "component_count": 1
+  },
+  {
+    "name": "S05_Govde_Kiyafet_Kollar",
+    "faces": 2535906,
+    "bad_edges": 0,
+    "volume_mm3": 17976.985826986907,
+    "component_count": 1
+  },
+  {
+    "name": "S06_Sag_El",
+    "faces": 13691,
+    "bad_edges": 0,
+    "volume_mm3": 805.8295905125101,
+    "component_count": 1
+  },
+  {
+    "name": "S07_Sol_El",
+    "faces": 47462,
+    "bad_edges": 0,
+    "volume_mm3": 827.1399868539347,
+    "component_count": 1
+  },
+  {
+    "name": "S08_Sal_Pelerin",
+    "faces": 367490,
+    "bad_edges": 0,
+    "volume_mm3": 13295.515544906728,
+    "component_count": 1
+  },
+  {
+    "name": "S09_Kafa",
+    "faces": 1473278,
+    "bad_edges": 0,
+    "volume_mm3": 8052.116212801013,
+    "component_count": 1
+  },
+  {
+    "name": "S10_Sac",
+    "faces": 2818010,
+    "bad_edges": 0,
+    "volume_mm3": 23565.98687591123,
+    "component_count": 1
+  },
+  {
+    "name": "S11_Bere",
+    "faces": 1177628,
+    "bad_edges": 0,
+    "volume_mm3": 14669.681912713593,
+    "component_count": 1
+  },
+  {
+    "name": "S12_Kalkan",
+    "faces": 2378852,
+    "bad_edges": 0,
+    "volume_mm3": 12699.96429796948,
+    "component_count": 1
+  },
+  {
+    "name": "S13_Kalkan_Dis_Demiri",
+    "faces": 1010382,
+    "bad_edges": 0,
+    "volume_mm3": 7406.364303113624,
+    "component_count": 1
+  },
+  {
+    "name": "S14_Kalkan_Armasi",
+    "faces": 771852,
+    "bad_edges": 0,
+    "volume_mm3": 2646.4706620881116,
+    "component_count": 1
+  },
+  {
+    "name": "S15_Sag_Goz",
+    "faces": 13160,
+    "bad_edges": 0,
+    "volume_mm3": 67.75247672746313,
+    "component_count": 1
+  },
+  {
+    "name": "S16_Sol_Goz",
+    "faces": 12848,
+    "bad_edges": 0,
+    "volume_mm3": 50.76244146323934,
+    "component_count": 1
+  },
+  {
+    "name": "S17_Zirh_On",
+    "faces": 1014506,
+    "bad_edges": 0,
+    "volume_mm3": 5248.221267323912,
+    "component_count": 1
+  },
+  {
+    "name": "S18_Zirh_Arka",
+    "faces": 899488,
+    "bad_edges": 0,
+    "volume_mm3": 3931.9945228910337,
+    "component_count": 1
+  }
+]

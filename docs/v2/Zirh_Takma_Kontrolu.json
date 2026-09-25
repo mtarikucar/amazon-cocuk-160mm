@@ -1,0 +1,97 @@
+{
+  "physical_print_test_completed": false,
+  "numeric_volume_tolerance_mm3": 0.05,
+  "discrete_withdrawal_samples": [
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": 0,
+      "intersection_before_mm3": 0.0,
+      "intersection_after_mm3": 0.0
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -0.5,
+      "intersection_before_mm3": 0.04267040542603498,
+      "intersection_after_mm3": 0.00013181783983856024
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -1,
+      "intersection_before_mm3": 0.017092631347046368,
+      "intersection_after_mm3": 0.017092631347046368
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -2,
+      "intersection_before_mm3": 0.019353497835202235,
+      "intersection_after_mm3": 0.019353497835202235
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -4,
+      "intersection_before_mm3": 0.019348624068125413,
+      "intersection_after_mm3": 0.019348624068125413
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -8,
+      "intersection_before_mm3": 0.02393391704321439,
+      "intersection_after_mm3": 6.573451169422713e-05
+    },
+    {
+      "part": "S17_Zirh_On",
+      "withdrawal_y_mm": -16,
+      "intersection_before_mm3": 0.0,
+      "intersection_after_mm3": 0.0
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 0,
+      "intersection_before_mm3": 3.7997805341707115e-05,
+      "intersection_after_mm3": 3.7997805341707115e-05,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 0.5,
+      "intersection_before_mm3": 0.0010447525065735582,
+      "intersection_after_mm3": 0.0010447525065735582,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 1,
+      "intersection_before_mm3": 0.001110432920428348,
+      "intersection_after_mm3": 0.001110432920428348,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 2,
+      "intersection_before_mm3": 0.001193915542006084,
+      "intersection_after_mm3": 0.001193915542006084,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 4,
+      "intersection_before_mm3": 0.0018354784639851777,
+      "intersection_after_mm3": 0.0018354784639851777,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 8,
+      "intersection_before_mm3": 0.0012085184123376757,
+      "intersection_after_mm3": 0.0012085184123376757,
+      "verified_after_back_reinforcement": true
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "withdrawal_y_mm": 16,
+      "intersection_before_mm3": 0.0,
+      "intersection_after_mm3": 0.0,
+      "verified_after_back_reinforcement": true
+    }
+  ]
+}

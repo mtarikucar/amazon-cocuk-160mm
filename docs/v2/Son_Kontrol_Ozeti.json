@@ -1,0 +1,12 @@
+{
+  "part_count": 18,
+  "parts_for_200_figures": 3600,
+  "height_mm": 160.0,
+  "all_parts_single_closed_positive_solids": true,
+  "all_stl_files_valid": true,
+  "all_checked_static_pairs_within_tolerance": true,
+  "static_volume_tolerance_mm3": 0.01,
+  "armour_is_separate_front_and_back": true,
+  "head_eye_stl_bytes_preserved": true,
+  "physical_print_test_completed": false
+}

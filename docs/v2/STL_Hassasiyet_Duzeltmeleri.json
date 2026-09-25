@@ -1,0 +1,32 @@
+[
+  {
+    "part": "S05",
+    "attempt": 0,
+    "coincident_groups": 170
+  },
+  {
+    "part": "S10",
+    "attempt": 0,
+    "coincident_groups": 19
+  },
+  {
+    "part": "S12",
+    "attempt": 0,
+    "coincident_groups": 9
+  },
+  {
+    "part": "S13",
+    "attempt": 0,
+    "coincident_groups": 9
+  },
+  {
+    "part": "S17",
+    "attempt": 0,
+    "coincident_groups": 7
+  },
+  {
+    "part": "S18",
+    "attempt": 0,
+    "coincident_groups": 53
+  }
+]

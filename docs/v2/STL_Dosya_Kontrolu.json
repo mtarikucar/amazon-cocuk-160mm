@@ -1,0 +1,226 @@
+{
+  "parts_checked": 18,
+  "unit": "mm",
+  "all_dimensions_match": true,
+  "all_positive_volume": true,
+  "parts_with_topology_warning": [],
+  "physical_print_test_completed": false,
+  "parts": [
+    {
+      "part": "S01",
+      "file": "STL/S01_Kaide_ve_Tas.stl",
+      "triangles": 1913380,
+      "dimensions_mm": [
+        89.16334533691406,
+        89.070556640625,
+        30.857051849365234
+      ],
+      "volume_mm3": 68428.24172942164,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S02",
+      "file": "STL/S02_Sag_Ayak.stl",
+      "triangles": 59010,
+      "dimensions_mm": [
+        22.94071388244629,
+        23.34018325805664,
+        34.328224182128906
+      ],
+      "volume_mm3": 4083.3550768555706,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S03",
+      "file": "STL/S03_Sol_Ayak.stl",
+      "triangles": 57778,
+      "dimensions_mm": [
+        25.79770278930664,
+        22.837570190429688,
+        28.279586791992188
+      ],
+      "volume_mm3": 3702.1538623502856,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S04",
+      "file": "STL/S04_Bacaklar.stl",
+      "triangles": 68952,
+      "dimensions_mm": [
+        54.65716552734375,
+        27.399993896484375,
+        38.19515609741211
+      ],
+      "volume_mm3": 16498.214788012196,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S05",
+      "file": "STL/S05_Govde_Kiyafet_Kollar.stl",
+      "triangles": 2535906,
+      "dimensions_mm": [
+        65.28404998779297,
+        36.67173385620117,
+        47.3798828125
+      ],
+      "volume_mm3": 17976.985413555085,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S06",
+      "file": "STL/S06_Sag_El.stl",
+      "triangles": 14108,
+      "dimensions_mm": [
+        10.246767044067383,
+        13.284576416015625,
+        13.905364990234375
+      ],
+      "volume_mm3": 805.8295905343866,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S07",
+      "file": "STL/S07_Sol_El.stl",
+      "triangles": 47462,
+      "dimensions_mm": [
+        20.562667846679688,
+        14.619589805603027,
+        13.040901184082031
+      ],
+      "volume_mm3": 827.139976849336,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S08",
+      "file": "STL/S08_Sal_Pelerin.stl",
+      "triangles": 367490,
+      "dimensions_mm": [
+        48.672752380371094,
+        40.21781921386719,
+        50.39603805541992
+      ],
+      "volume_mm3": 13295.515543430525,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S09",
+      "file": "STL/S09_Kafa.stl",
+      "triangles": 1473278,
+      "dimensions_mm": [
+        35.80513000488281,
+        30.925935745239258,
+        32.75128936767578
+      ],
+      "volume_mm3": 8052.116243249323,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S10",
+      "file": "STL/S10_Sac.stl",
+      "triangles": 2818010,
+      "dimensions_mm": [
+        63.85395812988281,
+        55.91191864013672,
+        70.6957015991211
+      ],
+      "volume_mm3": 23565.98696724555,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S11",
+      "file": "STL/S11_Bere.stl",
+      "triangles": 1177628,
+      "dimensions_mm": [
+        39.374183654785156,
+        39.1146240234375,
+        30.68701171875
+      ],
+      "volume_mm3": 14669.681950311504,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S12",
+      "file": "STL/S12_Kalkan.stl",
+      "triangles": 2378852,
+      "dimensions_mm": [
+        52.16030693054199,
+        28.0808162689209,
+        55.24115753173828
+      ],
+      "volume_mm3": 12699.964297729812,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S13",
+      "file": "STL/S13_Kalkan_Dis_Demiri.stl",
+      "triangles": 1010382,
+      "dimensions_mm": [
+        58.92365264892578,
+        30.728203773498535,
+        63.65828323364258
+      ],
+      "volume_mm3": 7406.364300325641,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S14",
+      "file": "STL/S14_Kalkan_Armasi.stl",
+      "triangles": 771852,
+      "dimensions_mm": [
+        33.00844764709473,
+        18.170087814331055,
+        38.87362289428711
+      ],
+      "volume_mm3": 2646.4706622927292,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S15",
+      "file": "STL/S15_Sag_Goz.stl",
+      "triangles": 13160,
+      "dimensions_mm": [
+        7.760289907455444,
+        6.328009605407715,
+        5.1357574462890625
+      ],
+      "volume_mm3": 67.75247672746401,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S16",
+      "file": "STL/S16_Sol_Goz.stl",
+      "triangles": 12848,
+      "dimensions_mm": [
+        6.241565227508545,
+        7.953093528747559,
+        4.960548400878906
+      ],
+      "volume_mm3": 50.76244146323936,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S17",
+      "file": "STL/S17_Zirh_On.stl",
+      "triangles": 1014506,
+      "dimensions_mm": [
+        36.41026306152344,
+        16.806342124938965,
+        39.96820068359375
+      ],
+      "volume_mm3": 5248.2212671175575,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    },
+    {
+      "part": "S18",
+      "file": "STL/S18_Zirh_Arka.stl",
+      "triangles": 899488,
+      "dimensions_mm": [
+        35.915828704833984,
+        16.21467399597168,
+        32.60539245605469
+      ],
+      "volume_mm3": 3931.994472255507,
+      "open_or_nonmanifold_edges_after_stl_weld": 0
+    }
+  ]
+}

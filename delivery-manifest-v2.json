@@ -1,0 +1,217 @@
+{
+  "release_tag": "v2.0.0",
+  "asset": "Amazon_Cocuk_160mm_18_Parca_Tam_Set.zip",
+  "size_bytes": 1248269730,
+  "sha256": "d38c5b1e773c15450e0ccd61df20b2ae43372da12089ca87cba744ad8c2caeb3",
+  "download_url": "https://github.com/mtarikucar/amazon-cocuk-160mm/releases/download/v2.0.0/Amazon_Cocuk_160mm_18_Parca_Tam_Set.zip",
+  "files": [
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/18_Parca_Katalog.png",
+      "bytes": 4016568
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Amazon_Cocuk_160mm_18_Parca.blend",
+      "bytes": 499774857
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Amazon_Cocuk_160mm_Montaj.3mf",
+      "bytes": 287619025
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Arka_Zirh_Baglanti_Duzeltmesi.json",
+      "bytes": 621
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Bere_Decal_Yuzeyi.png",
+      "bytes": 1485132
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/CAD_Geometri_Kontrolu.json",
+      "bytes": 2667
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/gecme_testi.blend",
+      "bytes": 379628
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/gecme_testi_onizleme.png",
+      "bytes": 1436665
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/geometri_kontrolu.json",
+      "bytes": 1125
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/KULLANIM.md",
+      "bytes": 1888
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/PIM_D2mm_L4mm.stl",
+      "bytes": 124784
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/PIM_D4mm_L4mm.stl",
+      "bytes": 118484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/PIM_D6mm_L4mm.stl",
+      "bytes": 127584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Gecme_Testi/TEST_PLAKA_74x43x6mm.stl",
+      "bytes": 669184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Goz_Gecme_Olculeri.json",
+      "bytes": 1107
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Goz_Tak_Cikar_Kontrolu.json",
+      "bytes": 2602
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Kol_Decal_Yuzeyi.png",
+      "bytes": 1830629
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Montaj_Baglanti_Kontrolu.json",
+      "bytes": 181
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Montaj_Cakisma_Kontrolu.json",
+      "bytes": 9892
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Montaj_Onizleme.png",
+      "bytes": 2609804
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/ONCE_OKU_Montaj_ve_Uretim.md",
+      "bytes": 4229
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Parca_Listesi.md",
+      "bytes": 1492
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Parca_Listesi_ve_Olculer.json",
+      "bytes": 13059
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Pim_Cevresi_Malzeme_Kontrolu.json",
+      "bytes": 3770
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Pim_Yuva_Baglantilari.json",
+      "bytes": 12551
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Referans_Gorsel.jpeg",
+      "bytes": 151499
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Son_Kontrol_Ozeti.json",
+      "bytes": 389
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S01_Kaide_ve_Tas.stl",
+      "bytes": 95669084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S02_Sag_Ayak.stl",
+      "bytes": 2950584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S03_Sol_Ayak.stl",
+      "bytes": 2888984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S04_Bacaklar.stl",
+      "bytes": 3447684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S05_Govde_Kiyafet_Kollar.stl",
+      "bytes": 126795384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S06_Sag_El.stl",
+      "bytes": 705484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S07_Sol_El.stl",
+      "bytes": 2373184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S08_Sal_Pelerin.stl",
+      "bytes": 18374584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S09_Kafa.stl",
+      "bytes": 73663984
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S10_Sac.stl",
+      "bytes": 140900584
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S11_Bere.stl",
+      "bytes": 58881484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S12_Kalkan.stl",
+      "bytes": 118942684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S13_Kalkan_Dis_Demiri.stl",
+      "bytes": 50519184
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S14_Kalkan_Armasi.stl",
+      "bytes": 38592684
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S15_Sag_Goz.stl",
+      "bytes": 658084
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S16_Sol_Goz.stl",
+      "bytes": 642484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S17_Zirh_On.stl",
+      "bytes": 50725384
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL/S18_Zirh_Arka.stl",
+      "bytes": 44974484
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL_Dosya_Kontrolu.json",
+      "bytes": 5925
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/STL_Hassasiyet_Duzeltmeleri.json",
+      "bytes": 475
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Yuz_Koruma_Kontrolu.json",
+      "bytes": 242
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Yuz_Yakin_Plan.png",
+      "bytes": 2191035
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Yuzey_Duzeltmeleri.json",
+      "bytes": 9033
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Zirh_Govde_Ayri.png",
+      "bytes": 1957649
+    },
+    {
+      "path": "Amazon_Cocuk_160mm_18_Parca/Zirh_Takma_Kontrolu.json",
+      "bytes": 2989
+    }
+  ]
+}

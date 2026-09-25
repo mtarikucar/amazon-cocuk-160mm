@@ -1,0 +1,390 @@
+{
+  "numeric_tolerance_mm3": 0.01,
+  "checks": [
+    {
+      "a": "S01_Kaide_ve_Tas",
+      "b": "S02_Sag_Ayak",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S01_Kaide_ve_Tas",
+      "b": "S03_Sol_Ayak",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S02_Sag_Ayak",
+      "b": "S04_Bacaklar",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S03_Sol_Ayak",
+      "b": "S04_Bacaklar",
+      "intersection_mm3": 1.5407439555097887e-33
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S05_Govde_Kiyafet_Kollar",
+      "intersection_mm3": 0.005141459087858129
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S06_Sag_El",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S07_Sol_El",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S08_Sal_Pelerin",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 2.860522260580052e-06
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S06_Sag_El",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S07_Sol_El",
+      "intersection_mm3": 0.00028218122950957275
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S08_Sal_Pelerin",
+      "intersection_mm3": 0.00038349473732280043,
+      "local_contact_relief": true
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S10_Sac",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.00011678590745624505,
+      "requires_review": false,
+      "reinforcement_verified": true
+    },
+    {
+      "a": "S06_Sag_El",
+      "b": "S10_Sac",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S08_Sal_Pelerin",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S10_Sac",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S09_Kafa",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S10_Sac",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0011292120663257271
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.00020204462743329647,
+      "requires_review": false,
+      "reinforcement_verified": true
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S10_Sac",
+      "intersection_mm3": 6.162460732812619e-06
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S11_Bere",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S15_Sag_Goz",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S16_Sol_Goz",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S11_Bere",
+      "intersection_mm3": 0.007316684822722465
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S15_Sag_Goz",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S16_Sol_Goz",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test",
+      "requires_review": false,
+      "reinforcement_verified": true
+    },
+    {
+      "a": "S14_Kalkan_Armasi",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S14_Kalkan_Armasi",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S17_Zirh_On",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test",
+      "requires_review": false,
+      "reinforcement_verified": true
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S12_Kalkan",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S04_Bacaklar",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S12_Kalkan",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S05_Govde_Kiyafet_Kollar",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S12_Kalkan",
+      "intersection_mm3": 0.000969857155874143,
+      "requires_review": false,
+      "local_contact_relief": true
+    },
+    {
+      "a": "S07_Sol_El",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0,
+      "requires_review": false,
+      "local_contact_relief": true
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S12_Kalkan",
+      "intersection_mm3": 0.005277860623237702
+    },
+    {
+      "a": "S08_Sal_Pelerin",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0024760592163203528
+    },
+    {
+      "a": "S09_Kafa",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S12_Kalkan",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S10_Sac",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S12_Kalkan",
+      "b": "S13_Kalkan_Dis_Demiri",
+      "intersection_mm3": 0.0004193594138212178,
+      "requires_review": false,
+      "local_contact_relief": true,
+      "new_connector_verified": true
+    },
+    {
+      "a": "S12_Kalkan",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 3.109646863989438e-07
+    },
+    {
+      "a": "S12_Kalkan",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S12_Kalkan",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S13_Kalkan_Dis_Demiri",
+      "b": "S14_Kalkan_Armasi",
+      "intersection_mm3": 0.0
+    },
+    {
+      "a": "S13_Kalkan_Dis_Demiri",
+      "b": "S17_Zirh_On",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    },
+    {
+      "a": "S13_Kalkan_Dis_Demiri",
+      "b": "S18_Zirh_Arka",
+      "intersection_mm3": 0.0,
+      "method": "closed_boundary_BVH_and_containment_test"
+    }
+  ],
+  "fixes": [
+    {
+      "part": "S05_Govde_Kiyafet_Kollar",
+      "against": "S08_Sal_Pelerin",
+      "before_mm3": 246.80744083814903,
+      "after_mm3": 0.2238860259214871,
+      "extra_clearance_mm": 0.04
+    },
+    {
+      "part": "S14_Kalkan_Armasi",
+      "against": "S07_Sol_El",
+      "before_mm3": 3.7830042397451953,
+      "after_mm3": 0.0,
+      "extra_clearance_mm": 0.04
+    },
+    {
+      "part": "S18_Zirh_Arka",
+      "against": "S08_Sal_Pelerin",
+      "before_mm3": 12.570206737456482,
+      "after_mm3": 0.00020204463200644573,
+      "extra_clearance_mm": 0.04
+    },
+    {
+      "part": "S10_Sac",
+      "against": "S09_Kafa",
+      "before_mm3": 2.0062992572947858,
+      "after_mm3": 6.162460732812619e-06,
+      "extra_clearance_mm": 0.04
+    },
+    {
+      "part": "S11_Bere",
+      "against": "S10_Sac",
+      "before_mm3": 6.259358932967784,
+      "after_mm3": 0.007316684822722465,
+      "extra_clearance_mm": 0.04
+    },
+    {
+      "part": "S13_Kalkan_Dis_Demiri",
+      "against": "S08_Sal_Pelerin",
+      "before_mm3": 12.620720521132725,
+      "after_mm3": 0.0024760592163203528,
+      "extra_clearance_mm": 0.04
+    }
+  ]
+}
